@@ -1,0 +1,2501 @@
+﻿customer_id,country,age_group,segment,annual_income_eur,risk_score,acquisition_channel,join_date,digital_active
+C00001,France,45-54,Senior,66500,670,Paid Search,2025-08-13,1
+C00002,Netherlands,35-44,Young Professional,46100,665,Organic Web,2025-01-23,1
+C00003,France,45-54,Young Professional,56100,703,Organic Web,2021-01-16,0
+C00004,Belgium,65+,Young Professional,37700,627,Referral,2019-07-18,1
+C00005,Luxembourg,55-64,Affluent,77300,750,Branch,2024-12-26,1
+C00006,Netherlands,45-54,Mass Market,53600,661,Paid Search,2020-06-12,1
+C00007,Belgium,18-24,Mass Market,28600,687,Referral,2019-02-05,1
+C00008,Belgium,25-34,Young Professional,41800,601,Organic Web,2023-04-25,1
+C00009,Luxembourg,45-54,Senior,52600,708,Branch,2021-01-04,1
+C00010,Netherlands,25-34,Family,40300,799,Organic Web,2026-06-06,0
+C00011,Belgium,45-54,Mass Market,79800,697,Branch,2024-01-26,1
+C00012,France,45-54,Family,45600,683,Branch,2022-02-20,0
+C00013,Germany,45-54,Family,66000,685,Referral,2022-12-14,1
+C00014,Luxembourg,25-34,Affluent,72600,663,Referral,2020-02-02,1
+C00015,Netherlands,18-24,Affluent,44200,659,Referral,2022-03-28,1
+C00016,Germany,45-54,Mass Market,77700,754,Organic Web,2023-07-02,1
+C00017,Belgium,35-44,Mass Market,56200,641,Organic Web,2021-04-21,1
+C00018,Belgium,65+,Affluent,77100,646,Branch,2023-01-20,1
+C00019,Netherlands,45-54,Mass Market,63700,786,Partner,2019-10-13,1
+C00020,Netherlands,25-34,Young Professional,40500,655,Referral,2021-03-05,0
+C00021,Belgium,55-64,Young Professional,46100,627,Referral,2024-08-11,0
+C00022,France,45-54,Family,60800,675,Paid Search,2020-03-21,0
+C00023,Netherlands,25-34,Mass Market,50700,665,Referral,2020-01-19,0
+C00024,Germany,35-44,Mass Market,60600,735,Paid Search,2026-02-22,1
+C00025,Germany,35-44,Senior,59200,704,Paid Search,2025-10-23,1
+C00026,Belgium,35-44,Affluent,141100,715,Paid Search,2021-07-24,1
+C00027,Netherlands,55-64,Affluent,115000,707,Branch,2022-04-10,0
+C00028,Germany,25-34,Affluent,63000,759,Paid Search,2020-07-02,0
+C00029,Netherlands,25-34,Mass Market,40200,693,Referral,2019-02-21,1
+C00030,France,25-34,Senior,43900,708,Referral,2025-12-14,1
+C00031,France,45-54,Affluent,75000,674,Paid Search,2023-06-26,0
+C00032,Belgium,45-54,Young Professional,53000,705,Paid Search,2023-02-17,1
+C00033,Belgium,35-44,Family,62200,563,Organic Web,2021-07-17,1
+C00034,Belgium,35-44,Family,59200,803,Organic Web,2021-09-18,0
+C00035,Belgium,45-54,Family,65000,643,Referral,2021-02-02,0
+C00036,Belgium,35-44,Family,52600,678,Organic Web,2020-02-27,1
+C00037,Netherlands,55-64,Young Professional,62400,652,Organic Web,2022-05-31,1
+C00038,France,25-34,Family,37300,571,Referral,2023-11-09,1
+C00039,Germany,25-34,Family,43200,711,Partner,2019-10-30,1
+C00040,Netherlands,65+,Family,42200,733,Referral,2019-03-18,1
+C00041,Netherlands,55-64,Mass Market,61600,662,Organic Web,2021-03-31,0
+C00042,Netherlands,55-64,Family,47200,740,Paid Search,2025-08-25,0
+C00043,Belgium,35-44,Family,65500,770,Paid Search,2019-06-23,1
+C00044,Netherlands,55-64,Family,32200,451,Organic Web,2025-09-01,0
+C00045,Netherlands,35-44,Family,55000,683,Paid Search,2024-12-21,1
+C00046,Germany,18-24,Senior,21400,767,Referral,2021-04-23,1
+C00047,Belgium,25-34,Mass Market,38000,672,Referral,2021-12-28,1
+C00048,France,18-24,Family,37400,577,Referral,2020-07-26,1
+C00049,Belgium,25-34,Affluent,85400,734,Paid Search,2021-12-14,1
+C00050,Germany,45-54,Young Professional,59400,820,Referral,2025-11-18,1
+C00051,Belgium,25-34,Mass Market,52100,687,Paid Search,2025-04-16,1
+C00052,Belgium,65+,Mass Market,50300,614,Paid Search,2019-12-28,0
+C00053,Germany,35-44,Family,38800,577,Referral,2020-04-25,1
+C00054,Netherlands,18-24,Senior,25300,757,Branch,2026-03-21,1
+C00055,Belgium,35-44,Mass Market,58000,769,Paid Search,2019-04-29,1
+C00056,Belgium,35-44,Family,52600,650,Paid Search,2023-11-30,1
+C00057,Germany,65+,Affluent,75400,613,Partner,2020-06-30,1
+C00058,Luxembourg,65+,Family,51200,756,Referral,2022-04-09,0
+C00059,Germany,35-44,Family,65100,660,Paid Search,2026-06-01,1
+C00060,France,35-44,Family,45500,587,Organic Web,2023-02-09,0
+C00061,Belgium,45-54,Affluent,86300,705,Referral,2019-02-28,1
+C00062,Netherlands,55-64,Senior,37600,649,Organic Web,2021-06-29,0
+C00063,Netherlands,45-54,Mass Market,63300,637,Paid Search,2021-09-22,0
+C00064,Belgium,35-44,Mass Market,64000,600,Paid Search,2025-08-28,1
+C00065,Belgium,65+,Mass Market,41500,661,Organic Web,2020-05-27,1
+C00066,Belgium,35-44,Mass Market,51800,747,Paid Search,2023-02-17,1
+C00067,Germany,25-34,Mass Market,46800,603,Referral,2025-09-06,1
+C00068,Netherlands,25-34,Senior,38000,627,Organic Web,2024-04-09,1
+C00069,Germany,25-34,Mass Market,31300,644,Referral,2022-12-27,1
+C00070,Netherlands,35-44,Senior,41200,672,Referral,2022-10-22,0
+C00071,Luxembourg,65+,Mass Market,32600,606,Branch,2019-04-21,0
+C00072,Netherlands,18-24,Affluent,66100,731,Paid Search,2026-04-14,1
+C00073,Luxembourg,25-34,Mass Market,48600,622,Organic Web,2024-01-20,0
+C00074,Belgium,25-34,Senior,52200,602,Paid Search,2022-08-19,1
+C00075,Belgium,35-44,Mass Market,29000,748,Paid Search,2019-01-29,1
+C00076,Belgium,35-44,Mass Market,55300,603,Partner,2021-02-09,0
+C00077,Germany,65+,Family,42700,716,Referral,2025-11-27,1
+C00078,France,35-44,Senior,72900,735,Referral,2026-01-13,1
+C00079,Germany,45-54,Affluent,137000,733,Referral,2022-10-16,0
+C00080,Belgium,18-24,Mass Market,22600,643,Referral,2019-10-18,1
+C00081,Belgium,45-54,Family,42600,690,Branch,2026-06-27,0
+C00082,France,35-44,Mass Market,39500,685,Partner,2022-12-31,1
+C00083,Belgium,55-64,Mass Market,81700,777,Branch,2022-07-07,1
+C00084,France,45-54,Senior,77500,620,Partner,2021-12-14,1
+C00085,France,25-34,Affluent,43800,612,Referral,2023-06-22,1
+C00086,France,45-54,Young Professional,36100,571,Organic Web,2022-07-18,1
+C00087,Belgium,25-34,Mass Market,40000,766,Branch,2025-05-31,1
+C00088,Netherlands,35-44,Mass Market,56800,728,Partner,2025-02-11,1
+C00089,Germany,55-64,Family,53600,642,Branch,2022-05-25,1
+C00090,France,25-34,Senior,27000,696,Partner,2023-06-30,1
+C00091,Netherlands,55-64,Affluent,42400,670,Branch,2021-07-24,1
+C00092,Belgium,35-44,Mass Market,46100,678,Branch,2026-01-14,1
+C00093,Belgium,25-34,Mass Market,46900,674,Paid Search,2021-08-22,1
+C00094,Netherlands,18-24,Mass Market,31200,805,Branch,2023-04-04,1
+C00095,France,25-34,Affluent,71000,589,Referral,2021-12-28,1
+C00096,Luxembourg,25-34,Affluent,59000,581,Referral,2019-11-25,1
+C00097,Germany,25-34,Family,53500,626,Organic Web,2022-12-04,0
+C00098,Belgium,25-34,Mass Market,32400,645,Referral,2025-02-23,1
+C00099,Belgium,25-34,Family,30800,646,Partner,2019-11-14,0
+C00100,Belgium,25-34,Young Professional,57200,665,Paid Search,2023-10-11,0
+C00101,Netherlands,35-44,Young Professional,63500,693,Organic Web,2023-01-16,1
+C00102,Belgium,45-54,Family,77700,748,Organic Web,2020-05-16,1
+C00103,France,55-64,Mass Market,62400,803,Organic Web,2020-09-01,1
+C00104,Belgium,35-44,Family,62100,770,Organic Web,2024-12-22,1
+C00105,Belgium,25-34,Mass Market,50500,794,Partner,2023-12-28,1
+C00106,Netherlands,55-64,Mass Market,65000,670,Organic Web,2025-09-13,1
+C00107,France,45-54,Young Professional,40200,545,Paid Search,2019-01-07,0
+C00108,France,25-34,Mass Market,43100,761,Referral,2022-04-14,1
+C00109,Belgium,25-34,Mass Market,46500,722,Organic Web,2024-07-03,1
+C00110,France,35-44,Family,42500,691,Partner,2024-03-27,1
+C00111,Belgium,25-34,Mass Market,47700,639,Paid Search,2021-10-16,1
+C00112,Germany,35-44,Family,43800,623,Partner,2022-04-13,1
+C00113,Germany,65+,Family,44200,763,Referral,2022-06-19,1
+C00114,Belgium,55-64,Mass Market,56100,665,Branch,2025-06-21,1
+C00115,Belgium,25-34,Mass Market,43300,664,Referral,2024-10-12,1
+C00116,Belgium,35-44,Family,62500,674,Organic Web,2022-12-05,1
+C00117,Belgium,45-54,Mass Market,47100,680,Organic Web,2020-03-08,0
+C00118,Belgium,55-64,Young Professional,48600,765,Branch,2020-06-05,1
+C00119,Germany,55-64,Mass Market,58900,687,Organic Web,2019-01-11,0
+C00120,Belgium,45-54,Family,54000,657,Partner,2019-06-23,0
+C00121,Germany,18-24,Young Professional,28100,773,Organic Web,2020-06-21,1
+C00122,Germany,35-44,Young Professional,49500,700,Referral,2021-02-10,1
+C00123,France,55-64,Mass Market,58000,714,Branch,2022-10-11,0
+C00124,Netherlands,25-34,Young Professional,45900,745,Referral,2019-04-29,1
+C00125,Belgium,45-54,Young Professional,61700,678,Branch,2023-05-24,1
+C00126,France,25-34,Young Professional,38800,815,Branch,2025-08-21,0
+C00127,Belgium,45-54,Affluent,130500,663,Organic Web,2021-06-08,0
+C00128,Belgium,65+,Affluent,66600,765,Referral,2026-05-14,0
+C00129,Belgium,55-64,Family,70600,497,Referral,2024-07-15,1
+C00130,Belgium,25-34,Mass Market,50800,598,Organic Web,2025-05-13,1
+C00131,Luxembourg,25-34,Affluent,76400,707,Organic Web,2023-12-30,1
+C00132,France,45-54,Young Professional,97700,814,Branch,2019-03-18,1
+C00133,Germany,18-24,Affluent,46000,592,Organic Web,2023-11-09,1
+C00134,France,65+,Affluent,95700,789,Paid Search,2025-10-29,1
+C00135,Germany,25-34,Family,36500,670,Organic Web,2025-10-10,1
+C00136,Netherlands,25-34,Young Professional,55600,598,Paid Search,2019-08-13,1
+C00137,Belgium,25-34,Mass Market,51600,782,Partner,2025-03-15,0
+C00138,France,25-34,Mass Market,36400,573,Paid Search,2025-12-12,1
+C00139,France,18-24,Mass Market,16700,757,Referral,2024-02-13,1
+C00140,Belgium,35-44,Mass Market,70900,658,Referral,2019-05-13,1
+C00141,Luxembourg,25-34,Senior,40000,772,Organic Web,2020-12-06,1
+C00142,Netherlands,35-44,Mass Market,51600,716,Partner,2019-11-29,1
+C00143,Germany,18-24,Senior,29000,771,Branch,2019-10-03,1
+C00144,France,45-54,Mass Market,68100,744,Branch,2024-02-13,0
+C00145,France,65+,Family,29700,589,Organic Web,2019-04-29,1
+C00146,Belgium,35-44,Affluent,108200,706,Branch,2020-04-20,0
+C00147,Netherlands,35-44,Family,64100,699,Paid Search,2019-05-28,1
+C00148,Netherlands,25-34,Young Professional,45100,557,Branch,2024-01-11,1
+C00149,France,35-44,Mass Market,53200,733,Paid Search,2023-02-08,1
+C00150,Germany,25-34,Affluent,87400,624,Branch,2023-06-21,1
+C00151,Belgium,35-44,Senior,64200,764,Referral,2020-12-13,1
+C00152,Germany,45-54,Family,58000,632,Partner,2026-07-10,1
+C00153,Germany,35-44,Affluent,87200,739,Organic Web,2026-07-05,1
+C00154,Netherlands,45-54,Young Professional,64400,774,Organic Web,2022-09-25,1
+C00155,Belgium,35-44,Young Professional,62200,644,Organic Web,2020-08-06,1
+C00156,France,55-64,Affluent,95600,745,Paid Search,2020-12-01,1
+C00157,Belgium,35-44,Family,43900,645,Referral,2025-09-09,1
+C00158,Germany,18-24,Mass Market,29500,724,Organic Web,2025-12-02,1
+C00159,Belgium,45-54,Mass Market,81600,694,Organic Web,2023-06-30,1
+C00160,Netherlands,25-34,Family,49200,836,Organic Web,2021-02-05,1
+C00161,Belgium,45-54,Affluent,80800,817,Branch,2023-05-12,0
+C00162,France,25-34,Family,60200,773,Branch,2019-09-22,1
+C00163,Germany,25-34,Mass Market,33000,598,Organic Web,2022-05-07,0
+C00164,Netherlands,25-34,Family,48400,676,Paid Search,2021-10-20,1
+C00165,France,45-54,Senior,49000,680,Paid Search,2025-09-08,1
+C00166,Belgium,45-54,Young Professional,69300,653,Organic Web,2024-01-13,0
+C00167,Netherlands,35-44,Mass Market,71900,656,Branch,2025-01-31,1
+C00168,Belgium,25-34,Family,32400,695,Organic Web,2020-12-08,0
+C00169,France,65+,Affluent,79800,741,Paid Search,2019-12-27,1
+C00170,Germany,45-54,Young Professional,78600,763,Organic Web,2023-11-02,0
+C00171,Germany,25-34,Senior,30100,687,Referral,2023-05-01,1
+C00172,France,25-34,Family,48300,560,Branch,2026-02-27,1
+C00173,Belgium,45-54,Family,61200,649,Branch,2023-03-23,0
+C00174,Belgium,35-44,Family,51000,655,Partner,2024-07-03,1
+C00175,France,65+,Family,32700,681,Partner,2022-06-30,0
+C00176,France,25-34,Senior,45100,807,Branch,2020-05-28,1
+C00177,Germany,25-34,Young Professional,45400,622,Branch,2024-12-16,0
+C00178,Germany,55-64,Young Professional,45000,613,Partner,2024-05-19,1
+C00179,Belgium,35-44,Young Professional,60500,649,Partner,2020-02-13,0
+C00180,Netherlands,35-44,Family,63000,726,Organic Web,2024-07-02,1
+C00181,Germany,18-24,Young Professional,33700,673,Referral,2020-08-02,1
+C00182,Netherlands,45-54,Mass Market,48700,735,Referral,2026-01-17,0
+C00183,Belgium,18-24,Mass Market,32800,638,Paid Search,2022-03-16,1
+C00184,Netherlands,25-34,Family,32200,620,Organic Web,2024-09-23,1
+C00185,Belgium,35-44,Young Professional,57600,710,Branch,2022-05-29,1
+C00186,Belgium,45-54,Young Professional,52200,748,Paid Search,2023-06-10,0
+C00187,Luxembourg,35-44,Young Professional,47200,698,Referral,2021-11-06,1
+C00188,Netherlands,55-64,Mass Market,51800,665,Organic Web,2022-10-22,0
+C00189,Luxembourg,55-64,Mass Market,48900,713,Referral,2019-02-19,1
+C00190,Belgium,25-34,Affluent,95900,761,Organic Web,2022-09-16,1
+C00191,Belgium,45-54,Mass Market,56400,846,Partner,2022-04-25,0
+C00192,Netherlands,55-64,Young Professional,73400,715,Paid Search,2022-11-26,1
+C00193,Belgium,35-44,Mass Market,41500,679,Paid Search,2020-12-06,0
+C00194,Belgium,65+,Mass Market,40500,636,Organic Web,2022-01-03,0
+C00195,Belgium,35-44,Family,50500,681,Organic Web,2021-03-04,1
+C00196,Netherlands,35-44,Family,68100,693,Referral,2019-01-15,1
+C00197,France,35-44,Mass Market,37900,658,Organic Web,2022-09-14,1
+C00198,Netherlands,25-34,Family,49400,671,Branch,2023-08-20,1
+C00199,France,35-44,Senior,59800,654,Organic Web,2021-10-09,1
+C00200,Luxembourg,35-44,Mass Market,48300,697,Organic Web,2023-09-12,1
+C00201,Belgium,35-44,Senior,80500,629,Organic Web,2024-06-09,1
+C00202,Luxembourg,18-24,Senior,24200,649,Organic Web,2020-08-13,1
+C00203,Germany,25-34,Family,46500,597,Paid Search,2023-11-10,0
+C00204,Netherlands,65+,Young Professional,37500,741,Organic Web,2021-12-19,1
+C00205,Luxembourg,25-34,Family,53600,623,Paid Search,2020-04-12,1
+C00206,Germany,25-34,Senior,55700,587,Organic Web,2020-08-05,0
+C00207,Germany,45-54,Family,66200,625,Organic Web,2024-10-01,0
+C00208,Belgium,45-54,Young Professional,42100,734,Organic Web,2021-04-15,1
+C00209,Belgium,65+,Mass Market,48400,738,Branch,2019-06-02,0
+C00210,Netherlands,35-44,Family,29900,695,Organic Web,2020-11-23,1
+C00211,Netherlands,25-34,Family,45400,671,Organic Web,2021-04-22,1
+C00212,Netherlands,65+,Young Professional,48400,619,Partner,2019-11-17,0
+C00213,Germany,25-34,Senior,54900,685,Referral,2023-09-22,1
+C00214,Belgium,25-34,Mass Market,29500,558,Organic Web,2021-06-21,1
+C00215,Netherlands,25-34,Young Professional,45100,751,Organic Web,2021-08-24,1
+C00216,Belgium,45-54,Mass Market,46600,582,Paid Search,2025-05-14,1
+C00217,Belgium,55-64,Young Professional,59100,612,Paid Search,2024-06-22,1
+C00218,Netherlands,35-44,Mass Market,71400,826,Organic Web,2025-07-05,0
+C00219,Belgium,65+,Mass Market,41800,745,Referral,2021-02-10,1
+C00220,Netherlands,35-44,Mass Market,38300,686,Partner,2024-04-17,1
+C00221,Belgium,65+,Mass Market,36900,643,Organic Web,2023-06-03,1
+C00222,Belgium,45-54,Family,80500,697,Paid Search,2022-12-04,1
+C00223,Belgium,35-44,Young Professional,64900,743,Branch,2019-09-07,1
+C00224,Netherlands,45-54,Affluent,140900,716,Branch,2025-09-09,1
+C00225,France,25-34,Mass Market,46600,548,Referral,2024-05-03,1
+C00226,Belgium,55-64,Affluent,141200,796,Branch,2025-04-21,0
+C00227,Germany,25-34,Senior,45200,613,Referral,2022-11-21,1
+C00228,France,45-54,Affluent,115300,795,Partner,2022-11-04,1
+C00229,Germany,55-64,Family,52700,624,Organic Web,2023-07-31,1
+C00230,Belgium,55-64,Affluent,108400,817,Organic Web,2025-09-04,1
+C00231,Netherlands,35-44,Family,44500,636,Referral,2021-02-12,1
+C00232,Germany,25-34,Family,39100,740,Branch,2022-06-06,1
+C00233,France,18-24,Affluent,26300,748,Organic Web,2020-08-30,1
+C00234,Netherlands,35-44,Affluent,113000,742,Paid Search,2020-07-19,1
+C00235,France,35-44,Affluent,98800,725,Branch,2025-02-13,1
+C00236,Belgium,25-34,Family,42100,616,Referral,2020-12-26,1
+C00237,Luxembourg,35-44,Young Professional,53800,631,Referral,2025-05-16,1
+C00238,Belgium,18-24,Family,31500,693,Organic Web,2025-12-12,1
+C00239,Belgium,25-34,Family,49500,730,Organic Web,2025-10-08,1
+C00240,France,25-34,Mass Market,38900,777,Organic Web,2019-01-21,0
+C00241,France,35-44,Mass Market,49300,652,Paid Search,2019-12-11,1
+C00242,Belgium,18-24,Young Professional,27100,630,Branch,2020-07-14,1
+C00243,Netherlands,25-34,Mass Market,34100,689,Partner,2023-04-11,1
+C00244,Germany,55-64,Family,80400,673,Referral,2021-10-23,0
+C00245,France,45-54,Family,68600,569,Referral,2022-09-22,0
+C00246,Belgium,25-34,Mass Market,28600,690,Organic Web,2025-06-21,0
+C00247,France,25-34,Mass Market,26700,604,Organic Web,2023-12-31,1
+C00248,Germany,25-34,Mass Market,45500,714,Organic Web,2020-01-26,1
+C00249,Netherlands,45-54,Family,47100,636,Organic Web,2019-07-28,0
+C00250,Luxembourg,65+,Mass Market,22200,586,Branch,2023-05-27,1
+C00251,Luxembourg,65+,Senior,29500,785,Partner,2024-09-05,0
+C00252,Netherlands,35-44,Family,57300,649,Branch,2021-02-04,1
+C00253,Netherlands,35-44,Mass Market,57100,850,Branch,2024-02-19,1
+C00254,France,45-54,Family,37600,623,Referral,2022-08-17,0
+C00255,Netherlands,45-54,Young Professional,70200,697,Paid Search,2020-09-13,1
+C00256,Netherlands,25-34,Mass Market,40300,704,Partner,2021-11-13,1
+C00257,Belgium,45-54,Mass Market,53800,765,Organic Web,2025-09-18,1
+C00258,Belgium,18-24,Senior,21100,555,Paid Search,2023-09-06,1
+C00259,Netherlands,35-44,Mass Market,72400,713,Paid Search,2020-11-20,1
+C00260,France,25-34,Mass Market,45100,760,Referral,2024-12-30,1
+C00261,France,35-44,Affluent,112300,815,Referral,2024-05-14,1
+C00262,Belgium,25-34,Mass Market,46400,555,Referral,2021-11-11,0
+C00263,Germany,45-54,Family,39300,787,Organic Web,2020-01-07,1
+C00264,France,25-34,Family,33700,674,Partner,2019-07-30,1
+C00265,Belgium,45-54,Senior,75200,820,Organic Web,2026-07-12,1
+C00266,Netherlands,35-44,Affluent,101600,722,Partner,2019-06-22,1
+C00267,France,18-24,Mass Market,16000,642,Organic Web,2020-03-13,1
+C00268,Netherlands,25-34,Affluent,50100,729,Paid Search,2022-09-13,1
+C00269,Germany,25-34,Mass Market,48800,789,Referral,2021-05-30,1
+C00270,France,35-44,Senior,49700,701,Partner,2021-01-10,1
+C00271,France,25-34,Mass Market,40900,649,Organic Web,2022-04-04,1
+C00272,Germany,35-44,Mass Market,51300,706,Organic Web,2019-02-13,1
+C00273,Netherlands,35-44,Mass Market,29000,720,Referral,2020-06-03,0
+C00274,Netherlands,55-64,Young Professional,56700,769,Branch,2023-11-04,0
+C00275,Belgium,45-54,Mass Market,56000,626,Partner,2023-08-29,1
+C00276,Belgium,25-34,Mass Market,58700,628,Partner,2020-07-30,1
+C00277,Belgium,45-54,Senior,49400,682,Referral,2021-04-27,0
+C00278,France,45-54,Affluent,51200,685,Branch,2019-07-16,0
+C00279,Belgium,35-44,Mass Market,54900,618,Partner,2025-06-28,1
+C00280,Belgium,55-64,Young Professional,29700,578,Paid Search,2021-11-04,0
+C00281,Belgium,35-44,Mass Market,60300,706,Referral,2019-02-24,1
+C00282,Belgium,35-44,Young Professional,57300,660,Branch,2020-12-31,0
+C00283,Luxembourg,35-44,Mass Market,41700,724,Referral,2020-01-20,1
+C00284,Belgium,35-44,Mass Market,58100,728,Referral,2020-08-20,1
+C00285,France,25-34,Mass Market,47500,683,Paid Search,2025-03-02,1
+C00286,France,55-64,Young Professional,69400,835,Partner,2019-03-27,1
+C00287,Germany,25-34,Mass Market,52500,793,Branch,2026-04-24,1
+C00288,Netherlands,25-34,Affluent,77600,665,Organic Web,2024-06-11,1
+C00289,Belgium,25-34,Mass Market,54200,742,Referral,2020-12-30,0
+C00290,Netherlands,25-34,Mass Market,56200,697,Organic Web,2019-07-31,1
+C00291,Germany,65+,Mass Market,28100,757,Branch,2020-01-05,1
+C00292,Belgium,35-44,Senior,51400,603,Referral,2023-11-13,1
+C00293,Germany,35-44,Mass Market,51500,745,Referral,2025-11-17,1
+C00294,Belgium,25-34,Mass Market,28300,701,Organic Web,2019-03-31,1
+C00295,Belgium,45-54,Mass Market,92000,748,Paid Search,2021-02-13,1
+C00296,Germany,45-54,Mass Market,44600,578,Organic Web,2025-07-20,1
+C00297,France,55-64,Mass Market,54800,719,Partner,2021-06-14,0
+C00298,France,35-44,Mass Market,69000,684,Partner,2021-05-27,1
+C00299,Belgium,25-34,Mass Market,37100,602,Partner,2025-08-20,1
+C00300,Belgium,25-34,Young Professional,42900,627,Organic Web,2022-07-01,1
+C00301,Belgium,55-64,Family,60000,845,Organic Web,2023-04-28,0
+C00302,France,18-24,Affluent,41500,747,Branch,2019-10-21,1
+C00303,Luxembourg,18-24,Family,22400,668,Referral,2021-07-04,1
+C00304,Belgium,45-54,Young Professional,70100,680,Paid Search,2019-07-23,0
+C00305,Germany,45-54,Young Professional,55100,718,Organic Web,2020-02-01,1
+C00306,Belgium,25-34,Affluent,45600,685,Paid Search,2024-08-24,1
+C00307,Germany,55-64,Mass Market,53900,715,Partner,2022-12-27,1
+C00308,Belgium,45-54,Young Professional,57900,732,Organic Web,2023-05-07,1
+C00309,Germany,45-54,Senior,27400,633,Organic Web,2025-08-09,1
+C00310,Belgium,35-44,Young Professional,43300,601,Paid Search,2020-09-30,0
+C00311,Belgium,45-54,Young Professional,78800,821,Organic Web,2020-06-28,0
+C00312,Belgium,65+,Mass Market,36500,567,Referral,2024-11-27,1
+C00313,Belgium,18-24,Family,23000,616,Referral,2022-02-10,1
+C00314,Belgium,45-54,Mass Market,32500,693,Paid Search,2020-06-15,0
+C00315,France,35-44,Senior,47000,653,Referral,2023-11-30,0
+C00316,France,25-34,Mass Market,46600,733,Organic Web,2023-10-13,1
+C00317,Belgium,35-44,Affluent,59700,583,Paid Search,2023-05-03,1
+C00318,Belgium,55-64,Family,53000,586,Organic Web,2021-09-19,1
+C00319,Netherlands,35-44,Mass Market,77700,657,Referral,2019-06-09,1
+C00320,Belgium,45-54,Family,67600,662,Partner,2021-05-31,0
+C00321,Belgium,55-64,Family,53400,659,Branch,2022-04-16,0
+C00322,Belgium,25-34,Affluent,90800,727,Paid Search,2023-07-19,0
+C00323,Belgium,25-34,Mass Market,48000,589,Branch,2020-03-24,0
+C00324,Luxembourg,25-34,Mass Market,73500,681,Paid Search,2021-07-29,1
+C00325,Netherlands,25-34,Family,53700,689,Organic Web,2022-06-18,1
+C00326,France,35-44,Family,36100,651,Branch,2021-04-04,1
+C00327,France,18-24,Mass Market,28500,672,Referral,2022-11-18,1
+C00328,Belgium,35-44,Family,46100,672,Branch,2019-11-16,1
+C00329,Germany,25-34,Family,45200,655,Referral,2019-10-26,0
+C00330,Belgium,45-54,Family,54000,672,Paid Search,2022-02-05,1
+C00331,Netherlands,65+,Mass Market,49400,686,Paid Search,2019-03-14,1
+C00332,France,55-64,Young Professional,67600,669,Referral,2019-03-28,1
+C00333,Belgium,35-44,Family,41000,698,Referral,2019-02-21,1
+C00334,Netherlands,25-34,Mass Market,42000,690,Partner,2026-06-14,1
+C00335,Belgium,55-64,Young Professional,58500,686,Referral,2020-04-01,0
+C00336,Belgium,25-34,Mass Market,43500,639,Paid Search,2026-01-18,1
+C00337,France,65+,Mass Market,38500,708,Branch,2024-08-14,0
+C00338,Belgium,45-54,Mass Market,78000,684,Partner,2020-08-30,1
+C00339,Netherlands,65+,Young Professional,41400,664,Referral,2026-04-01,1
+C00340,Belgium,35-44,Family,52600,704,Paid Search,2024-07-15,1
+C00341,Germany,25-34,Mass Market,35600,549,Organic Web,2025-01-07,1
+C00342,Belgium,45-54,Mass Market,60400,580,Organic Web,2024-08-17,0
+C00343,Belgium,18-24,Family,22300,628,Branch,2023-08-17,1
+C00344,Luxembourg,45-54,Mass Market,44600,600,Partner,2025-08-08,0
+C00345,Belgium,25-34,Mass Market,42700,661,Partner,2023-11-11,0
+C00346,France,25-34,Family,33800,667,Referral,2023-12-31,1
+C00347,Germany,35-44,Mass Market,57100,678,Organic Web,2023-04-04,1
+C00348,Belgium,25-34,Young Professional,40500,739,Organic Web,2024-09-28,1
+C00349,Belgium,35-44,Young Professional,56000,694,Branch,2022-04-16,1
+C00350,Belgium,25-34,Family,62000,790,Referral,2019-08-23,0
+C00351,Netherlands,45-54,Young Professional,59800,774,Organic Web,2024-11-15,1
+C00352,Netherlands,45-54,Family,81700,610,Organic Web,2025-07-13,1
+C00353,France,45-54,Young Professional,54100,607,Paid Search,2025-01-14,1
+C00354,Belgium,45-54,Young Professional,66000,646,Branch,2019-09-20,1
+C00355,Belgium,65+,Mass Market,52000,687,Paid Search,2025-06-27,1
+C00356,France,18-24,Family,28800,590,Organic Web,2023-08-03,1
+C00357,Netherlands,25-34,Family,36000,660,Organic Web,2025-03-28,0
+C00358,Germany,45-54,Young Professional,67500,504,Partner,2024-01-19,1
+C00359,Belgium,45-54,Family,53800,677,Paid Search,2023-05-07,1
+C00360,Germany,25-34,Family,37300,643,Referral,2025-03-25,1
+C00361,France,25-34,Family,51800,641,Organic Web,2019-09-21,1
+C00362,France,25-34,Family,50700,613,Paid Search,2020-09-28,1
+C00363,Luxembourg,18-24,Family,24400,632,Referral,2024-03-05,1
+C00364,Belgium,45-54,Affluent,111500,767,Partner,2021-01-13,1
+C00365,Belgium,45-54,Family,42900,651,Referral,2022-05-26,1
+C00366,Belgium,55-64,Affluent,136500,737,Organic Web,2021-02-27,1
+C00367,Germany,55-64,Mass Market,66900,683,Paid Search,2023-07-30,1
+C00368,Belgium,25-34,Mass Market,44800,690,Referral,2023-03-08,1
+C00369,France,65+,Mass Market,39100,660,Paid Search,2023-11-20,1
+C00370,France,55-64,Young Professional,71700,695,Partner,2020-09-21,0
+C00371,France,45-54,Young Professional,76600,760,Paid Search,2024-06-14,1
+C00372,France,35-44,Young Professional,47800,654,Branch,2025-12-11,1
+C00373,Belgium,25-34,Family,34000,639,Organic Web,2025-04-01,1
+C00374,Luxembourg,65+,Family,30200,737,Branch,2019-05-12,1
+C00375,Germany,45-54,Mass Market,67700,741,Referral,2024-09-21,0
+C00376,Belgium,25-34,Young Professional,26700,714,Referral,2023-06-06,1
+C00377,Belgium,35-44,Mass Market,66300,727,Referral,2021-10-05,1
+C00378,Belgium,65+,Young Professional,47700,621,Paid Search,2022-06-19,1
+C00379,Belgium,25-34,Young Professional,30600,645,Paid Search,2023-10-19,1
+C00380,Netherlands,55-64,Mass Market,77900,692,Paid Search,2023-04-23,1
+C00381,Netherlands,35-44,Young Professional,62700,734,Referral,2023-08-01,0
+C00382,France,35-44,Family,78900,753,Partner,2026-07-25,1
+C00383,Belgium,45-54,Family,63200,622,Referral,2022-09-29,1
+C00384,Belgium,35-44,Family,66300,669,Branch,2022-12-22,0
+C00385,Belgium,65+,Family,46800,654,Paid Search,2026-07-04,1
+C00386,France,45-54,Family,86200,650,Referral,2019-08-15,0
+C00387,Netherlands,55-64,Affluent,123200,776,Organic Web,2022-06-03,1
+C00388,Belgium,25-34,Mass Market,22200,654,Organic Web,2024-08-19,1
+C00389,Belgium,35-44,Family,44400,629,Paid Search,2023-08-20,1
+C00390,Luxembourg,35-44,Mass Market,53500,632,Organic Web,2022-01-11,1
+C00391,Netherlands,25-34,Young Professional,37500,640,Organic Web,2021-03-27,1
+C00392,Germany,25-34,Young Professional,40800,746,Organic Web,2021-06-02,1
+C00393,Germany,35-44,Mass Market,58700,614,Paid Search,2023-12-14,1
+C00394,Belgium,65+,Mass Market,36600,576,Partner,2022-03-09,1
+C00395,Netherlands,45-54,Young Professional,49600,716,Branch,2024-03-14,0
+C00396,Belgium,18-24,Affluent,53900,734,Organic Web,2020-09-10,1
+C00397,Germany,55-64,Young Professional,62200,742,Branch,2023-09-01,1
+C00398,France,55-64,Young Professional,30500,544,Paid Search,2021-11-14,1
+C00399,France,25-34,Mass Market,32300,752,Organic Web,2025-05-02,1
+C00400,Netherlands,35-44,Mass Market,55700,725,Partner,2024-01-22,1
+C00401,Belgium,25-34,Young Professional,40900,796,Referral,2025-12-16,1
+C00402,Netherlands,25-34,Mass Market,35300,740,Paid Search,2020-04-23,1
+C00403,Belgium,18-24,Mass Market,29400,640,Referral,2020-12-12,1
+C00404,Belgium,45-54,Mass Market,49800,638,Branch,2023-09-06,0
+C00405,Belgium,35-44,Affluent,110700,817,Organic Web,2025-06-15,0
+C00406,Belgium,25-34,Senior,58900,609,Organic Web,2022-05-23,1
+C00407,Belgium,35-44,Young Professional,57600,573,Organic Web,2025-04-10,1
+C00408,Germany,35-44,Family,59400,663,Branch,2023-01-11,1
+C00409,Belgium,35-44,Mass Market,56800,654,Referral,2024-11-28,0
+C00410,Netherlands,25-34,Affluent,56900,665,Referral,2019-10-23,1
+C00411,Netherlands,45-54,Affluent,98100,671,Branch,2025-09-28,1
+C00412,Netherlands,35-44,Mass Market,40100,639,Partner,2019-08-14,1
+C00413,Belgium,35-44,Affluent,114200,626,Referral,2022-01-05,1
+C00414,Luxembourg,65+,Family,59500,639,Organic Web,2021-10-27,1
+C00415,Germany,35-44,Mass Market,58200,720,Referral,2026-07-03,0
+C00416,France,65+,Mass Market,29700,697,Referral,2025-09-08,0
+C00417,Germany,18-24,Mass Market,25600,653,Branch,2023-11-07,1
+C00418,France,25-34,Mass Market,56400,669,Partner,2023-04-17,0
+C00419,Luxembourg,45-54,Young Professional,66000,695,Paid Search,2025-02-10,1
+C00420,Netherlands,35-44,Senior,59700,594,Organic Web,2022-03-23,1
+C00421,Belgium,35-44,Mass Market,57900,611,Organic Web,2023-09-06,1
+C00422,Belgium,45-54,Mass Market,66000,758,Branch,2022-03-17,0
+C00423,Belgium,45-54,Young Professional,70800,655,Organic Web,2019-11-08,1
+C00424,Belgium,25-34,Mass Market,37700,742,Organic Web,2025-04-07,1
+C00425,Belgium,35-44,Affluent,79700,751,Paid Search,2026-02-04,1
+C00426,Germany,25-34,Young Professional,46500,697,Branch,2025-06-20,1
+C00427,Belgium,35-44,Family,56100,619,Organic Web,2020-04-18,1
+C00428,Belgium,35-44,Affluent,104800,767,Branch,2024-06-28,1
+C00429,Luxembourg,35-44,Young Professional,52600,767,Organic Web,2022-11-09,1
+C00430,Luxembourg,45-54,Affluent,111900,684,Referral,2025-05-06,0
+C00431,Belgium,65+,Mass Market,40500,676,Partner,2023-07-22,1
+C00432,France,35-44,Mass Market,55700,679,Paid Search,2021-12-11,1
+C00433,Germany,25-34,Affluent,90600,684,Referral,2023-11-04,1
+C00434,Belgium,18-24,Family,23200,740,Branch,2022-01-22,1
+C00435,France,25-34,Mass Market,45100,773,Organic Web,2022-02-20,1
+C00436,France,35-44,Family,51000,580,Organic Web,2024-12-27,1
+C00437,Belgium,35-44,Affluent,80900,638,Branch,2026-07-26,1
+C00438,Belgium,18-24,Mass Market,30600,660,Partner,2024-08-24,1
+C00439,Belgium,18-24,Young Professional,27400,652,Branch,2025-12-20,1
+C00440,Belgium,35-44,Family,52400,727,Organic Web,2022-07-08,1
+C00441,Belgium,65+,Senior,31400,645,Organic Web,2023-12-12,0
+C00442,France,18-24,Young Professional,34000,649,Paid Search,2026-07-18,1
+C00443,France,35-44,Family,61400,569,Organic Web,2024-09-10,1
+C00444,Netherlands,25-34,Senior,36600,678,Paid Search,2025-03-02,1
+C00445,Netherlands,65+,Family,41800,741,Referral,2024-04-26,1
+C00446,Germany,25-34,Young Professional,27200,710,Organic Web,2023-02-22,1
+C00447,Netherlands,25-34,Family,53100,719,Organic Web,2022-04-03,1
+C00448,France,55-64,Young Professional,58100,656,Organic Web,2023-12-11,1
+C00449,Netherlands,45-54,Family,79500,738,Organic Web,2025-07-25,1
+C00450,France,25-34,Mass Market,49300,631,Organic Web,2024-09-26,1
+C00451,Netherlands,45-54,Young Professional,44600,711,Referral,2020-06-01,1
+C00452,Belgium,35-44,Mass Market,44000,526,Organic Web,2020-09-15,1
+C00453,Belgium,35-44,Mass Market,52800,706,Organic Web,2023-05-31,1
+C00454,Belgium,35-44,Young Professional,76500,696,Organic Web,2022-10-04,1
+C00455,Netherlands,25-34,Family,42400,672,Referral,2022-04-23,0
+C00456,Belgium,45-54,Young Professional,55800,617,Organic Web,2022-08-31,1
+C00457,Belgium,65+,Affluent,60000,600,Referral,2021-09-26,0
+C00458,Luxembourg,55-64,Young Professional,50200,737,Paid Search,2024-10-09,0
+C00459,France,45-54,Mass Market,67700,643,Organic Web,2020-02-19,1
+C00460,Netherlands,55-64,Mass Market,49800,765,Organic Web,2025-09-18,0
+C00461,Germany,65+,Mass Market,39600,708,Partner,2025-08-31,1
+C00462,France,18-24,Mass Market,28100,595,Branch,2022-12-27,1
+C00463,Germany,25-34,Senior,45800,651,Referral,2019-03-20,1
+C00464,Netherlands,18-24,Senior,21100,594,Organic Web,2021-04-10,1
+C00465,Belgium,25-34,Mass Market,29600,695,Organic Web,2022-10-20,1
+C00466,Belgium,65+,Senior,33700,624,Branch,2019-10-10,1
+C00467,Belgium,35-44,Mass Market,53500,721,Organic Web,2023-02-28,1
+C00468,Netherlands,45-54,Mass Market,83700,718,Branch,2020-08-20,1
+C00469,Germany,35-44,Young Professional,73100,689,Partner,2024-09-03,1
+C00470,Netherlands,25-34,Family,34200,753,Organic Web,2024-05-03,1
+C00471,Belgium,35-44,Young Professional,48900,792,Paid Search,2024-01-22,1
+C00472,Belgium,25-34,Family,46100,593,Organic Web,2021-08-31,0
+C00473,Netherlands,45-54,Mass Market,68200,591,Referral,2020-11-28,1
+C00474,Netherlands,25-34,Affluent,90000,713,Referral,2019-04-05,1
+C00475,Belgium,25-34,Mass Market,32900,681,Referral,2021-01-11,1
+C00476,Netherlands,25-34,Senior,43400,680,Paid Search,2021-09-14,1
+C00477,Netherlands,65+,Affluent,49000,615,Branch,2024-07-21,1
+C00478,France,25-34,Family,44700,687,Organic Web,2023-11-25,1
+C00479,Belgium,25-34,Young Professional,27300,727,Paid Search,2026-07-13,1
+C00480,Germany,45-54,Affluent,153400,844,Partner,2025-10-25,0
+C00481,Luxembourg,65+,Young Professional,29300,677,Partner,2022-02-08,1
+C00482,Belgium,18-24,Mass Market,25200,764,Paid Search,2022-04-12,1
+C00483,Netherlands,25-34,Mass Market,17400,654,Branch,2021-10-22,1
+C00484,Netherlands,25-34,Senior,37700,637,Referral,2024-01-13,1
+C00485,Belgium,25-34,Family,33600,745,Organic Web,2022-11-08,1
+C00486,Belgium,45-54,Affluent,87500,554,Partner,2022-03-10,0
+C00487,France,25-34,Senior,46100,712,Partner,2025-06-29,1
+C00488,Netherlands,65+,Young Professional,36500,716,Referral,2024-08-04,0
+C00489,Belgium,35-44,Affluent,104700,723,Partner,2019-04-28,1
+C00490,Belgium,25-34,Affluent,48200,743,Referral,2021-01-25,1
+C00491,Germany,35-44,Family,31600,655,Branch,2020-11-16,1
+C00492,France,65+,Mass Market,55400,777,Organic Web,2025-01-16,0
+C00493,France,65+,Family,50200,695,Paid Search,2022-08-12,0
+C00494,France,25-34,Mass Market,28400,658,Branch,2021-05-05,1
+C00495,France,35-44,Young Professional,31100,687,Partner,2020-09-17,1
+C00496,Luxembourg,25-34,Young Professional,60700,706,Paid Search,2026-03-15,1
+C00497,Netherlands,45-54,Mass Market,64200,782,Referral,2024-09-29,1
+C00498,Netherlands,35-44,Family,62100,653,Referral,2024-09-26,1
+C00499,Netherlands,25-34,Affluent,60200,668,Partner,2022-09-26,1
+C00500,Germany,35-44,Senior,49100,814,Paid Search,2021-08-26,1
+C00501,Netherlands,55-64,Mass Market,102700,707,Branch,2020-03-23,1
+C00502,Netherlands,55-64,Family,43600,692,Partner,2026-05-26,0
+C00503,Belgium,45-54,Mass Market,88700,671,Partner,2021-11-16,1
+C00504,France,18-24,Mass Market,17400,614,Branch,2019-03-18,1
+C00505,Netherlands,25-34,Family,42400,772,Referral,2019-12-07,1
+C00506,Germany,65+,Family,39200,702,Branch,2021-01-26,1
+C00507,France,45-54,Family,47800,688,Paid Search,2021-01-11,1
+C00508,Netherlands,25-34,Young Professional,41300,773,Organic Web,2025-04-06,1
+C00509,France,35-44,Young Professional,57100,686,Referral,2025-03-16,0
+C00510,Belgium,25-34,Mass Market,53300,697,Organic Web,2023-04-14,1
+C00511,Germany,55-64,Young Professional,56900,650,Organic Web,2022-06-26,1
+C00512,Germany,55-64,Mass Market,40300,752,Paid Search,2024-09-13,1
+C00513,Belgium,45-54,Senior,63300,677,Branch,2024-07-02,0
+C00514,Belgium,18-24,Young Professional,31200,608,Partner,2023-08-25,1
+C00515,Netherlands,65+,Mass Market,29000,673,Branch,2022-05-12,1
+C00516,France,35-44,Mass Market,37000,603,Organic Web,2021-02-28,1
+C00517,Belgium,35-44,Family,58400,675,Referral,2025-03-31,1
+C00518,France,35-44,Family,53800,634,Branch,2022-08-15,1
+C00519,Netherlands,45-54,Family,58200,765,Partner,2019-07-12,0
+C00520,Belgium,35-44,Mass Market,59100,699,Paid Search,2022-12-17,1
+C00521,France,65+,Young Professional,44900,594,Partner,2026-06-27,1
+C00522,Netherlands,25-34,Mass Market,61900,575,Paid Search,2020-03-27,1
+C00523,Germany,25-34,Young Professional,29300,661,Paid Search,2025-06-20,1
+C00524,Belgium,55-64,Family,32300,703,Paid Search,2026-05-16,0
+C00525,Netherlands,45-54,Senior,77500,666,Referral,2023-09-02,1
+C00526,Netherlands,25-34,Affluent,79300,770,Organic Web,2019-04-14,1
+C00527,Germany,45-54,Young Professional,51900,691,Referral,2021-08-01,1
+C00528,Germany,55-64,Family,49300,567,Paid Search,2026-06-09,1
+C00529,Belgium,55-64,Young Professional,66900,717,Branch,2020-09-29,1
+C00530,France,25-34,Family,34300,566,Organic Web,2020-11-15,1
+C00531,Belgium,25-34,Senior,34300,672,Branch,2026-07-18,0
+C00532,Belgium,25-34,Senior,32300,507,Paid Search,2025-02-02,1
+C00533,France,35-44,Family,64400,656,Organic Web,2024-07-16,0
+C00534,Belgium,25-34,Mass Market,36100,585,Referral,2023-09-30,1
+C00535,France,55-64,Mass Market,56800,755,Branch,2021-01-17,1
+C00536,France,35-44,Family,59300,576,Branch,2022-01-10,1
+C00537,Belgium,25-34,Family,53900,774,Referral,2023-09-19,1
+C00538,Germany,25-34,Affluent,73500,639,Branch,2023-06-25,0
+C00539,Germany,35-44,Family,46400,623,Partner,2024-09-03,1
+C00540,Belgium,25-34,Family,47600,568,Partner,2022-07-09,0
+C00541,Germany,25-34,Mass Market,49900,720,Referral,2024-07-10,0
+C00542,Belgium,45-54,Young Professional,59900,764,Organic Web,2019-03-15,0
+C00543,Germany,35-44,Affluent,121000,739,Organic Web,2019-01-16,1
+C00544,Belgium,35-44,Mass Market,37400,741,Referral,2026-02-19,1
+C00545,Netherlands,35-44,Senior,60700,638,Branch,2025-08-28,1
+C00546,Belgium,35-44,Mass Market,59400,737,Organic Web,2026-05-01,1
+C00547,Belgium,45-54,Mass Market,55600,700,Organic Web,2021-01-15,0
+C00548,France,45-54,Family,46300,658,Referral,2019-02-14,1
+C00549,Luxembourg,25-34,Young Professional,31900,729,Organic Web,2022-03-16,1
+C00550,Belgium,18-24,Mass Market,26800,615,Paid Search,2019-08-28,1
+C00551,Belgium,45-54,Affluent,105200,758,Organic Web,2022-04-08,0
+C00552,Netherlands,35-44,Family,54300,700,Partner,2025-01-27,1
+C00553,Belgium,35-44,Mass Market,52100,566,Paid Search,2020-09-29,1
+C00554,Netherlands,25-34,Affluent,95000,802,Referral,2025-06-29,1
+C00555,Belgium,25-34,Mass Market,35100,633,Organic Web,2021-12-15,1
+C00556,Belgium,18-24,Mass Market,19100,556,Branch,2025-04-06,0
+C00557,Belgium,25-34,Mass Market,38900,747,Partner,2025-08-28,1
+C00558,Belgium,35-44,Family,37000,619,Referral,2025-01-15,1
+C00559,Germany,18-24,Family,16900,700,Referral,2020-10-11,1
+C00560,Luxembourg,45-54,Young Professional,71200,678,Referral,2021-04-20,1
+C00561,France,35-44,Family,51700,821,Organic Web,2022-09-10,1
+C00562,Belgium,25-34,Affluent,86200,728,Paid Search,2020-06-25,1
+C00563,France,35-44,Young Professional,56400,616,Paid Search,2020-04-17,1
+C00564,Germany,18-24,Mass Market,16000,648,Referral,2019-05-06,1
+C00565,Belgium,45-54,Mass Market,52300,665,Organic Web,2019-07-15,1
+C00566,France,25-34,Mass Market,48700,576,Referral,2026-03-31,1
+C00567,Netherlands,45-54,Young Professional,55900,635,Organic Web,2021-07-30,0
+C00568,Germany,45-54,Family,67600,648,Referral,2019-07-23,0
+C00569,France,35-44,Mass Market,56500,745,Partner,2026-07-15,1
+C00570,Belgium,18-24,Mass Market,22800,569,Paid Search,2021-09-05,1
+C00571,France,18-24,Young Professional,16000,643,Branch,2021-04-03,1
+C00572,Belgium,45-54,Affluent,89500,701,Partner,2021-10-27,1
+C00573,Belgium,45-54,Mass Market,69600,770,Organic Web,2022-12-17,1
+C00574,France,55-64,Mass Market,59900,593,Organic Web,2020-01-25,1
+C00575,France,25-34,Affluent,51000,715,Branch,2022-08-11,1
+C00576,Belgium,45-54,Family,63900,755,Partner,2023-10-07,1
+C00577,Netherlands,25-34,Affluent,63000,755,Organic Web,2021-09-24,1
+C00578,Germany,35-44,Mass Market,33000,728,Paid Search,2024-11-12,1
+C00579,Netherlands,35-44,Affluent,55300,673,Organic Web,2025-12-02,1
+C00580,Belgium,35-44,Family,53500,652,Branch,2026-07-22,1
+C00581,Belgium,35-44,Young Professional,49800,630,Partner,2023-10-13,1
+C00582,Belgium,45-54,Family,50000,719,Paid Search,2023-05-27,0
+C00583,Belgium,18-24,Mass Market,17600,557,Organic Web,2019-05-17,1
+C00584,Belgium,65+,Young Professional,26900,702,Branch,2025-09-02,0
+C00585,Belgium,45-54,Family,54600,763,Partner,2019-01-10,1
+C00586,Belgium,45-54,Affluent,97500,582,Branch,2023-07-14,0
+C00587,Belgium,65+,Family,60400,695,Paid Search,2024-09-18,1
+C00588,Germany,35-44,Family,45800,698,Referral,2025-04-09,1
+C00589,Netherlands,35-44,Mass Market,60300,807,Referral,2022-05-28,1
+C00590,Germany,35-44,Family,43900,734,Organic Web,2021-05-09,1
+C00591,Belgium,35-44,Young Professional,22300,759,Paid Search,2020-10-11,1
+C00592,Netherlands,45-54,Family,67700,839,Paid Search,2021-05-07,1
+C00593,Belgium,18-24,Family,24100,733,Organic Web,2020-06-25,1
+C00594,Netherlands,45-54,Family,87400,730,Branch,2021-02-26,0
+C00595,Belgium,25-34,Young Professional,41200,649,Paid Search,2024-03-04,1
+C00596,Belgium,35-44,Mass Market,49400,679,Organic Web,2025-08-06,1
+C00597,Germany,35-44,Young Professional,56000,650,Referral,2025-08-06,1
+C00598,France,25-34,Senior,31700,632,Referral,2023-01-05,1
+C00599,Netherlands,35-44,Mass Market,63800,632,Organic Web,2019-08-09,1
+C00600,Luxembourg,35-44,Young Professional,56100,701,Organic Web,2019-01-27,1
+C00601,Netherlands,25-34,Family,37400,831,Branch,2021-07-25,1
+C00602,Belgium,18-24,Mass Market,21800,583,Organic Web,2020-11-02,1
+C00603,Germany,35-44,Mass Market,50800,562,Organic Web,2021-11-10,1
+C00604,Netherlands,65+,Family,24200,655,Branch,2021-02-18,0
+C00605,Netherlands,25-34,Affluent,92800,770,Paid Search,2025-12-24,1
+C00606,Belgium,35-44,Mass Market,41800,778,Organic Web,2020-02-26,1
+C00607,Netherlands,45-54,Mass Market,50300,780,Referral,2024-11-29,1
+C00608,Belgium,25-34,Mass Market,39000,700,Organic Web,2021-07-05,1
+C00609,Germany,45-54,Mass Market,71100,672,Organic Web,2025-05-16,0
+C00610,Germany,45-54,Mass Market,59400,584,Paid Search,2024-05-08,1
+C00611,Netherlands,55-64,Family,57600,640,Referral,2021-05-11,1
+C00612,Germany,55-64,Family,38800,596,Organic Web,2024-05-01,1
+C00613,France,25-34,Mass Market,30900,679,Organic Web,2023-01-03,1
+C00614,Germany,35-44,Family,61200,619,Partner,2024-07-08,1
+C00615,Netherlands,65+,Senior,58500,740,Organic Web,2022-04-01,1
+C00616,France,55-64,Affluent,51700,715,Branch,2023-03-18,1
+C00617,Belgium,25-34,Affluent,54600,691,Organic Web,2023-03-18,1
+C00618,Netherlands,45-54,Mass Market,36100,618,Paid Search,2021-09-26,1
+C00619,Belgium,35-44,Young Professional,72800,761,Organic Web,2020-08-12,1
+C00620,Belgium,55-64,Affluent,142700,774,Paid Search,2026-07-29,1
+C00621,France,65+,Affluent,63900,830,Paid Search,2021-01-24,1
+C00622,France,25-34,Family,27200,709,Organic Web,2020-03-21,0
+C00623,France,35-44,Mass Market,63400,661,Referral,2025-11-05,1
+C00624,Germany,25-34,Family,44100,629,Branch,2022-02-26,1
+C00625,Netherlands,35-44,Affluent,99200,723,Paid Search,2021-04-15,1
+C00626,Belgium,35-44,Family,72300,638,Organic Web,2025-03-25,1
+C00627,Germany,25-34,Mass Market,31700,736,Organic Web,2021-08-12,1
+C00628,Netherlands,35-44,Family,79600,637,Branch,2026-04-07,0
+C00629,France,35-44,Affluent,109500,850,Referral,2019-11-23,1
+C00630,Netherlands,45-54,Mass Market,44000,671,Paid Search,2022-02-25,1
+C00631,Belgium,35-44,Senior,31400,640,Referral,2025-01-28,1
+C00632,Belgium,25-34,Affluent,87100,834,Partner,2024-09-20,1
+C00633,Netherlands,18-24,Young Professional,20500,690,Referral,2019-04-17,1
+C00634,Belgium,55-64,Mass Market,58900,692,Referral,2019-08-12,1
+C00635,Luxembourg,35-44,Affluent,97100,704,Referral,2022-02-07,1
+C00636,Luxembourg,35-44,Mass Market,57300,668,Organic Web,2020-03-14,1
+C00637,Germany,45-54,Affluent,119300,704,Organic Web,2020-09-28,0
+C00638,France,35-44,Family,48700,637,Paid Search,2020-06-07,1
+C00639,Germany,55-64,Family,62400,689,Organic Web,2021-08-18,1
+C00640,Belgium,45-54,Young Professional,47100,643,Branch,2019-09-13,1
+C00641,Netherlands,18-24,Mass Market,26100,605,Branch,2023-09-21,1
+C00642,Germany,35-44,Family,61800,538,Paid Search,2026-03-10,1
+C00643,Netherlands,18-24,Senior,23200,589,Organic Web,2023-11-23,1
+C00644,France,45-54,Mass Market,58200,753,Partner,2020-02-04,1
+C00645,Netherlands,55-64,Affluent,79800,666,Paid Search,2025-06-06,0
+C00646,Belgium,18-24,Mass Market,25600,708,Organic Web,2024-06-20,1
+C00647,Belgium,35-44,Senior,49700,563,Organic Web,2022-10-27,1
+C00648,Netherlands,35-44,Young Professional,70000,622,Referral,2025-02-14,0
+C00649,Luxembourg,18-24,Young Professional,27000,747,Referral,2021-10-13,1
+C00650,Belgium,35-44,Young Professional,61100,603,Referral,2022-05-26,1
+C00651,Belgium,45-54,Mass Market,80000,679,Partner,2020-11-14,1
+C00652,Belgium,35-44,Young Professional,58800,756,Paid Search,2020-04-30,1
+C00653,Belgium,25-34,Family,37000,768,Referral,2020-09-30,1
+C00654,Belgium,35-44,Mass Market,71400,738,Organic Web,2019-07-03,1
+C00655,Netherlands,25-34,Mass Market,29000,632,Organic Web,2020-04-21,1
+C00656,Belgium,35-44,Mass Market,38400,679,Referral,2023-02-02,1
+C00657,Germany,25-34,Family,35500,641,Referral,2023-06-26,1
+C00658,Belgium,25-34,Family,42600,660,Referral,2022-08-04,1
+C00659,Germany,35-44,Mass Market,53500,850,Paid Search,2021-05-23,0
+C00660,Netherlands,18-24,Mass Market,25100,636,Paid Search,2025-07-05,1
+C00661,Belgium,45-54,Mass Market,63100,751,Referral,2023-04-10,0
+C00662,Netherlands,35-44,Young Professional,85200,669,Branch,2019-08-26,1
+C00663,Belgium,45-54,Mass Market,47000,667,Paid Search,2021-04-22,1
+C00664,France,25-34,Family,55700,731,Referral,2021-07-27,0
+C00665,France,25-34,Affluent,64400,807,Organic Web,2020-04-25,1
+C00666,Netherlands,55-64,Mass Market,69300,653,Referral,2019-02-15,1
+C00667,France,45-54,Mass Market,51600,710,Paid Search,2023-08-18,1
+C00668,Luxembourg,45-54,Family,66300,754,Branch,2021-11-01,1
+C00669,Luxembourg,25-34,Affluent,75000,613,Organic Web,2023-09-22,1
+C00670,Belgium,35-44,Young Professional,47200,691,Referral,2019-01-28,1
+C00671,Belgium,65+,Affluent,64900,760,Partner,2024-04-07,0
+C00672,Netherlands,18-24,Family,34000,625,Partner,2023-06-26,1
+C00673,Germany,25-34,Affluent,45700,640,Organic Web,2026-01-22,0
+C00674,Belgium,25-34,Young Professional,37700,739,Organic Web,2022-03-08,1
+C00675,Belgium,45-54,Mass Market,66000,574,Organic Web,2026-07-20,1
+C00676,Netherlands,25-34,Mass Market,41800,662,Paid Search,2022-01-31,1
+C00677,Netherlands,35-44,Mass Market,49400,777,Branch,2022-09-04,1
+C00678,Luxembourg,65+,Mass Market,45400,670,Branch,2024-11-23,1
+C00679,Belgium,18-24,Affluent,17600,605,Referral,2019-10-26,1
+C00680,Belgium,25-34,Young Professional,27700,681,Organic Web,2019-12-09,0
+C00681,Netherlands,35-44,Young Professional,39400,538,Paid Search,2024-09-06,1
+C00682,Belgium,35-44,Young Professional,65500,708,Referral,2022-10-08,1
+C00683,Belgium,45-54,Affluent,119200,705,Referral,2025-04-18,1
+C00684,France,25-34,Mass Market,41500,590,Organic Web,2026-05-12,1
+C00685,Belgium,35-44,Family,51700,764,Organic Web,2020-02-26,1
+C00686,Germany,25-34,Mass Market,39900,733,Organic Web,2024-07-08,1
+C00687,Belgium,45-54,Mass Market,71800,665,Organic Web,2023-08-18,1
+C00688,France,35-44,Senior,69000,675,Paid Search,2026-05-20,1
+C00689,Germany,25-34,Young Professional,37600,700,Organic Web,2021-01-28,1
+C00690,Belgium,35-44,Mass Market,42300,587,Referral,2019-07-02,0
+C00691,Belgium,25-34,Mass Market,16600,644,Organic Web,2026-02-07,1
+C00692,France,25-34,Family,44500,604,Branch,2019-02-03,1
+C00693,Netherlands,18-24,Mass Market,32400,580,Organic Web,2024-11-14,1
+C00694,Belgium,55-64,Family,59400,714,Organic Web,2025-09-02,1
+C00695,Netherlands,25-34,Mass Market,39900,624,Branch,2026-01-27,0
+C00696,Belgium,55-64,Senior,62000,747,Referral,2025-08-18,1
+C00697,Netherlands,55-64,Mass Market,63000,744,Partner,2024-10-02,1
+C00698,Belgium,18-24,Mass Market,19300,726,Paid Search,2020-12-02,1
+C00699,France,25-34,Mass Market,39100,712,Referral,2023-12-21,1
+C00700,Belgium,35-44,Family,31700,704,Organic Web,2025-11-07,1
+C00701,Netherlands,25-34,Young Professional,39500,732,Branch,2025-10-27,0
+C00702,Netherlands,45-54,Mass Market,75600,633,Paid Search,2022-12-01,1
+C00703,France,45-54,Family,43500,685,Organic Web,2021-07-20,1
+C00704,Luxembourg,65+,Family,31800,676,Referral,2020-07-05,1
+C00705,Luxembourg,45-54,Mass Market,70600,753,Referral,2024-07-07,1
+C00706,Netherlands,35-44,Mass Market,52100,628,Referral,2019-11-09,0
+C00707,Belgium,55-64,Young Professional,64100,684,Referral,2019-06-03,1
+C00708,Netherlands,45-54,Senior,56600,588,Organic Web,2020-02-18,0
+C00709,Belgium,45-54,Mass Market,43200,646,Organic Web,2020-05-24,1
+C00710,Belgium,18-24,Affluent,42900,498,Branch,2021-09-11,1
+C00711,Germany,18-24,Mass Market,26100,594,Referral,2021-11-16,1
+C00712,Luxembourg,25-34,Mass Market,48000,779,Referral,2025-12-09,1
+C00713,Belgium,25-34,Family,45100,690,Paid Search,2022-11-01,1
+C00714,Belgium,35-44,Mass Market,73800,655,Organic Web,2020-04-20,1
+C00715,Netherlands,55-64,Family,39500,691,Partner,2020-03-26,0
+C00716,France,35-44,Family,35200,629,Organic Web,2022-03-23,1
+C00717,Belgium,35-44,Family,57700,626,Referral,2024-07-12,0
+C00718,France,65+,Family,41100,743,Branch,2022-08-15,1
+C00719,Belgium,45-54,Mass Market,47700,633,Paid Search,2023-05-11,1
+C00720,Belgium,25-34,Affluent,78300,750,Paid Search,2019-01-17,1
+C00721,Belgium,25-34,Senior,46800,664,Organic Web,2025-03-09,1
+C00722,France,35-44,Family,33300,542,Paid Search,2019-08-04,1
+C00723,Belgium,25-34,Mass Market,43600,639,Organic Web,2026-07-02,1
+C00724,Luxembourg,25-34,Family,49200,733,Branch,2022-03-05,1
+C00725,Germany,25-34,Affluent,84500,587,Branch,2024-01-22,1
+C00726,Netherlands,35-44,Mass Market,55500,601,Organic Web,2025-04-13,1
+C00727,France,45-54,Young Professional,70300,732,Branch,2019-10-01,0
+C00728,Netherlands,18-24,Senior,25400,751,Paid Search,2025-08-21,1
+C00729,France,25-34,Affluent,101200,692,Branch,2019-03-24,1
+C00730,Netherlands,35-44,Family,64300,776,Paid Search,2023-10-16,1
+C00731,France,35-44,Mass Market,62100,670,Branch,2026-05-20,1
+C00732,France,35-44,Mass Market,46500,773,Branch,2023-05-08,1
+C00733,France,45-54,Mass Market,75100,636,Organic Web,2022-07-18,1
+C00734,Belgium,25-34,Mass Market,51600,721,Partner,2024-07-26,1
+C00735,Netherlands,18-24,Mass Market,27100,687,Organic Web,2024-08-13,1
+C00736,Germany,18-24,Mass Market,20000,637,Organic Web,2020-06-02,1
+C00737,Belgium,25-34,Mass Market,37800,665,Paid Search,2026-04-06,1
+C00738,France,35-44,Family,49700,697,Organic Web,2022-08-29,1
+C00739,Belgium,55-64,Family,53600,536,Referral,2020-02-02,0
+C00740,France,45-54,Young Professional,71900,775,Organic Web,2026-04-08,0
+C00741,Belgium,25-34,Mass Market,39900,772,Organic Web,2021-01-20,0
+C00742,France,45-54,Mass Market,75200,632,Organic Web,2024-11-15,1
+C00743,Germany,25-34,Family,37500,648,Organic Web,2026-06-22,0
+C00744,Netherlands,25-34,Senior,52500,662,Organic Web,2020-10-02,1
+C00745,Netherlands,35-44,Senior,81500,604,Organic Web,2025-02-23,1
+C00746,Germany,55-64,Affluent,112900,637,Organic Web,2019-02-07,1
+C00747,Belgium,45-54,Mass Market,64800,690,Organic Web,2021-08-26,1
+C00748,Belgium,18-24,Family,31300,604,Organic Web,2021-10-10,1
+C00749,Belgium,45-54,Family,87300,685,Partner,2026-04-25,0
+C00750,Belgium,55-64,Mass Market,36600,735,Paid Search,2021-12-12,1
+C00751,Belgium,25-34,Affluent,71700,726,Organic Web,2019-04-13,1
+C00752,Belgium,45-54,Family,51300,770,Referral,2023-03-20,1
+C00753,France,35-44,Family,41000,714,Branch,2023-10-30,1
+C00754,Belgium,25-34,Mass Market,56200,654,Branch,2023-02-12,1
+C00755,Belgium,65+,Family,46400,812,Organic Web,2020-12-04,0
+C00756,Netherlands,45-54,Mass Market,55900,750,Paid Search,2019-08-04,0
+C00757,France,65+,Family,44200,670,Organic Web,2020-10-25,1
+C00758,Belgium,35-44,Young Professional,65500,529,Branch,2021-08-11,0
+C00759,Germany,55-64,Family,70900,742,Referral,2019-01-17,1
+C00760,Belgium,35-44,Family,56800,674,Organic Web,2023-12-09,1
+C00761,Germany,45-54,Mass Market,86200,697,Partner,2019-08-01,0
+C00762,France,45-54,Family,57600,715,Partner,2020-04-21,1
+C00763,Belgium,45-54,Affluent,80900,631,Partner,2024-04-25,1
+C00764,Luxembourg,35-44,Family,43800,617,Referral,2025-12-07,1
+C00765,Belgium,25-34,Affluent,54500,701,Referral,2021-09-05,1
+C00766,Belgium,18-24,Affluent,47500,711,Referral,2020-01-13,1
+C00767,Belgium,25-34,Mass Market,35600,691,Partner,2021-06-17,1
+C00768,France,35-44,Family,30200,757,Partner,2019-02-21,0
+C00769,Germany,45-54,Family,78900,689,Organic Web,2020-03-19,1
+C00770,Germany,45-54,Young Professional,86100,530,Branch,2025-12-30,1
+C00771,France,35-44,Family,46900,715,Referral,2020-10-10,1
+C00772,Netherlands,25-34,Mass Market,34800,672,Organic Web,2020-03-03,1
+C00773,Germany,25-34,Young Professional,32500,637,Referral,2022-10-12,1
+C00774,Belgium,25-34,Senior,36100,728,Paid Search,2025-07-06,1
+C00775,Germany,25-34,Mass Market,41100,623,Paid Search,2025-01-30,0
+C00776,Belgium,35-44,Family,60600,621,Paid Search,2019-01-13,0
+C00777,Belgium,65+,Mass Market,38900,644,Paid Search,2019-12-29,1
+C00778,Belgium,45-54,Mass Market,52600,717,Paid Search,2024-08-22,1
+C00779,Belgium,55-64,Mass Market,75800,745,Organic Web,2023-06-14,1
+C00780,Germany,35-44,Mass Market,45800,657,Partner,2025-10-10,1
+C00781,Belgium,35-44,Family,63200,675,Branch,2024-12-09,1
+C00782,Netherlands,45-54,Young Professional,75800,741,Paid Search,2025-08-15,1
+C00783,Belgium,35-44,Affluent,84600,661,Referral,2025-03-27,1
+C00784,Netherlands,18-24,Mass Market,27200,705,Organic Web,2020-05-11,1
+C00785,Belgium,25-34,Mass Market,41000,679,Organic Web,2019-06-23,0
+C00786,Belgium,35-44,Young Professional,69500,625,Referral,2021-05-11,1
+C00787,France,35-44,Family,48400,768,Partner,2020-04-08,1
+C00788,Belgium,55-64,Senior,95700,687,Branch,2023-08-20,0
+C00789,Luxembourg,55-64,Mass Market,63200,686,Organic Web,2021-09-06,0
+C00790,Belgium,45-54,Mass Market,59300,648,Branch,2019-10-13,1
+C00791,Belgium,45-54,Mass Market,83000,745,Referral,2020-03-19,1
+C00792,Belgium,45-54,Mass Market,53000,720,Partner,2021-09-11,0
+C00793,Germany,25-34,Senior,39000,589,Referral,2019-01-09,1
+C00794,Germany,35-44,Family,46500,734,Referral,2022-11-02,1
+C00795,Belgium,35-44,Young Professional,61700,749,Branch,2023-12-05,0
+C00796,Netherlands,25-34,Mass Market,44500,702,Branch,2026-03-01,0
+C00797,Belgium,25-34,Mass Market,44100,635,Referral,2025-07-12,1
+C00798,Belgium,55-64,Affluent,98800,830,Paid Search,2020-09-25,1
+C00799,Germany,65+,Affluent,60400,717,Organic Web,2021-03-24,1
+C00800,Germany,25-34,Mass Market,33200,742,Branch,2025-01-24,1
+C00801,Belgium,18-24,Family,27900,727,Organic Web,2019-02-22,1
+C00802,Germany,55-64,Young Professional,59600,751,Branch,2022-02-09,1
+C00803,Luxembourg,55-64,Senior,53400,736,Organic Web,2022-08-06,1
+C00804,Belgium,45-54,Senior,62400,708,Organic Web,2026-04-06,1
+C00805,Belgium,25-34,Young Professional,58500,697,Referral,2020-11-06,1
+C00806,France,25-34,Affluent,101700,756,Referral,2019-08-19,1
+C00807,France,35-44,Young Professional,41300,627,Referral,2026-06-01,1
+C00808,France,35-44,Family,75400,664,Paid Search,2025-02-26,1
+C00809,France,55-64,Family,93000,801,Referral,2025-10-28,0
+C00810,Belgium,35-44,Senior,60500,685,Paid Search,2025-08-01,0
+C00811,Belgium,45-54,Affluent,113700,778,Paid Search,2024-09-05,1
+C00812,Belgium,65+,Young Professional,44300,601,Branch,2023-02-08,0
+C00813,Germany,45-54,Young Professional,48500,678,Branch,2023-08-05,1
+C00814,Germany,45-54,Senior,52600,657,Branch,2020-11-03,0
+C00815,Belgium,35-44,Mass Market,50700,675,Paid Search,2024-09-19,1
+C00816,Germany,45-54,Affluent,128700,773,Branch,2019-05-28,1
+C00817,France,18-24,Family,16000,669,Organic Web,2024-11-27,1
+C00818,France,35-44,Affluent,88100,711,Referral,2026-06-26,1
+C00819,Luxembourg,35-44,Family,46800,723,Organic Web,2024-09-13,0
+C00820,Netherlands,65+,Mass Market,39200,644,Branch,2020-11-16,0
+C00821,Netherlands,25-34,Young Professional,62400,650,Paid Search,2025-05-10,0
+C00822,Luxembourg,25-34,Mass Market,44000,771,Organic Web,2025-07-02,1
+C00823,Belgium,35-44,Mass Market,49500,693,Branch,2022-09-01,1
+C00824,Germany,25-34,Family,44400,657,Referral,2020-10-12,1
+C00825,Belgium,55-64,Family,63600,708,Branch,2023-05-30,0
+C00826,Belgium,35-44,Mass Market,37500,643,Paid Search,2020-05-08,1
+C00827,Belgium,45-54,Mass Market,41900,628,Referral,2022-07-10,1
+C00828,Belgium,55-64,Family,61400,677,Referral,2021-01-30,0
+C00829,Belgium,18-24,Young Professional,35100,662,Organic Web,2026-05-27,1
+C00830,Germany,55-64,Mass Market,51300,613,Paid Search,2023-04-30,1
+C00831,Netherlands,65+,Mass Market,29300,623,Partner,2025-09-17,0
+C00832,Netherlands,35-44,Mass Market,55200,656,Referral,2022-12-24,1
+C00833,Netherlands,35-44,Mass Market,52900,796,Branch,2022-01-01,1
+C00834,Belgium,25-34,Mass Market,31300,471,Paid Search,2020-05-13,1
+C00835,Germany,55-64,Family,63400,768,Partner,2019-05-26,1
+C00836,Netherlands,65+,Family,26500,586,Referral,2019-02-06,0
+C00837,Belgium,18-24,Mass Market,22300,715,Referral,2025-05-01,1
+C00838,Belgium,55-64,Young Professional,51800,684,Organic Web,2024-04-08,1
+C00839,Belgium,65+,Young Professional,42600,654,Organic Web,2021-12-04,1
+C00840,Belgium,55-64,Mass Market,58600,772,Referral,2025-10-30,1
+C00841,Belgium,18-24,Affluent,62700,655,Referral,2019-11-19,1
+C00842,Germany,45-54,Affluent,165800,709,Referral,2023-03-16,0
+C00843,Belgium,55-64,Mass Market,69800,766,Referral,2026-05-01,0
+C00844,Netherlands,25-34,Family,56800,659,Referral,2023-04-02,1
+C00845,France,25-34,Affluent,76800,779,Branch,2019-03-27,1
+C00846,Germany,25-34,Affluent,70700,780,Organic Web,2025-02-26,1
+C00847,Belgium,65+,Family,53600,629,Referral,2024-08-12,1
+C00848,Netherlands,35-44,Young Professional,48000,638,Paid Search,2024-12-12,0
+C00849,France,18-24,Senior,17200,832,Organic Web,2024-08-04,1
+C00850,France,45-54,Affluent,85000,737,Partner,2026-05-18,0
+C00851,Germany,35-44,Senior,52300,557,Referral,2023-11-19,1
+C00852,Belgium,25-34,Family,46400,687,Paid Search,2019-10-28,1
+C00853,Germany,25-34,Mass Market,44800,638,Referral,2022-08-10,1
+C00854,Germany,45-54,Family,66300,699,Partner,2019-12-15,1
+C00855,Netherlands,25-34,Mass Market,43800,684,Organic Web,2023-03-07,1
+C00856,Netherlands,55-64,Affluent,126800,850,Paid Search,2025-09-27,0
+C00857,Netherlands,25-34,Mass Market,41100,583,Referral,2022-01-17,1
+C00858,Belgium,25-34,Family,42100,747,Organic Web,2022-01-15,0
+C00859,Germany,18-24,Senior,21200,568,Organic Web,2026-07-07,1
+C00860,Netherlands,35-44,Mass Market,63400,642,Branch,2020-06-05,1
+C00861,Belgium,25-34,Family,33900,614,Organic Web,2025-12-24,1
+C00862,France,35-44,Young Professional,63900,753,Branch,2023-08-29,1
+C00863,Netherlands,45-54,Young Professional,63700,814,Referral,2022-02-08,0
+C00864,Belgium,45-54,Mass Market,78300,590,Paid Search,2020-12-12,1
+C00865,Germany,35-44,Affluent,77600,767,Branch,2023-10-27,1
+C00866,Belgium,25-34,Mass Market,61600,692,Partner,2020-10-13,1
+C00867,Belgium,25-34,Mass Market,38800,664,Organic Web,2019-12-13,1
+C00868,Belgium,25-34,Senior,40400,695,Branch,2024-10-16,1
+C00869,Luxembourg,45-54,Young Professional,56300,745,Branch,2023-12-16,1
+C00870,Netherlands,55-64,Family,49600,600,Partner,2023-04-18,1
+C00871,Luxembourg,45-54,Family,80600,670,Branch,2026-01-16,1
+C00872,Belgium,65+,Family,27000,618,Organic Web,2026-07-28,1
+C00873,France,65+,Family,27000,636,Branch,2020-11-03,1
+C00874,Belgium,25-34,Young Professional,53300,671,Paid Search,2020-07-29,1
+C00875,Netherlands,35-44,Young Professional,28300,681,Paid Search,2025-12-15,1
+C00876,Belgium,35-44,Mass Market,59000,721,Referral,2019-11-26,1
+C00877,France,55-64,Mass Market,45000,580,Referral,2023-12-26,1
+C00878,Netherlands,35-44,Young Professional,72500,678,Referral,2023-10-04,1
+C00879,Belgium,25-34,Mass Market,29400,620,Paid Search,2024-01-08,1
+C00880,Belgium,25-34,Mass Market,34000,725,Organic Web,2026-07-06,1
+C00881,Germany,35-44,Affluent,85100,665,Paid Search,2021-06-17,1
+C00882,Belgium,45-54,Affluent,77800,567,Paid Search,2021-12-21,1
+C00883,Belgium,25-34,Young Professional,37500,686,Referral,2021-05-06,1
+C00884,Germany,35-44,Affluent,89300,751,Paid Search,2023-08-21,1
+C00885,Germany,25-34,Affluent,40900,701,Referral,2020-02-20,1
+C00886,Belgium,45-54,Young Professional,78000,653,Paid Search,2024-11-13,1
+C00887,Netherlands,45-54,Mass Market,54600,752,Paid Search,2021-02-20,1
+C00888,Belgium,35-44,Family,61800,850,Branch,2021-06-30,1
+C00889,Belgium,55-64,Young Professional,32800,740,Referral,2021-01-02,1
+C00890,Netherlands,25-34,Young Professional,46900,652,Branch,2022-09-23,0
+C00891,Belgium,25-34,Affluent,86700,713,Referral,2024-07-13,1
+C00892,France,25-34,Mass Market,31200,718,Branch,2022-05-23,1
+C00893,Belgium,55-64,Mass Market,70100,738,Organic Web,2025-03-17,0
+C00894,Luxembourg,55-64,Mass Market,61500,673,Paid Search,2019-03-08,0
+C00895,Belgium,55-64,Mass Market,51200,735,Branch,2021-01-08,1
+C00896,Netherlands,65+,Mass Market,39300,701,Partner,2020-10-24,1
+C00897,Netherlands,25-34,Mass Market,56000,845,Paid Search,2026-02-06,1
+C00898,Belgium,35-44,Senior,44200,686,Organic Web,2025-10-18,1
+C00899,Belgium,25-34,Young Professional,40300,760,Organic Web,2024-12-27,1
+C00900,Belgium,25-34,Family,24700,752,Organic Web,2025-12-29,1
+C00901,Germany,45-54,Young Professional,42400,665,Paid Search,2025-12-23,0
+C00902,Belgium,18-24,Affluent,50700,754,Organic Web,2019-09-28,1
+C00903,Belgium,18-24,Mass Market,32400,756,Paid Search,2022-04-25,1
+C00904,Belgium,18-24,Mass Market,24700,620,Referral,2022-03-22,1
+C00905,Belgium,45-54,Family,72900,725,Paid Search,2020-03-28,0
+C00906,Belgium,35-44,Young Professional,34400,633,Organic Web,2022-08-01,1
+C00907,Netherlands,55-64,Young Professional,60400,766,Organic Web,2021-10-01,1
+C00908,Belgium,35-44,Young Professional,48300,607,Organic Web,2019-05-27,1
+C00909,Belgium,45-54,Mass Market,54400,663,Branch,2021-12-19,0
+C00910,Belgium,25-34,Family,56400,719,Organic Web,2021-10-19,1
+C00911,France,18-24,Senior,21200,547,Organic Web,2022-10-07,1
+C00912,France,25-34,Young Professional,45300,563,Partner,2019-08-18,1
+C00913,Belgium,55-64,Family,45700,607,Partner,2021-05-03,1
+C00914,Germany,55-64,Young Professional,81400,834,Partner,2025-07-11,0
+C00915,Netherlands,18-24,Young Professional,28800,618,Organic Web,2020-08-02,1
+C00916,Belgium,25-34,Senior,36900,527,Organic Web,2019-09-28,1
+C00917,Netherlands,25-34,Senior,41800,739,Partner,2022-03-19,1
+C00918,Belgium,25-34,Affluent,72400,699,Partner,2019-01-20,1
+C00919,Luxembourg,65+,Mass Market,44700,609,Referral,2024-02-01,1
+C00920,Belgium,55-64,Senior,60800,633,Organic Web,2026-01-05,0
+C00921,Belgium,45-54,Mass Market,77000,815,Partner,2026-03-24,1
+C00922,Netherlands,25-34,Family,47400,716,Organic Web,2023-06-16,1
+C00923,Luxembourg,35-44,Senior,54100,770,Organic Web,2024-05-16,1
+C00924,Belgium,35-44,Affluent,121700,732,Paid Search,2020-01-21,1
+C00925,Netherlands,25-34,Affluent,74900,776,Organic Web,2026-05-22,0
+C00926,France,35-44,Affluent,122300,782,Paid Search,2025-10-18,1
+C00927,Netherlands,45-54,Young Professional,38900,617,Branch,2024-09-07,1
+C00928,France,18-24,Mass Market,24400,700,Partner,2021-02-10,1
+C00929,Belgium,25-34,Mass Market,37300,586,Organic Web,2025-02-07,1
+C00930,Belgium,45-54,Mass Market,68800,727,Paid Search,2022-02-11,0
+C00931,Belgium,25-34,Young Professional,49300,799,Paid Search,2022-12-15,1
+C00932,Germany,25-34,Young Professional,38900,637,Referral,2024-10-17,1
+C00933,Belgium,25-34,Family,47100,691,Referral,2025-05-11,1
+C00934,Belgium,25-34,Affluent,54900,681,Referral,2022-08-25,0
+C00935,Netherlands,45-54,Mass Market,67100,675,Referral,2020-06-25,1
+C00936,Belgium,55-64,Mass Market,59700,850,Partner,2021-05-16,1
+C00937,Germany,25-34,Affluent,55100,740,Paid Search,2023-06-13,0
+C00938,Belgium,45-54,Mass Market,51100,689,Organic Web,2019-12-22,1
+C00939,France,45-54,Mass Market,53500,642,Paid Search,2019-01-26,0
+C00940,Germany,25-34,Mass Market,40500,797,Partner,2020-11-02,1
+C00941,Belgium,45-54,Young Professional,77000,781,Organic Web,2025-05-27,1
+C00942,Belgium,25-34,Affluent,57900,695,Partner,2019-10-20,1
+C00943,Germany,35-44,Senior,45500,611,Branch,2023-03-21,1
+C00944,Belgium,45-54,Young Professional,78200,803,Organic Web,2025-06-24,1
+C00945,Belgium,18-24,Mass Market,25700,791,Organic Web,2019-05-20,1
+C00946,France,25-34,Family,30700,557,Referral,2020-03-04,1
+C00947,France,25-34,Mass Market,44800,683,Organic Web,2021-01-30,1
+C00948,Belgium,45-54,Mass Market,55600,678,Partner,2025-01-21,1
+C00949,Germany,35-44,Mass Market,32400,587,Paid Search,2026-05-29,1
+C00950,Belgium,35-44,Mass Market,44500,785,Referral,2023-03-18,0
+C00951,France,35-44,Family,57800,646,Organic Web,2021-10-12,1
+C00952,France,55-64,Family,59200,611,Branch,2023-09-14,1
+C00953,France,25-34,Mass Market,34200,670,Paid Search,2019-06-26,1
+C00954,Belgium,35-44,Affluent,66600,836,Branch,2022-02-01,1
+C00955,Netherlands,35-44,Family,50900,698,Referral,2022-11-28,1
+C00956,Belgium,55-64,Family,49400,627,Referral,2025-11-23,1
+C00957,Netherlands,45-54,Young Professional,64700,670,Organic Web,2026-06-12,1
+C00958,Belgium,65+,Family,49400,685,Referral,2022-10-29,1
+C00959,Belgium,25-34,Young Professional,50700,678,Referral,2025-05-22,1
+C00960,Belgium,25-34,Senior,37200,747,Organic Web,2019-02-07,1
+C00961,Germany,35-44,Family,49300,704,Referral,2024-12-17,1
+C00962,France,18-24,Mass Market,41300,765,Organic Web,2019-07-03,1
+C00963,Belgium,65+,Mass Market,43300,584,Paid Search,2026-02-21,0
+C00964,Belgium,35-44,Family,63000,638,Branch,2023-08-06,1
+C00965,Netherlands,55-64,Mass Market,37500,567,Referral,2020-09-20,1
+C00966,Belgium,45-54,Young Professional,39300,518,Paid Search,2024-07-24,1
+C00967,Germany,35-44,Affluent,70800,645,Referral,2019-09-15,1
+C00968,France,55-64,Mass Market,62400,672,Organic Web,2024-02-13,1
+C00969,Germany,25-34,Mass Market,27200,602,Paid Search,2020-09-19,0
+C00970,Germany,35-44,Senior,42200,668,Organic Web,2024-07-13,0
+C00971,France,45-54,Affluent,120400,721,Organic Web,2020-07-30,1
+C00972,Netherlands,45-54,Mass Market,82000,772,Paid Search,2024-10-14,1
+C00973,Belgium,25-34,Mass Market,61600,850,Organic Web,2019-07-05,1
+C00974,Belgium,45-54,Mass Market,40400,591,Organic Web,2021-06-06,0
+C00975,Belgium,55-64,Family,50000,654,Organic Web,2019-02-13,0
+C00976,Belgium,18-24,Mass Market,29300,655,Branch,2019-12-19,1
+C00977,Belgium,18-24,Young Professional,30600,730,Paid Search,2023-08-10,1
+C00978,Belgium,25-34,Affluent,79200,586,Branch,2023-05-08,1
+C00979,Belgium,35-44,Family,48600,798,Referral,2024-09-29,1
+C00980,Belgium,65+,Family,46700,741,Branch,2021-02-10,0
+C00981,Netherlands,25-34,Mass Market,40300,655,Organic Web,2024-11-06,1
+C00982,France,55-64,Mass Market,50200,625,Paid Search,2023-11-17,0
+C00983,Belgium,35-44,Senior,51100,760,Organic Web,2021-11-18,1
+C00984,Netherlands,25-34,Family,39300,612,Partner,2019-02-07,1
+C00985,France,35-44,Mass Market,55200,722,Paid Search,2025-12-01,1
+C00986,Belgium,35-44,Mass Market,41300,555,Organic Web,2022-07-20,0
+C00987,Belgium,35-44,Senior,42800,648,Branch,2021-02-25,1
+C00988,France,35-44,Affluent,108100,718,Paid Search,2025-09-04,1
+C00989,Belgium,25-34,Mass Market,36100,677,Organic Web,2025-02-13,1
+C00990,Netherlands,35-44,Family,57800,642,Organic Web,2021-03-30,1
+C00991,Netherlands,35-44,Family,24800,616,Paid Search,2023-12-07,1
+C00992,France,35-44,Young Professional,60200,710,Branch,2020-06-22,0
+C00993,Belgium,25-34,Affluent,85100,658,Referral,2023-05-27,0
+C00994,France,25-34,Mass Market,44800,759,Referral,2020-09-30,1
+C00995,Belgium,18-24,Family,21600,605,Organic Web,2022-10-20,1
+C00996,Netherlands,25-34,Family,48900,789,Branch,2019-03-05,1
+C00997,Belgium,35-44,Mass Market,44500,623,Paid Search,2019-01-09,1
+C00998,Belgium,45-54,Affluent,95700,640,Organic Web,2020-09-06,0
+C00999,Belgium,25-34,Senior,34800,601,Partner,2019-11-04,1
+C01000,France,65+,Mass Market,36900,658,Referral,2023-12-20,1
+C01001,Netherlands,65+,Mass Market,36000,696,Referral,2024-02-22,0
+C01002,Luxembourg,35-44,Mass Market,49500,647,Partner,2026-07-10,1
+C01003,Germany,45-54,Mass Market,68200,566,Partner,2019-04-17,0
+C01004,Netherlands,35-44,Family,38700,638,Paid Search,2019-04-13,1
+C01005,Belgium,45-54,Family,63400,698,Organic Web,2025-01-22,0
+C01006,France,45-54,Mass Market,73000,716,Organic Web,2022-10-16,0
+C01007,Belgium,45-54,Mass Market,64800,683,Organic Web,2021-01-31,1
+C01008,Netherlands,45-54,Young Professional,77200,597,Organic Web,2020-03-11,1
+C01009,Belgium,25-34,Mass Market,36000,619,Partner,2019-02-10,1
+C01010,Germany,45-54,Young Professional,39800,816,Organic Web,2021-01-07,0
+C01011,Belgium,25-34,Family,25100,772,Organic Web,2026-05-10,1
+C01012,Netherlands,25-34,Young Professional,37300,696,Paid Search,2022-11-09,1
+C01013,France,18-24,Mass Market,19200,441,Organic Web,2019-10-05,1
+C01014,Luxembourg,25-34,Family,43700,646,Referral,2025-01-13,1
+C01015,Belgium,18-24,Young Professional,23900,683,Partner,2019-06-03,1
+C01016,Netherlands,65+,Family,50500,744,Partner,2026-07-30,1
+C01017,Belgium,35-44,Mass Market,68800,683,Organic Web,2021-09-30,1
+C01018,Germany,35-44,Affluent,136600,791,Referral,2021-02-21,0
+C01019,Belgium,35-44,Mass Market,39200,709,Referral,2024-02-23,1
+C01020,Germany,45-54,Affluent,66800,788,Organic Web,2023-03-04,1
+C01021,Germany,25-34,Senior,31000,710,Organic Web,2025-04-03,1
+C01022,Germany,25-34,Family,55500,721,Organic Web,2023-07-30,0
+C01023,Netherlands,55-64,Young Professional,47900,686,Referral,2025-02-27,0
+C01024,Belgium,45-54,Family,66200,652,Paid Search,2021-01-08,1
+C01025,France,45-54,Young Professional,72300,735,Paid Search,2025-08-06,1
+C01026,Belgium,35-44,Affluent,112000,686,Branch,2025-02-25,1
+C01027,Belgium,25-34,Family,29000,589,Partner,2020-06-29,1
+C01028,Belgium,35-44,Young Professional,49600,729,Organic Web,2023-08-04,1
+C01029,Netherlands,65+,Family,41300,553,Organic Web,2020-02-03,0
+C01030,Netherlands,55-64,Family,70500,667,Paid Search,2024-07-10,1
+C01031,Belgium,65+,Mass Market,38500,750,Branch,2026-01-03,1
+C01032,Belgium,25-34,Affluent,83100,598,Partner,2020-07-15,1
+C01033,Belgium,55-64,Mass Market,48000,667,Partner,2025-06-19,1
+C01034,Belgium,55-64,Mass Market,71300,709,Branch,2021-08-11,1
+C01035,Germany,18-24,Family,26300,749,Branch,2023-01-21,1
+C01036,Netherlands,35-44,Family,60800,620,Organic Web,2026-01-05,1
+C01037,France,18-24,Affluent,37200,681,Organic Web,2021-04-30,1
+C01038,France,65+,Mass Market,48600,651,Organic Web,2020-05-19,1
+C01039,Belgium,55-64,Mass Market,37600,757,Organic Web,2019-08-17,0
+C01040,France,25-34,Affluent,78500,730,Organic Web,2022-05-08,1
+C01041,France,35-44,Family,39900,609,Paid Search,2021-03-01,0
+C01042,Germany,35-44,Family,41700,717,Referral,2021-12-16,1
+C01043,Luxembourg,45-54,Mass Market,58500,683,Paid Search,2024-08-23,0
+C01044,Netherlands,45-54,Family,55000,628,Referral,2022-11-13,0
+C01045,Germany,35-44,Mass Market,70400,652,Branch,2024-12-25,1
+C01046,France,35-44,Senior,48400,630,Branch,2020-02-08,1
+C01047,Germany,25-34,Senior,41400,688,Organic Web,2025-01-30,1
+C01048,Belgium,45-54,Family,72600,661,Partner,2019-06-09,1
+C01049,Netherlands,35-44,Family,31200,552,Branch,2023-09-11,0
+C01050,Belgium,25-34,Young Professional,31900,660,Partner,2024-04-14,1
+C01051,Belgium,35-44,Affluent,87500,738,Branch,2019-01-06,1
+C01052,Belgium,45-54,Young Professional,39800,701,Branch,2020-04-12,0
+C01053,Belgium,35-44,Family,62400,824,Organic Web,2026-02-15,0
+C01054,Germany,25-34,Family,43800,807,Referral,2022-01-24,1
+C01055,Netherlands,45-54,Family,70000,688,Referral,2022-04-24,0
+C01056,Netherlands,25-34,Young Professional,50800,589,Organic Web,2019-08-07,0
+C01057,Luxembourg,25-34,Family,34300,735,Paid Search,2024-02-12,1
+C01058,Germany,35-44,Mass Market,46200,795,Branch,2023-01-08,0
+C01059,Belgium,55-64,Young Professional,45000,606,Partner,2021-10-16,0
+C01060,France,35-44,Family,48600,661,Paid Search,2019-01-27,0
+C01061,Belgium,18-24,Mass Market,27000,651,Partner,2024-09-22,0
+C01062,Belgium,65+,Mass Market,49200,530,Referral,2020-02-08,0
+C01063,Germany,35-44,Mass Market,51100,769,Partner,2023-04-16,1
+C01064,Belgium,55-64,Senior,37800,540,Partner,2022-05-19,0
+C01065,Luxembourg,18-24,Mass Market,19300,563,Organic Web,2024-03-14,0
+C01066,Netherlands,65+,Affluent,71900,785,Organic Web,2026-07-26,1
+C01067,Belgium,18-24,Family,30000,637,Referral,2020-08-21,0
+C01068,Germany,55-64,Affluent,115300,710,Organic Web,2023-01-14,1
+C01069,Germany,25-34,Family,46300,681,Organic Web,2024-12-11,1
+C01070,Belgium,45-54,Affluent,77700,721,Organic Web,2026-01-12,0
+C01071,Luxembourg,45-54,Mass Market,53900,674,Paid Search,2019-11-26,1
+C01072,Netherlands,18-24,Family,23300,601,Organic Web,2020-06-01,1
+C01073,France,35-44,Young Professional,53000,633,Branch,2026-07-01,1
+C01074,Belgium,25-34,Affluent,67400,749,Paid Search,2021-07-28,1
+C01075,Germany,35-44,Senior,65600,745,Referral,2022-05-21,1
+C01076,Belgium,35-44,Young Professional,46600,633,Partner,2019-08-04,0
+C01077,Belgium,35-44,Mass Market,55800,677,Organic Web,2020-05-08,1
+C01078,Germany,25-34,Young Professional,36100,645,Partner,2020-06-11,1
+C01079,France,18-24,Mass Market,28500,707,Branch,2023-05-26,0
+C01080,Netherlands,35-44,Senior,61200,809,Partner,2022-08-08,1
+C01081,Belgium,55-64,Mass Market,55900,718,Referral,2023-05-21,1
+C01082,Belgium,45-54,Family,58700,709,Paid Search,2024-05-05,1
+C01083,Belgium,65+,Mass Market,44500,646,Paid Search,2025-03-31,0
+C01084,Netherlands,18-24,Young Professional,16100,586,Organic Web,2025-10-06,1
+C01085,Netherlands,65+,Young Professional,39700,682,Paid Search,2023-04-05,1
+C01086,Netherlands,45-54,Mass Market,61200,736,Partner,2019-06-24,0
+C01087,Belgium,18-24,Young Professional,19500,721,Paid Search,2020-10-22,1
+C01088,Germany,25-34,Young Professional,50700,663,Branch,2022-06-17,1
+C01089,Belgium,25-34,Family,55900,699,Branch,2022-07-14,1
+C01090,France,25-34,Family,45300,709,Organic Web,2022-05-31,1
+C01091,Belgium,45-54,Family,83200,691,Referral,2026-07-01,1
+C01092,Netherlands,45-54,Mass Market,60200,734,Paid Search,2023-05-26,1
+C01093,Netherlands,35-44,Young Professional,58200,504,Referral,2025-09-11,1
+C01094,Netherlands,25-34,Family,60800,677,Branch,2024-10-01,1
+C01095,Belgium,45-54,Mass Market,73200,698,Partner,2022-09-05,1
+C01096,Netherlands,25-34,Family,45600,767,Organic Web,2024-01-03,1
+C01097,Germany,35-44,Affluent,90400,706,Organic Web,2025-04-08,1
+C01098,Netherlands,35-44,Young Professional,55300,775,Branch,2019-07-29,1
+C01099,Belgium,25-34,Senior,53200,623,Branch,2025-12-01,1
+C01100,Netherlands,35-44,Family,42400,734,Referral,2022-07-31,0
+C01101,Belgium,25-34,Family,33900,655,Branch,2021-11-22,1
+C01102,Germany,25-34,Affluent,82200,822,Branch,2025-07-12,1
+C01103,Belgium,35-44,Mass Market,54300,665,Paid Search,2022-07-10,1
+C01104,Germany,45-54,Affluent,104500,783,Referral,2025-10-03,1
+C01105,Germany,55-64,Mass Market,68700,727,Partner,2023-04-14,0
+C01106,Germany,65+,Family,34200,712,Referral,2024-11-23,1
+C01107,Belgium,55-64,Family,48300,686,Partner,2021-02-10,1
+C01108,Germany,25-34,Family,36300,736,Branch,2026-01-29,1
+C01109,Germany,25-34,Family,30300,689,Branch,2023-11-02,1
+C01110,Belgium,25-34,Family,63200,625,Paid Search,2020-11-27,1
+C01111,Belgium,45-54,Young Professional,71800,754,Paid Search,2025-08-31,0
+C01112,Belgium,45-54,Mass Market,40300,657,Referral,2021-09-25,1
+C01113,Belgium,35-44,Young Professional,54500,663,Organic Web,2019-03-03,1
+C01114,Belgium,35-44,Mass Market,74700,720,Partner,2020-03-12,0
+C01115,Belgium,35-44,Mass Market,62500,556,Partner,2020-01-26,1
+C01116,France,25-34,Mass Market,42100,717,Organic Web,2021-05-18,1
+C01117,Netherlands,55-64,Family,39800,626,Branch,2026-02-22,0
+C01118,Netherlands,55-64,Mass Market,44200,528,Organic Web,2024-03-10,1
+C01119,Belgium,18-24,Mass Market,37000,635,Referral,2023-09-16,1
+C01120,Netherlands,65+,Mass Market,42600,643,Branch,2019-12-19,1
+C01121,France,45-54,Mass Market,63100,770,Organic Web,2020-04-16,0
+C01122,Netherlands,35-44,Family,55100,742,Branch,2023-01-01,1
+C01123,France,55-64,Family,63000,704,Branch,2022-03-21,0
+C01124,France,55-64,Young Professional,37100,708,Paid Search,2024-05-01,1
+C01125,Luxembourg,35-44,Mass Market,39600,635,Organic Web,2021-12-06,1
+C01126,Belgium,25-34,Mass Market,25300,701,Partner,2022-03-08,1
+C01127,Belgium,25-34,Affluent,66500,669,Referral,2025-05-03,1
+C01128,Netherlands,45-54,Family,53400,666,Branch,2020-07-26,1
+C01129,Netherlands,55-64,Mass Market,51900,699,Paid Search,2020-01-12,1
+C01130,France,35-44,Mass Market,44900,647,Paid Search,2020-06-10,1
+C01131,Belgium,55-64,Affluent,84100,772,Partner,2019-03-23,0
+C01132,Belgium,25-34,Mass Market,54900,667,Organic Web,2022-10-07,1
+C01133,France,25-34,Senior,42800,649,Referral,2023-10-31,1
+C01134,Netherlands,55-64,Mass Market,41000,787,Organic Web,2019-08-04,1
+C01135,Netherlands,35-44,Senior,56900,723,Partner,2020-09-05,1
+C01136,Luxembourg,35-44,Mass Market,73200,638,Partner,2020-01-24,1
+C01137,Belgium,35-44,Affluent,85700,660,Branch,2021-02-09,1
+C01138,Belgium,25-34,Affluent,93000,742,Partner,2025-01-14,1
+C01139,Germany,35-44,Young Professional,58700,671,Branch,2023-05-15,1
+C01140,Belgium,45-54,Affluent,137000,756,Referral,2023-07-02,0
+C01141,Netherlands,35-44,Mass Market,63000,741,Partner,2021-08-29,1
+C01142,France,55-64,Mass Market,48500,733,Referral,2021-02-09,0
+C01143,Belgium,25-34,Family,43000,535,Organic Web,2026-02-21,1
+C01144,France,18-24,Family,25700,709,Branch,2020-10-17,1
+C01145,Belgium,25-34,Family,20800,589,Paid Search,2025-09-06,1
+C01146,Netherlands,35-44,Mass Market,41000,658,Branch,2021-02-14,0
+C01147,Germany,25-34,Young Professional,48800,786,Referral,2021-09-07,1
+C01148,Germany,45-54,Mass Market,65700,683,Paid Search,2025-04-14,0
+C01149,Luxembourg,35-44,Mass Market,52200,642,Referral,2021-04-04,1
+C01150,Germany,65+,Affluent,61100,746,Organic Web,2024-12-27,1
+C01151,Belgium,55-64,Family,75900,720,Organic Web,2020-02-29,1
+C01152,Belgium,25-34,Mass Market,22400,724,Organic Web,2024-12-09,1
+C01153,Belgium,25-34,Affluent,56900,699,Partner,2021-12-28,1
+C01154,Netherlands,25-34,Mass Market,42500,622,Paid Search,2024-07-01,1
+C01155,France,65+,Mass Market,37800,632,Paid Search,2022-02-20,1
+C01156,France,45-54,Mass Market,62700,657,Paid Search,2020-03-26,0
+C01157,Belgium,65+,Affluent,85900,693,Branch,2024-07-16,1
+C01158,France,55-64,Family,49900,754,Paid Search,2023-03-11,1
+C01159,France,35-44,Young Professional,56500,661,Referral,2021-08-29,1
+C01160,France,18-24,Family,17600,719,Referral,2022-06-13,1
+C01161,France,25-34,Family,16000,641,Partner,2024-10-31,1
+C01162,Belgium,35-44,Family,57200,776,Organic Web,2025-06-18,1
+C01163,France,55-64,Senior,43400,658,Organic Web,2019-11-09,1
+C01164,Belgium,18-24,Young Professional,26600,689,Branch,2025-12-16,1
+C01165,Germany,35-44,Mass Market,52900,664,Branch,2021-07-04,1
+C01166,France,35-44,Affluent,76300,631,Organic Web,2022-08-09,1
+C01167,Luxembourg,35-44,Mass Market,45100,723,Organic Web,2021-06-11,1
+C01168,Belgium,18-24,Young Professional,40600,791,Branch,2024-01-12,1
+C01169,Netherlands,35-44,Mass Market,57400,690,Referral,2026-05-25,1
+C01170,Belgium,35-44,Mass Market,58200,568,Partner,2024-07-03,1
+C01171,Belgium,55-64,Mass Market,64300,705,Paid Search,2023-12-04,0
+C01172,France,25-34,Mass Market,59300,639,Referral,2019-08-23,1
+C01173,Belgium,45-54,Young Professional,39000,629,Branch,2020-09-16,1
+C01174,Belgium,35-44,Mass Market,54500,627,Branch,2020-01-02,1
+C01175,Belgium,18-24,Mass Market,31400,743,Organic Web,2020-07-21,1
+C01176,Belgium,18-24,Family,25300,619,Organic Web,2024-09-11,0
+C01177,Belgium,25-34,Young Professional,44500,678,Organic Web,2020-10-15,0
+C01178,Belgium,45-54,Young Professional,60000,707,Organic Web,2022-01-12,1
+C01179,Belgium,25-34,Affluent,92300,770,Paid Search,2025-10-18,1
+C01180,Belgium,45-54,Mass Market,71500,681,Paid Search,2020-07-11,0
+C01181,Luxembourg,55-64,Mass Market,42400,663,Referral,2025-09-29,1
+C01182,Netherlands,25-34,Family,28000,675,Organic Web,2026-03-12,1
+C01183,France,25-34,Family,52400,766,Branch,2021-11-17,1
+C01184,Netherlands,55-64,Affluent,104200,646,Branch,2026-01-10,1
+C01185,Belgium,45-54,Senior,65600,656,Organic Web,2022-09-17,1
+C01186,Belgium,55-64,Family,48800,726,Referral,2022-05-27,0
+C01187,Luxembourg,35-44,Young Professional,33000,525,Paid Search,2021-09-25,1
+C01188,Netherlands,25-34,Family,48000,585,Partner,2023-10-12,1
+C01189,Netherlands,25-34,Family,53100,714,Paid Search,2022-10-23,1
+C01190,Belgium,18-24,Mass Market,26200,632,Paid Search,2020-02-10,1
+C01191,France,25-34,Young Professional,45900,631,Branch,2019-07-05,1
+C01192,Belgium,25-34,Mass Market,26100,702,Organic Web,2021-09-26,1
+C01193,Belgium,35-44,Mass Market,62300,643,Partner,2021-07-22,1
+C01194,Netherlands,55-64,Mass Market,60700,647,Branch,2019-09-22,1
+C01195,Netherlands,25-34,Family,58700,802,Organic Web,2025-12-03,1
+C01196,Belgium,18-24,Family,30800,613,Referral,2019-06-24,1
+C01197,Netherlands,35-44,Family,52800,724,Organic Web,2021-08-22,1
+C01198,Netherlands,25-34,Family,21200,646,Organic Web,2019-11-13,1
+C01199,Belgium,18-24,Mass Market,22100,646,Branch,2021-03-14,1
+C01200,Germany,18-24,Mass Market,20900,605,Branch,2020-08-25,1
+C01201,France,35-44,Family,70800,649,Branch,2022-05-14,1
+C01202,Netherlands,18-24,Mass Market,21800,651,Branch,2022-06-12,1
+C01203,Belgium,45-54,Young Professional,56100,665,Paid Search,2025-08-12,1
+C01204,Belgium,45-54,Mass Market,62900,709,Organic Web,2023-05-29,1
+C01205,Germany,35-44,Family,57700,739,Branch,2021-03-30,1
+C01206,Luxembourg,55-64,Young Professional,33300,665,Organic Web,2022-05-08,0
+C01207,Netherlands,25-34,Mass Market,43400,795,Branch,2025-12-17,1
+C01208,Netherlands,45-54,Young Professional,61900,603,Organic Web,2019-07-06,1
+C01209,Germany,35-44,Family,68400,626,Organic Web,2021-08-03,1
+C01210,Germany,45-54,Mass Market,61800,689,Partner,2019-05-08,0
+C01211,France,18-24,Family,19300,737,Organic Web,2020-08-30,1
+C01212,Belgium,35-44,Family,52000,596,Partner,2023-09-08,1
+C01213,Belgium,45-54,Family,62200,608,Paid Search,2024-08-13,1
+C01214,Belgium,25-34,Family,38700,620,Organic Web,2021-08-08,1
+C01215,Belgium,25-34,Mass Market,41300,728,Referral,2024-08-25,1
+C01216,Netherlands,25-34,Senior,41900,559,Branch,2024-01-03,1
+C01217,Belgium,25-34,Family,34500,747,Paid Search,2021-06-28,1
+C01218,Germany,65+,Mass Market,52300,676,Referral,2022-10-30,1
+C01219,Belgium,18-24,Senior,29500,666,Referral,2020-04-14,0
+C01220,Belgium,25-34,Mass Market,45500,602,Paid Search,2021-10-14,1
+C01221,Luxembourg,45-54,Affluent,82200,780,Referral,2022-07-02,0
+C01222,Belgium,35-44,Family,56400,667,Paid Search,2020-11-30,0
+C01223,Netherlands,25-34,Mass Market,53400,714,Branch,2021-06-30,1
+C01224,Belgium,45-54,Mass Market,56100,688,Paid Search,2024-04-11,1
+C01225,Belgium,45-54,Young Professional,44400,651,Partner,2021-06-08,0
+C01226,Netherlands,25-34,Young Professional,42100,684,Referral,2024-12-20,1
+C01227,Belgium,55-64,Mass Market,54100,656,Organic Web,2023-04-29,1
+C01228,Belgium,25-34,Young Professional,49400,750,Organic Web,2019-07-23,1
+C01229,Belgium,25-34,Senior,49900,600,Branch,2019-10-12,1
+C01230,Germany,25-34,Family,52900,645,Referral,2026-07-10,1
+C01231,Netherlands,55-64,Mass Market,77800,618,Organic Web,2023-09-11,1
+C01232,Belgium,35-44,Family,46400,646,Branch,2023-08-26,1
+C01233,Germany,45-54,Mass Market,51000,589,Paid Search,2023-03-15,1
+C01234,Belgium,35-44,Mass Market,60800,604,Partner,2025-04-13,1
+C01235,Germany,35-44,Family,38200,774,Paid Search,2023-10-07,1
+C01236,France,25-34,Family,24100,764,Partner,2025-03-26,1
+C01237,Germany,45-54,Family,65700,720,Branch,2025-09-25,0
+C01238,Netherlands,55-64,Affluent,101800,647,Branch,2024-11-17,1
+C01239,Netherlands,45-54,Mass Market,88900,764,Paid Search,2025-05-17,1
+C01240,Belgium,45-54,Family,75200,724,Paid Search,2020-07-02,1
+C01241,Belgium,45-54,Mass Market,66300,746,Referral,2022-09-18,0
+C01242,Netherlands,25-34,Affluent,75100,772,Organic Web,2024-12-09,1
+C01243,Germany,55-64,Affluent,114900,763,Organic Web,2023-08-12,1
+C01244,France,35-44,Mass Market,28300,578,Referral,2026-05-19,1
+C01245,Belgium,55-64,Mass Market,55300,667,Paid Search,2021-09-08,1
+C01246,Belgium,18-24,Mass Market,29300,729,Branch,2021-10-27,1
+C01247,Netherlands,65+,Mass Market,26700,738,Partner,2019-03-05,1
+C01248,Belgium,25-34,Affluent,70500,650,Organic Web,2025-08-05,1
+C01249,Germany,45-54,Mass Market,68600,623,Referral,2025-06-14,1
+C01250,Netherlands,45-54,Senior,66500,647,Branch,2025-12-14,1
+C01251,Netherlands,35-44,Family,62400,676,Branch,2022-02-10,1
+C01252,Belgium,25-34,Young Professional,51500,626,Partner,2020-01-13,1
+C01253,Belgium,45-54,Mass Market,49000,698,Organic Web,2025-05-04,0
+C01254,Belgium,25-34,Young Professional,36700,570,Organic Web,2026-06-13,1
+C01255,Germany,25-34,Family,34800,650,Branch,2024-12-19,1
+C01256,Germany,35-44,Family,57900,683,Partner,2023-12-12,1
+C01257,Netherlands,35-44,Young Professional,35500,661,Paid Search,2026-02-02,1
+C01258,Germany,35-44,Young Professional,61800,653,Partner,2023-11-28,0
+C01259,Belgium,35-44,Family,51100,738,Paid Search,2020-12-10,1
+C01260,Belgium,45-54,Family,46900,718,Paid Search,2026-06-02,1
+C01261,Germany,18-24,Mass Market,28000,681,Partner,2021-01-24,1
+C01262,Germany,25-34,Family,50600,578,Organic Web,2024-06-26,1
+C01263,Belgium,45-54,Mass Market,85100,742,Branch,2019-06-17,1
+C01264,Netherlands,35-44,Young Professional,63200,711,Referral,2023-10-23,1
+C01265,Luxembourg,18-24,Mass Market,28600,633,Branch,2024-09-21,0
+C01266,Luxembourg,35-44,Family,59700,709,Branch,2023-10-17,1
+C01267,Germany,35-44,Mass Market,49800,592,Branch,2019-05-02,1
+C01268,Belgium,55-64,Senior,44900,720,Paid Search,2022-10-28,1
+C01269,Germany,45-54,Mass Market,54200,661,Referral,2023-05-05,1
+C01270,Belgium,45-54,Senior,55000,741,Paid Search,2022-01-11,1
+C01271,Belgium,25-34,Senior,62000,773,Referral,2022-08-07,1
+C01272,Luxembourg,35-44,Mass Market,45600,759,Branch,2021-06-06,1
+C01273,Netherlands,45-54,Young Professional,57500,645,Organic Web,2019-12-15,0
+C01274,Belgium,25-34,Mass Market,40400,698,Branch,2024-11-02,1
+C01275,Belgium,35-44,Senior,56500,756,Partner,2023-01-25,1
+C01276,France,45-54,Family,69000,733,Referral,2019-07-17,0
+C01277,France,45-54,Senior,58400,626,Paid Search,2025-12-02,1
+C01278,Belgium,45-54,Mass Market,66800,684,Partner,2022-02-12,1
+C01279,Netherlands,45-54,Family,79200,720,Referral,2019-07-17,1
+C01280,Germany,35-44,Senior,27700,519,Partner,2021-12-09,0
+C01281,France,45-54,Mass Market,48600,654,Branch,2024-10-13,1
+C01282,Belgium,55-64,Mass Market,52200,677,Paid Search,2023-12-24,0
+C01283,Belgium,18-24,Family,29300,652,Organic Web,2022-04-16,1
+C01284,Belgium,25-34,Mass Market,46800,704,Paid Search,2019-10-25,1
+C01285,France,25-34,Mass Market,46600,579,Partner,2019-03-25,1
+C01286,Germany,25-34,Senior,53300,794,Branch,2019-07-15,1
+C01287,Belgium,25-34,Affluent,84200,641,Referral,2019-02-18,1
+C01288,Netherlands,25-34,Mass Market,46100,633,Branch,2020-06-06,1
+C01289,France,55-64,Affluent,77700,646,Partner,2025-09-17,0
+C01290,Belgium,45-54,Mass Market,32300,585,Paid Search,2019-02-14,0
+C01291,Luxembourg,55-64,Affluent,117600,666,Organic Web,2024-09-28,1
+C01292,Netherlands,55-64,Mass Market,70900,607,Organic Web,2019-04-29,1
+C01293,France,35-44,Family,68700,620,Partner,2019-12-16,1
+C01294,France,18-24,Family,28200,738,Referral,2024-11-09,1
+C01295,Belgium,45-54,Young Professional,51300,623,Branch,2024-02-13,1
+C01296,Belgium,25-34,Mass Market,46700,580,Organic Web,2023-12-02,0
+C01297,Netherlands,35-44,Mass Market,69200,666,Branch,2026-01-26,1
+C01298,Belgium,45-54,Young Professional,58900,738,Organic Web,2019-09-16,1
+C01299,France,35-44,Family,61300,723,Referral,2022-04-13,0
+C01300,Belgium,35-44,Affluent,94300,714,Branch,2026-07-05,1
+C01301,Belgium,25-34,Family,45600,766,Organic Web,2020-06-10,1
+C01302,France,25-34,Family,39100,585,Paid Search,2021-05-31,1
+C01303,Germany,35-44,Family,65000,633,Paid Search,2025-07-18,1
+C01304,Netherlands,35-44,Family,30100,556,Partner,2022-07-12,0
+C01305,Netherlands,55-64,Family,50200,620,Branch,2020-12-08,1
+C01306,France,45-54,Family,67700,638,Organic Web,2023-01-02,1
+C01307,Belgium,18-24,Senior,40200,689,Branch,2021-11-19,1
+C01308,Luxembourg,25-34,Family,47400,570,Branch,2026-02-01,1
+C01309,Belgium,45-54,Mass Market,68500,800,Paid Search,2025-12-02,1
+C01310,Germany,18-24,Family,24200,625,Paid Search,2023-07-12,1
+C01311,Belgium,18-24,Family,18000,668,Organic Web,2023-08-25,1
+C01312,Belgium,35-44,Affluent,105900,799,Branch,2020-05-02,0
+C01313,Netherlands,18-24,Affluent,45000,610,Organic Web,2019-02-05,1
+C01314,Belgium,35-44,Young Professional,59500,820,Partner,2020-11-05,0
+C01315,Belgium,45-54,Family,71500,754,Referral,2025-11-30,1
+C01316,Netherlands,18-24,Mass Market,28300,724,Branch,2020-02-22,1
+C01317,Netherlands,35-44,Mass Market,58400,630,Referral,2022-02-25,1
+C01318,Luxembourg,25-34,Mass Market,41900,554,Branch,2025-06-01,1
+C01319,France,45-54,Mass Market,82400,668,Branch,2025-01-28,1
+C01320,Belgium,35-44,Young Professional,81700,704,Organic Web,2021-12-03,1
+C01321,France,18-24,Mass Market,30200,463,Branch,2023-08-12,1
+C01322,Netherlands,35-44,Young Professional,46300,633,Partner,2026-01-19,1
+C01323,Belgium,35-44,Mass Market,49200,634,Organic Web,2026-04-03,1
+C01324,France,55-64,Young Professional,62800,820,Organic Web,2025-08-20,0
+C01325,Belgium,65+,Family,41900,646,Partner,2022-09-04,1
+C01326,Netherlands,45-54,Senior,45400,754,Referral,2023-11-04,0
+C01327,Netherlands,45-54,Family,71200,722,Paid Search,2020-01-24,1
+C01328,Belgium,25-34,Family,42800,696,Branch,2019-02-04,0
+C01329,Belgium,25-34,Family,43800,668,Paid Search,2023-10-09,1
+C01330,Netherlands,25-34,Affluent,75500,676,Organic Web,2025-04-02,1
+C01331,Germany,55-64,Family,63600,754,Organic Web,2021-09-25,1
+C01332,Belgium,35-44,Family,70500,781,Partner,2025-05-10,0
+C01333,Germany,65+,Family,28900,618,Branch,2021-07-22,1
+C01334,Belgium,45-54,Mass Market,81600,590,Organic Web,2023-01-09,0
+C01335,Belgium,25-34,Young Professional,35500,728,Referral,2022-02-09,0
+C01336,Belgium,45-54,Senior,64800,775,Branch,2023-10-21,1
+C01337,Luxembourg,65+,Mass Market,42200,850,Paid Search,2019-01-18,1
+C01338,Germany,35-44,Mass Market,72000,711,Organic Web,2021-03-12,1
+C01339,Netherlands,25-34,Family,33800,736,Partner,2021-10-20,1
+C01340,Germany,45-54,Young Professional,67900,690,Branch,2021-02-12,0
+C01341,Germany,25-34,Mass Market,25800,708,Paid Search,2025-01-29,1
+C01342,Belgium,18-24,Mass Market,31700,704,Partner,2024-06-16,1
+C01343,Luxembourg,55-64,Family,69000,664,Organic Web,2024-11-06,0
+C01344,Belgium,25-34,Family,51700,765,Organic Web,2022-06-30,1
+C01345,Germany,55-64,Young Professional,52800,752,Branch,2019-04-16,0
+C01346,Netherlands,45-54,Young Professional,82200,689,Referral,2025-06-29,1
+C01347,Belgium,45-54,Affluent,64200,687,Referral,2019-04-07,1
+C01348,Netherlands,45-54,Family,52500,675,Paid Search,2022-06-29,1
+C01349,Germany,35-44,Senior,57200,850,Organic Web,2019-10-16,1
+C01350,Luxembourg,25-34,Family,33800,578,Organic Web,2023-04-12,1
+C01351,Luxembourg,35-44,Affluent,76100,710,Partner,2025-01-20,1
+C01352,Germany,45-54,Family,42800,648,Organic Web,2021-12-14,1
+C01353,Belgium,35-44,Family,40200,778,Organic Web,2021-01-19,0
+C01354,Belgium,18-24,Affluent,61200,726,Paid Search,2024-06-09,1
+C01355,Netherlands,55-64,Family,66300,605,Partner,2023-05-13,1
+C01356,France,45-54,Young Professional,48500,835,Organic Web,2026-05-13,1
+C01357,Belgium,18-24,Young Professional,29900,766,Paid Search,2026-04-06,1
+C01358,Germany,55-64,Affluent,105000,711,Referral,2025-10-25,1
+C01359,Belgium,45-54,Family,37100,669,Referral,2023-12-27,1
+C01360,Netherlands,65+,Senior,57200,619,Partner,2026-01-15,0
+C01361,France,55-64,Mass Market,75900,850,Branch,2023-10-07,1
+C01362,Belgium,45-54,Young Professional,80100,710,Partner,2025-10-24,1
+C01363,Belgium,18-24,Young Professional,26100,728,Organic Web,2022-09-29,1
+C01364,Germany,45-54,Young Professional,65700,761,Organic Web,2024-07-26,0
+C01365,Belgium,55-64,Young Professional,71100,700,Partner,2024-07-15,0
+C01366,Belgium,45-54,Affluent,94600,666,Organic Web,2019-08-11,0
+C01367,France,25-34,Family,43800,737,Paid Search,2021-08-18,0
+C01368,Netherlands,45-54,Affluent,119000,736,Branch,2025-02-02,1
+C01369,Germany,25-34,Affluent,81700,636,Referral,2025-05-01,0
+C01370,France,35-44,Senior,71700,663,Referral,2024-11-20,1
+C01371,Belgium,25-34,Young Professional,46300,577,Organic Web,2025-01-02,1
+C01372,Belgium,45-54,Young Professional,72200,663,Branch,2020-02-07,0
+C01373,Belgium,25-34,Mass Market,38800,729,Branch,2021-08-11,1
+C01374,Netherlands,35-44,Family,44300,616,Partner,2022-12-23,1
+C01375,Netherlands,25-34,Young Professional,49100,680,Partner,2020-10-14,1
+C01376,Germany,55-64,Mass Market,71900,715,Branch,2023-01-23,0
+C01377,Belgium,35-44,Family,80500,612,Branch,2023-12-29,1
+C01378,Belgium,45-54,Senior,53000,747,Paid Search,2023-01-17,1
+C01379,Belgium,35-44,Young Professional,56600,759,Paid Search,2020-09-05,1
+C01380,France,65+,Mass Market,30000,658,Organic Web,2022-12-25,1
+C01381,France,25-34,Senior,77300,636,Organic Web,2024-04-01,1
+C01382,Belgium,25-34,Mass Market,42100,683,Organic Web,2025-01-09,1
+C01383,Germany,25-34,Mass Market,38500,610,Referral,2020-07-18,1
+C01384,Germany,35-44,Affluent,95000,718,Branch,2020-10-10,1
+C01385,Luxembourg,35-44,Mass Market,64200,571,Branch,2020-04-24,1
+C01386,Belgium,25-34,Family,61400,666,Paid Search,2021-08-11,1
+C01387,Belgium,35-44,Mass Market,54200,600,Referral,2021-04-24,1
+C01388,Netherlands,65+,Mass Market,46100,700,Paid Search,2025-02-07,0
+C01389,Belgium,35-44,Young Professional,41700,737,Referral,2020-07-27,1
+C01390,Belgium,35-44,Young Professional,56900,786,Organic Web,2026-07-02,1
+C01391,Netherlands,18-24,Young Professional,23700,830,Organic Web,2025-04-06,1
+C01392,Germany,55-64,Young Professional,60500,639,Organic Web,2024-10-22,1
+C01393,Luxembourg,35-44,Affluent,143300,708,Referral,2023-11-19,1
+C01394,Belgium,35-44,Family,53500,692,Paid Search,2024-10-08,1
+C01395,France,55-64,Mass Market,66800,737,Referral,2025-06-04,0
+C01396,France,45-54,Family,32800,604,Organic Web,2025-01-15,1
+C01397,France,18-24,Mass Market,22400,613,Partner,2020-12-06,1
+C01398,Belgium,35-44,Family,54900,802,Branch,2021-10-08,1
+C01399,Germany,25-34,Affluent,54800,542,Organic Web,2021-10-31,1
+C01400,Belgium,18-24,Mass Market,26800,581,Referral,2022-06-10,0
+C01401,France,35-44,Mass Market,57000,739,Organic Web,2023-09-09,1
+C01402,Belgium,25-34,Young Professional,46000,646,Organic Web,2025-02-11,1
+C01403,Germany,25-34,Mass Market,40300,675,Referral,2024-04-30,1
+C01404,Luxembourg,45-54,Family,81000,809,Organic Web,2023-08-01,0
+C01405,Luxembourg,45-54,Senior,72700,559,Referral,2025-06-16,0
+C01406,Germany,55-64,Family,71500,806,Organic Web,2023-12-04,1
+C01407,Netherlands,45-54,Affluent,138100,850,Branch,2023-02-17,1
+C01408,Netherlands,45-54,Family,58700,624,Organic Web,2025-02-02,1
+C01409,Netherlands,45-54,Young Professional,75500,723,Branch,2024-10-28,0
+C01410,Belgium,25-34,Mass Market,34200,590,Organic Web,2023-01-25,1
+C01411,Netherlands,45-54,Senior,63100,751,Referral,2021-01-16,0
+C01412,Netherlands,25-34,Mass Market,30900,628,Referral,2025-03-15,1
+C01413,France,55-64,Affluent,113200,730,Paid Search,2020-05-28,1
+C01414,France,35-44,Mass Market,59700,788,Paid Search,2025-03-13,1
+C01415,Belgium,18-24,Mass Market,38900,739,Branch,2021-12-24,1
+C01416,Belgium,25-34,Mass Market,29900,684,Referral,2020-07-16,1
+C01417,Luxembourg,25-34,Senior,37700,688,Organic Web,2022-08-25,1
+C01418,Belgium,45-54,Young Professional,40400,572,Branch,2025-02-12,1
+C01419,Netherlands,45-54,Young Professional,63900,653,Organic Web,2023-06-21,1
+C01420,France,35-44,Mass Market,51100,657,Branch,2023-10-11,1
+C01421,Netherlands,65+,Mass Market,31000,623,Branch,2024-01-09,0
+C01422,Germany,35-44,Mass Market,79400,716,Organic Web,2024-11-19,1
+C01423,Belgium,18-24,Family,24800,653,Organic Web,2025-03-18,1
+C01424,Netherlands,65+,Young Professional,31900,666,Organic Web,2019-03-05,1
+C01425,Belgium,55-64,Mass Market,61400,710,Partner,2020-04-12,1
+C01426,Belgium,55-64,Young Professional,58600,671,Partner,2020-03-21,0
+C01427,Belgium,18-24,Affluent,46500,695,Branch,2023-01-05,1
+C01428,Belgium,25-34,Young Professional,37400,698,Partner,2026-02-25,0
+C01429,Belgium,25-34,Mass Market,45100,663,Referral,2024-11-11,1
+C01430,Belgium,18-24,Family,31200,772,Branch,2021-12-26,1
+C01431,Belgium,65+,Affluent,70500,654,Branch,2023-01-11,1
+C01432,Netherlands,18-24,Mass Market,27600,685,Paid Search,2026-04-16,1
+C01433,Belgium,65+,Affluent,64200,582,Organic Web,2025-06-03,1
+C01434,Germany,25-34,Mass Market,37100,693,Paid Search,2021-11-13,1
+C01435,Germany,55-64,Mass Market,64800,604,Organic Web,2022-10-17,0
+C01436,Germany,35-44,Mass Market,56300,511,Organic Web,2021-12-05,0
+C01437,Belgium,55-64,Family,38000,660,Partner,2019-09-05,1
+C01438,Belgium,25-34,Mass Market,43500,675,Branch,2020-12-26,1
+C01439,Belgium,25-34,Mass Market,51900,666,Organic Web,2023-09-11,0
+C01440,Belgium,25-34,Mass Market,50700,700,Organic Web,2024-10-22,1
+C01441,France,25-34,Mass Market,46200,548,Paid Search,2025-12-28,1
+C01442,Luxembourg,45-54,Family,53700,570,Organic Web,2026-07-18,1
+C01443,Luxembourg,65+,Young Professional,19400,618,Referral,2025-10-01,1
+C01444,France,65+,Young Professional,43600,552,Organic Web,2024-12-12,0
+C01445,Netherlands,55-64,Mass Market,58600,662,Organic Web,2024-03-27,1
+C01446,Belgium,35-44,Young Professional,28700,662,Organic Web,2025-08-30,1
+C01447,Belgium,18-24,Mass Market,16900,753,Paid Search,2019-11-20,1
+C01448,Germany,65+,Young Professional,38000,766,Referral,2019-10-21,1
+C01449,Belgium,25-34,Affluent,68000,639,Organic Web,2025-11-30,0
+C01450,Netherlands,45-54,Affluent,87600,795,Organic Web,2025-11-20,1
+C01451,Germany,55-64,Mass Market,30100,620,Referral,2024-01-29,1
+C01452,Germany,55-64,Family,56100,712,Organic Web,2026-06-12,0
+C01453,Belgium,35-44,Young Professional,53700,672,Paid Search,2022-09-10,1
+C01454,Netherlands,25-34,Mass Market,24200,629,Paid Search,2024-01-08,1
+C01455,Belgium,45-54,Mass Market,53800,679,Organic Web,2022-01-13,1
+C01456,Belgium,25-34,Young Professional,42700,756,Partner,2026-02-26,0
+C01457,Belgium,18-24,Mass Market,30100,538,Branch,2022-09-06,1
+C01458,Belgium,25-34,Senior,52900,605,Paid Search,2023-04-17,1
+C01459,Belgium,25-34,Young Professional,57600,775,Organic Web,2021-01-13,1
+C01460,Belgium,55-64,Mass Market,77100,844,Paid Search,2020-04-12,1
+C01461,Belgium,35-44,Mass Market,41000,566,Branch,2025-04-03,1
+C01462,France,25-34,Senior,34500,665,Organic Web,2024-12-19,1
+C01463,Belgium,55-64,Senior,28700,668,Branch,2020-12-29,0
+C01464,Belgium,55-64,Mass Market,61900,743,Organic Web,2020-12-20,0
+C01465,Belgium,18-24,Young Professional,23700,711,Referral,2022-07-08,1
+C01466,Germany,25-34,Mass Market,53700,722,Branch,2020-09-12,1
+C01467,Belgium,35-44,Senior,45800,583,Branch,2021-03-03,1
+C01468,Belgium,35-44,Young Professional,47600,631,Paid Search,2022-05-15,1
+C01469,France,45-54,Young Professional,53000,630,Branch,2022-11-02,1
+C01470,Belgium,18-24,Family,24600,758,Paid Search,2021-06-14,1
+C01471,Belgium,35-44,Mass Market,38900,666,Organic Web,2026-03-11,1
+C01472,France,55-64,Affluent,123700,703,Paid Search,2024-07-16,1
+C01473,Belgium,45-54,Mass Market,69400,642,Branch,2021-03-24,1
+C01474,France,18-24,Mass Market,25600,717,Organic Web,2024-09-29,1
+C01475,Belgium,25-34,Young Professional,43800,697,Paid Search,2022-06-03,1
+C01476,Netherlands,25-34,Mass Market,38700,658,Paid Search,2023-04-24,1
+C01477,Belgium,25-34,Senior,42300,701,Organic Web,2021-06-23,1
+C01478,Netherlands,65+,Young Professional,39500,816,Partner,2026-03-27,0
+C01479,Belgium,65+,Mass Market,50700,699,Organic Web,2022-03-11,1
+C01480,France,25-34,Family,37600,568,Referral,2019-03-02,0
+C01481,Germany,18-24,Young Professional,34800,698,Paid Search,2024-04-03,1
+C01482,Germany,18-24,Mass Market,27100,564,Paid Search,2022-12-11,0
+C01483,France,35-44,Young Professional,73200,694,Referral,2022-12-14,1
+C01484,France,25-34,Mass Market,31300,559,Branch,2023-06-09,1
+C01485,Netherlands,35-44,Mass Market,63900,716,Organic Web,2025-03-27,1
+C01486,Luxembourg,25-34,Young Professional,56400,689,Partner,2019-03-21,1
+C01487,Belgium,25-34,Family,45200,669,Organic Web,2023-03-01,1
+C01488,Belgium,18-24,Affluent,42600,514,Organic Web,2021-11-24,1
+C01489,Netherlands,35-44,Affluent,102000,762,Paid Search,2022-12-12,1
+C01490,Germany,25-34,Family,42100,634,Referral,2025-07-14,1
+C01491,Belgium,35-44,Mass Market,43100,696,Organic Web,2019-08-24,1
+C01492,Belgium,45-54,Family,53700,641,Partner,2020-11-11,1
+C01493,Belgium,25-34,Young Professional,25800,680,Paid Search,2022-06-28,1
+C01494,Germany,25-34,Family,43800,719,Organic Web,2023-04-11,1
+C01495,Belgium,65+,Family,34200,592,Paid Search,2020-05-29,1
+C01496,Luxembourg,18-24,Mass Market,27000,677,Organic Web,2022-01-04,0
+C01497,Germany,18-24,Mass Market,30600,637,Organic Web,2026-05-27,1
+C01498,Germany,25-34,Mass Market,35600,695,Organic Web,2020-06-18,1
+C01499,France,55-64,Affluent,90300,654,Paid Search,2020-12-15,0
+C01500,Belgium,35-44,Mass Market,45500,709,Organic Web,2020-12-01,1
+C01501,Germany,35-44,Affluent,73800,749,Paid Search,2022-08-17,1
+C01502,Netherlands,25-34,Family,43400,722,Paid Search,2020-07-23,1
+C01503,Belgium,35-44,Young Professional,36100,680,Organic Web,2021-10-02,0
+C01504,Luxembourg,25-34,Family,50300,598,Paid Search,2024-03-12,1
+C01505,Belgium,35-44,Family,76300,657,Referral,2023-03-01,1
+C01506,Netherlands,55-64,Young Professional,28000,649,Partner,2020-02-05,0
+C01507,Belgium,55-64,Mass Market,69900,718,Referral,2020-10-28,1
+C01508,Belgium,35-44,Young Professional,59000,709,Organic Web,2025-11-17,1
+C01509,Germany,18-24,Family,33000,646,Referral,2023-09-15,1
+C01510,Netherlands,45-54,Young Professional,58200,626,Paid Search,2024-03-06,1
+C01511,France,35-44,Mass Market,64700,709,Branch,2021-08-08,1
+C01512,Belgium,25-34,Young Professional,58100,593,Partner,2025-07-08,1
+C01513,Belgium,25-34,Mass Market,26300,626,Paid Search,2022-05-02,1
+C01514,Belgium,25-34,Family,33500,674,Organic Web,2019-01-20,1
+C01515,Germany,18-24,Mass Market,31800,690,Organic Web,2021-11-07,1
+C01516,Germany,18-24,Young Professional,25600,674,Referral,2019-05-16,1
+C01517,Luxembourg,45-54,Mass Market,46900,629,Referral,2025-08-20,1
+C01518,Belgium,18-24,Family,16700,621,Partner,2025-02-20,1
+C01519,Belgium,35-44,Affluent,73600,645,Referral,2020-01-03,1
+C01520,Belgium,45-54,Mass Market,40400,782,Branch,2026-02-21,1
+C01521,Belgium,35-44,Mass Market,72700,737,Referral,2022-02-14,1
+C01522,France,55-64,Young Professional,58000,796,Organic Web,2026-06-01,1
+C01523,Germany,35-44,Senior,64700,576,Organic Web,2023-12-07,0
+C01524,Luxembourg,35-44,Affluent,78500,713,Partner,2020-08-23,1
+C01525,Germany,45-54,Young Professional,65000,678,Partner,2022-03-14,0
+C01526,France,25-34,Senior,40600,694,Branch,2020-08-18,1
+C01527,Netherlands,18-24,Mass Market,20100,658,Organic Web,2020-09-03,1
+C01528,Netherlands,45-54,Senior,65200,702,Organic Web,2019-03-08,1
+C01529,Netherlands,18-24,Mass Market,25000,705,Organic Web,2020-02-20,1
+C01530,France,35-44,Young Professional,50700,688,Organic Web,2023-03-15,1
+C01531,Germany,45-54,Mass Market,72300,727,Branch,2022-10-26,0
+C01532,Belgium,18-24,Young Professional,35000,645,Referral,2021-08-25,1
+C01533,France,45-54,Young Professional,77700,653,Organic Web,2020-08-11,1
+C01534,Belgium,55-64,Senior,75700,688,Paid Search,2021-06-09,0
+C01535,Belgium,25-34,Mass Market,60000,620,Branch,2021-02-08,0
+C01536,Belgium,25-34,Mass Market,43500,768,Branch,2022-05-08,1
+C01537,Belgium,35-44,Mass Market,68000,608,Organic Web,2024-06-24,1
+C01538,Netherlands,18-24,Family,31800,744,Partner,2019-09-09,1
+C01539,Luxembourg,35-44,Affluent,148000,717,Partner,2026-03-14,1
+C01540,France,18-24,Young Professional,31400,593,Organic Web,2022-07-20,1
+C01541,Belgium,18-24,Senior,22900,723,Organic Web,2025-05-05,1
+C01542,Belgium,35-44,Young Professional,56900,774,Paid Search,2021-04-08,1
+C01543,Luxembourg,55-64,Family,56800,642,Organic Web,2019-12-23,1
+C01544,Netherlands,45-54,Senior,54200,682,Organic Web,2024-05-16,1
+C01545,Belgium,35-44,Mass Market,47900,579,Paid Search,2022-12-08,1
+C01546,Belgium,45-54,Young Professional,73800,778,Organic Web,2023-12-16,1
+C01547,Belgium,65+,Mass Market,37800,732,Referral,2022-03-04,1
+C01548,Netherlands,25-34,Mass Market,37500,690,Referral,2026-07-25,1
+C01549,Germany,45-54,Young Professional,56700,631,Partner,2020-10-09,0
+C01550,Germany,18-24,Young Professional,25000,705,Organic Web,2025-11-12,1
+C01551,Germany,25-34,Family,35400,627,Paid Search,2025-02-06,0
+C01552,Belgium,25-34,Mass Market,41200,693,Organic Web,2023-12-21,1
+C01553,Germany,45-54,Mass Market,67100,733,Paid Search,2026-05-24,0
+C01554,France,55-64,Mass Market,57100,779,Paid Search,2025-06-08,0
+C01555,Belgium,35-44,Mass Market,51000,677,Partner,2024-12-01,1
+C01556,Germany,18-24,Young Professional,37200,605,Partner,2021-03-20,1
+C01557,France,25-34,Family,38100,640,Organic Web,2021-08-01,1
+C01558,France,18-24,Affluent,56900,782,Referral,2021-05-24,1
+C01559,Belgium,35-44,Mass Market,43600,675,Paid Search,2021-10-08,1
+C01560,Germany,55-64,Family,71600,782,Partner,2024-09-06,1
+C01561,Germany,25-34,Mass Market,32500,593,Branch,2025-10-10,1
+C01562,Germany,45-54,Affluent,85300,674,Branch,2025-03-16,1
+C01563,Belgium,65+,Family,26300,602,Branch,2019-07-21,0
+C01564,Belgium,55-64,Young Professional,75000,761,Partner,2024-11-06,1
+C01565,Belgium,55-64,Affluent,110000,850,Referral,2021-05-12,1
+C01566,Belgium,25-34,Mass Market,48000,628,Referral,2025-08-18,1
+C01567,Germany,45-54,Young Professional,52600,722,Partner,2019-11-04,1
+C01568,Luxembourg,35-44,Mass Market,62700,689,Paid Search,2022-01-13,1
+C01569,Belgium,18-24,Affluent,44600,729,Partner,2023-06-13,1
+C01570,France,55-64,Young Professional,86600,781,Referral,2020-03-05,1
+C01571,Luxembourg,55-64,Affluent,83900,682,Paid Search,2024-03-25,1
+C01572,Belgium,25-34,Mass Market,40600,616,Referral,2020-05-29,1
+C01573,Netherlands,35-44,Affluent,134000,717,Organic Web,2024-01-26,1
+C01574,France,35-44,Young Professional,67100,616,Branch,2021-10-02,1
+C01575,Belgium,55-64,Mass Market,61500,721,Organic Web,2025-02-03,1
+C01576,France,18-24,Mass Market,27200,560,Branch,2022-08-08,1
+C01577,Netherlands,25-34,Young Professional,50600,708,Partner,2020-11-27,1
+C01578,Belgium,18-24,Young Professional,22800,691,Branch,2023-01-24,1
+C01579,Belgium,18-24,Family,26400,697,Paid Search,2022-09-19,1
+C01580,Belgium,45-54,Mass Market,62300,644,Branch,2024-11-06,1
+C01581,France,25-34,Family,54900,699,Organic Web,2022-03-21,0
+C01582,France,45-54,Mass Market,56700,661,Paid Search,2020-03-24,0
+C01583,Belgium,45-54,Family,62500,709,Referral,2024-06-12,0
+C01584,Germany,18-24,Mass Market,38300,796,Referral,2022-01-06,1
+C01585,France,45-54,Affluent,156600,839,Branch,2021-02-02,1
+C01586,France,45-54,Affluent,115500,740,Referral,2023-01-16,0
+C01587,Netherlands,25-34,Senior,44800,664,Partner,2024-11-13,1
+C01588,Germany,25-34,Senior,39400,677,Branch,2022-02-10,1
+C01589,Belgium,35-44,Mass Market,61400,685,Organic Web,2023-04-30,1
+C01590,Belgium,35-44,Mass Market,49800,738,Branch,2025-10-20,0
+C01591,Netherlands,35-44,Affluent,118100,620,Branch,2022-01-21,0
+C01592,Belgium,45-54,Young Professional,81000,709,Paid Search,2021-08-23,1
+C01593,Belgium,25-34,Affluent,76700,677,Paid Search,2026-07-25,1
+C01594,Germany,18-24,Young Professional,17900,680,Referral,2023-05-04,1
+C01595,France,45-54,Mass Market,77800,680,Organic Web,2026-02-15,1
+C01596,Belgium,35-44,Mass Market,48200,808,Partner,2023-05-15,0
+C01597,Netherlands,55-64,Mass Market,64500,703,Branch,2021-06-23,1
+C01598,France,45-54,Family,49100,630,Partner,2025-05-31,1
+C01599,Belgium,45-54,Mass Market,70300,714,Organic Web,2020-10-05,1
+C01600,Belgium,35-44,Senior,47400,734,Referral,2023-08-28,1
+C01601,Belgium,45-54,Family,57100,620,Organic Web,2021-03-01,1
+C01602,Belgium,35-44,Mass Market,55300,692,Organic Web,2019-03-12,1
+C01603,Netherlands,55-64,Young Professional,63000,656,Referral,2023-08-12,1
+C01604,Germany,35-44,Young Professional,59500,708,Organic Web,2023-10-12,1
+C01605,Netherlands,18-24,Family,23700,533,Organic Web,2024-04-08,1
+C01606,Netherlands,25-34,Family,19400,650,Organic Web,2019-04-27,1
+C01607,France,35-44,Senior,63100,678,Paid Search,2025-06-01,0
+C01608,Germany,35-44,Family,38500,724,Referral,2021-09-30,1
+C01609,Netherlands,35-44,Mass Market,64200,750,Partner,2025-12-04,0
+C01610,Netherlands,45-54,Family,66000,622,Organic Web,2023-12-28,1
+C01611,Netherlands,35-44,Family,62700,774,Organic Web,2024-10-24,1
+C01612,Germany,55-64,Mass Market,70500,646,Organic Web,2020-12-20,0
+C01613,Belgium,25-34,Mass Market,49300,733,Branch,2026-06-07,1
+C01614,Belgium,55-64,Young Professional,65600,705,Referral,2021-06-08,1
+C01615,France,25-34,Affluent,79800,738,Organic Web,2022-06-30,1
+C01616,Luxembourg,25-34,Senior,51800,735,Paid Search,2020-08-14,1
+C01617,Belgium,25-34,Family,29900,625,Organic Web,2024-12-31,1
+C01618,Netherlands,25-34,Mass Market,31900,559,Referral,2026-04-20,1
+C01619,Belgium,25-34,Family,23100,663,Paid Search,2019-09-05,1
+C01620,Germany,45-54,Senior,66700,734,Paid Search,2023-03-21,0
+C01621,Belgium,45-54,Mass Market,66700,721,Organic Web,2021-03-06,1
+C01622,Belgium,45-54,Affluent,104900,646,Branch,2025-06-13,1
+C01623,Netherlands,55-64,Family,79000,772,Organic Web,2022-11-11,1
+C01624,Belgium,35-44,Mass Market,75200,638,Paid Search,2019-02-04,1
+C01625,Belgium,25-34,Family,43300,686,Branch,2026-05-18,0
+C01626,Netherlands,18-24,Mass Market,29900,633,Referral,2021-07-31,1
+C01627,Netherlands,25-34,Mass Market,61300,682,Organic Web,2024-08-25,1
+C01628,France,55-64,Affluent,164200,811,Organic Web,2019-12-03,1
+C01629,Netherlands,35-44,Affluent,94400,769,Branch,2019-05-02,1
+C01630,Belgium,25-34,Young Professional,46500,752,Branch,2021-02-07,1
+C01631,France,35-44,Mass Market,78600,681,Paid Search,2019-05-24,1
+C01632,Belgium,65+,Mass Market,45600,667,Referral,2025-02-20,0
+C01633,Germany,25-34,Mass Market,49100,718,Organic Web,2019-09-18,1
+C01634,Netherlands,18-24,Affluent,55800,705,Organic Web,2025-08-05,0
+C01635,Belgium,55-64,Senior,53800,678,Branch,2019-05-25,0
+C01636,Belgium,65+,Affluent,78500,655,Partner,2020-05-24,0
+C01637,Belgium,25-34,Mass Market,53200,777,Referral,2024-09-15,1
+C01638,Luxembourg,45-54,Young Professional,69200,735,Referral,2025-08-06,0
+C01639,Germany,35-44,Family,70500,807,Paid Search,2025-05-23,1
+C01640,France,65+,Family,40400,741,Referral,2023-09-23,0
+C01641,Belgium,25-34,Young Professional,50700,686,Organic Web,2019-08-26,1
+C01642,Belgium,35-44,Young Professional,32000,479,Paid Search,2024-08-20,1
+C01643,Netherlands,35-44,Mass Market,62000,608,Paid Search,2022-05-27,1
+C01644,Luxembourg,55-64,Affluent,101300,752,Organic Web,2020-08-04,1
+C01645,Belgium,35-44,Mass Market,42600,600,Paid Search,2025-07-08,0
+C01646,France,25-34,Mass Market,42500,572,Referral,2021-08-04,1
+C01647,Germany,25-34,Family,46300,677,Organic Web,2023-08-02,1
+C01648,Belgium,18-24,Family,27800,566,Paid Search,2025-10-26,1
+C01649,France,45-54,Mass Market,33600,667,Partner,2020-03-17,1
+C01650,Belgium,18-24,Mass Market,25900,638,Referral,2026-07-04,0
+C01651,France,45-54,Family,82200,745,Organic Web,2021-07-27,1
+C01652,Germany,35-44,Mass Market,30900,561,Partner,2023-07-22,1
+C01653,Germany,45-54,Family,62700,651,Paid Search,2020-12-03,0
+C01654,France,25-34,Family,36300,596,Organic Web,2025-09-26,1
+C01655,Belgium,35-44,Young Professional,41700,787,Partner,2026-06-01,1
+C01656,Belgium,25-34,Mass Market,43800,600,Referral,2019-08-05,1
+C01657,Germany,25-34,Family,55800,677,Organic Web,2020-08-17,1
+C01658,Belgium,35-44,Family,57300,759,Referral,2022-12-22,1
+C01659,France,25-34,Family,48100,614,Organic Web,2026-07-05,1
+C01660,France,18-24,Mass Market,30900,719,Paid Search,2024-12-11,1
+C01661,Netherlands,35-44,Family,43300,619,Organic Web,2023-01-20,1
+C01662,Belgium,35-44,Young Professional,52100,729,Branch,2019-04-12,1
+C01663,Belgium,18-24,Young Professional,23300,797,Referral,2024-05-26,1
+C01664,Belgium,35-44,Family,34600,656,Organic Web,2020-07-04,1
+C01665,Belgium,45-54,Mass Market,77200,629,Organic Web,2023-03-20,1
+C01666,Luxembourg,35-44,Young Professional,48600,678,Organic Web,2019-12-09,1
+C01667,France,35-44,Family,75900,710,Referral,2024-05-12,1
+C01668,Luxembourg,45-54,Young Professional,57300,590,Branch,2023-09-19,0
+C01669,France,35-44,Mass Market,71200,723,Referral,2025-04-25,1
+C01670,France,18-24,Young Professional,32300,711,Organic Web,2020-06-02,1
+C01671,Netherlands,45-54,Mass Market,72100,718,Partner,2019-11-11,1
+C01672,Belgium,25-34,Mass Market,50200,594,Referral,2024-08-09,1
+C01673,France,65+,Young Professional,40300,666,Referral,2026-01-21,1
+C01674,Belgium,55-64,Mass Market,65900,667,Branch,2025-07-12,1
+C01675,Belgium,25-34,Mass Market,33600,631,Paid Search,2025-09-18,1
+C01676,Germany,35-44,Family,57500,772,Organic Web,2023-02-06,0
+C01677,Belgium,18-24,Family,26400,652,Organic Web,2021-03-26,1
+C01678,Netherlands,45-54,Mass Market,70500,700,Organic Web,2025-10-17,1
+C01679,France,55-64,Mass Market,70900,699,Organic Web,2024-11-24,1
+C01680,Belgium,18-24,Young Professional,22100,708,Paid Search,2024-07-09,1
+C01681,France,35-44,Mass Market,37500,635,Branch,2022-03-16,1
+C01682,France,25-34,Affluent,51200,645,Referral,2026-03-07,1
+C01683,Belgium,45-54,Family,69200,734,Organic Web,2019-02-27,1
+C01684,Germany,25-34,Family,52600,706,Branch,2024-12-30,1
+C01685,Luxembourg,35-44,Mass Market,50200,505,Paid Search,2024-06-12,1
+C01686,Germany,25-34,Senior,28100,643,Organic Web,2023-03-30,1
+C01687,Belgium,25-34,Family,40200,595,Organic Web,2024-04-11,1
+C01688,Germany,18-24,Mass Market,21700,699,Paid Search,2019-05-31,1
+C01689,Belgium,35-44,Mass Market,44100,670,Branch,2021-05-25,1
+C01690,Netherlands,25-34,Family,52100,482,Branch,2025-11-26,1
+C01691,France,25-34,Affluent,59400,708,Organic Web,2023-07-29,1
+C01692,Belgium,35-44,Young Professional,52500,621,Branch,2022-12-18,0
+C01693,Belgium,18-24,Mass Market,26900,615,Organic Web,2020-04-04,1
+C01694,Netherlands,25-34,Mass Market,47800,578,Organic Web,2020-07-04,1
+C01695,Belgium,25-34,Young Professional,49200,610,Organic Web,2023-03-15,1
+C01696,Belgium,35-44,Affluent,75700,751,Partner,2025-04-19,1
+C01697,Belgium,25-34,Mass Market,44400,686,Branch,2022-06-08,1
+C01698,Luxembourg,18-24,Mass Market,28800,799,Paid Search,2021-08-03,1
+C01699,Germany,65+,Affluent,91200,704,Organic Web,2026-01-04,0
+C01700,Netherlands,25-34,Senior,16600,526,Referral,2020-07-08,1
+C01701,France,25-34,Affluent,57300,647,Referral,2020-03-04,0
+C01702,Belgium,18-24,Young Professional,29600,791,Organic Web,2019-10-10,1
+C01703,Luxembourg,55-64,Young Professional,58500,758,Branch,2019-09-24,1
+C01704,Germany,18-24,Affluent,43000,683,Organic Web,2022-07-23,1
+C01705,Belgium,65+,Young Professional,37200,672,Organic Web,2026-06-24,1
+C01706,Netherlands,35-44,Family,37200,593,Organic Web,2023-09-17,1
+C01707,Luxembourg,35-44,Mass Market,44500,535,Organic Web,2026-07-12,1
+C01708,Luxembourg,35-44,Young Professional,53100,702,Referral,2019-01-15,1
+C01709,Netherlands,45-54,Mass Market,40100,760,Partner,2023-02-15,0
+C01710,Belgium,35-44,Mass Market,55700,724,Organic Web,2021-09-27,0
+C01711,Netherlands,45-54,Senior,64600,814,Referral,2019-10-22,1
+C01712,France,35-44,Mass Market,55300,622,Branch,2025-03-27,1
+C01713,Belgium,35-44,Young Professional,65500,642,Partner,2023-03-29,1
+C01714,France,55-64,Mass Market,31300,728,Partner,2022-11-15,0
+C01715,Belgium,45-54,Family,73600,722,Referral,2020-10-12,1
+C01716,Belgium,35-44,Affluent,108600,675,Paid Search,2024-05-07,1
+C01717,France,25-34,Young Professional,38600,752,Referral,2020-06-28,1
+C01718,Netherlands,45-54,Mass Market,68700,782,Organic Web,2022-05-28,0
+C01719,Netherlands,18-24,Affluent,45100,808,Partner,2022-01-12,0
+C01720,France,65+,Affluent,53400,742,Referral,2025-05-14,1
+C01721,Netherlands,55-64,Affluent,132500,721,Branch,2021-05-15,0
+C01722,Germany,45-54,Mass Market,68300,747,Branch,2026-04-23,1
+C01723,Belgium,25-34,Family,54400,592,Paid Search,2020-01-16,1
+C01724,Belgium,35-44,Young Professional,68700,533,Organic Web,2024-12-16,1
+C01725,Germany,25-34,Family,51000,781,Organic Web,2024-02-11,0
+C01726,Germany,45-54,Affluent,72100,726,Branch,2023-05-18,1
+C01727,Belgium,25-34,Affluent,106400,696,Organic Web,2024-06-01,1
+C01728,Germany,35-44,Mass Market,33100,755,Paid Search,2019-03-31,1
+C01729,Germany,55-64,Mass Market,60000,659,Branch,2023-06-15,1
+C01730,Belgium,25-34,Mass Market,45700,585,Paid Search,2023-02-06,0
+C01731,Belgium,25-34,Mass Market,48000,601,Paid Search,2026-04-19,1
+C01732,Belgium,55-64,Mass Market,54100,843,Organic Web,2023-07-16,0
+C01733,Belgium,35-44,Mass Market,40100,552,Branch,2025-12-10,1
+C01734,Belgium,25-34,Family,40100,604,Referral,2019-09-12,0
+C01735,Netherlands,45-54,Young Professional,73400,688,Branch,2024-04-21,0
+C01736,Belgium,25-34,Mass Market,46200,768,Referral,2026-04-12,1
+C01737,Netherlands,45-54,Mass Market,41400,738,Partner,2023-10-08,0
+C01738,Belgium,25-34,Family,37600,783,Organic Web,2025-09-22,1
+C01739,Luxembourg,45-54,Young Professional,58800,721,Branch,2025-12-19,1
+C01740,Belgium,25-34,Young Professional,58400,773,Partner,2023-12-10,1
+C01741,Germany,55-64,Senior,59000,729,Organic Web,2020-12-04,0
+C01742,Netherlands,45-54,Senior,55300,709,Branch,2021-04-21,0
+C01743,Belgium,18-24,Affluent,58300,588,Branch,2023-10-29,0
+C01744,Belgium,35-44,Affluent,72700,672,Paid Search,2024-11-24,1
+C01745,Belgium,25-34,Affluent,80100,812,Referral,2019-06-27,1
+C01746,Belgium,25-34,Mass Market,37200,704,Organic Web,2022-10-25,1
+C01747,France,35-44,Family,47000,719,Branch,2024-09-18,1
+C01748,Belgium,18-24,Young Professional,26600,664,Partner,2026-04-28,1
+C01749,Luxembourg,25-34,Family,36300,696,Branch,2021-11-13,0
+C01750,Belgium,35-44,Mass Market,33300,713,Branch,2026-04-21,1
+C01751,Belgium,18-24,Senior,38500,707,Organic Web,2024-09-27,1
+C01752,Belgium,35-44,Mass Market,68300,744,Referral,2021-08-27,1
+C01753,Netherlands,18-24,Mass Market,33000,609,Organic Web,2024-08-21,1
+C01754,Netherlands,55-64,Family,62500,631,Referral,2020-10-08,1
+C01755,France,35-44,Young Professional,51800,664,Organic Web,2026-07-15,1
+C01756,Germany,65+,Family,54600,709,Referral,2022-10-03,1
+C01757,Netherlands,25-34,Family,50000,710,Paid Search,2022-03-05,1
+C01758,Germany,35-44,Senior,69600,767,Referral,2019-07-16,1
+C01759,Belgium,35-44,Mass Market,67200,682,Referral,2020-10-30,1
+C01760,Netherlands,25-34,Senior,42200,675,Referral,2023-01-01,1
+C01761,Belgium,35-44,Young Professional,73300,740,Organic Web,2022-05-04,1
+C01762,Netherlands,18-24,Family,16000,538,Referral,2024-01-06,1
+C01763,Germany,18-24,Young Professional,32800,733,Referral,2024-04-20,1
+C01764,Netherlands,25-34,Mass Market,56300,672,Paid Search,2023-03-01,1
+C01765,Netherlands,25-34,Affluent,87200,732,Referral,2019-03-05,1
+C01766,Belgium,45-54,Affluent,109400,658,Organic Web,2020-03-26,1
+C01767,Netherlands,18-24,Mass Market,16000,706,Branch,2023-02-16,1
+C01768,Germany,35-44,Mass Market,84300,792,Partner,2024-10-17,1
+C01769,Belgium,35-44,Affluent,72900,691,Organic Web,2021-03-11,1
+C01770,Netherlands,35-44,Family,58800,663,Organic Web,2023-01-02,0
+C01771,Germany,35-44,Mass Market,59300,592,Paid Search,2019-01-17,1
+C01772,Belgium,55-64,Senior,36400,667,Organic Web,2024-01-30,1
+C01773,France,65+,Affluent,66300,772,Organic Web,2023-10-20,1
+C01774,Belgium,45-54,Senior,66200,686,Paid Search,2025-01-01,1
+C01775,Netherlands,35-44,Family,51100,614,Referral,2020-11-13,1
+C01776,Netherlands,35-44,Mass Market,50800,745,Branch,2021-02-03,1
+C01777,Belgium,55-64,Mass Market,63700,629,Referral,2019-02-04,1
+C01778,Belgium,45-54,Young Professional,55200,666,Organic Web,2019-06-04,0
+C01779,Netherlands,45-54,Young Professional,72800,619,Referral,2022-01-13,1
+C01780,Belgium,25-34,Affluent,71800,613,Referral,2019-08-29,1
+C01781,France,55-64,Mass Market,71300,709,Organic Web,2023-12-09,1
+C01782,Belgium,35-44,Family,65700,698,Partner,2023-07-17,1
+C01783,Belgium,25-34,Senior,44900,648,Organic Web,2026-04-19,1
+C01784,Netherlands,25-34,Family,35200,666,Paid Search,2019-11-17,1
+C01785,Belgium,65+,Family,36700,625,Organic Web,2020-04-02,1
+C01786,Belgium,25-34,Affluent,90000,692,Partner,2024-03-31,1
+C01787,Belgium,35-44,Mass Market,34800,684,Partner,2024-09-14,1
+C01788,Germany,18-24,Young Professional,31800,591,Branch,2020-12-23,1
+C01789,Belgium,25-34,Mass Market,52900,573,Partner,2022-04-27,1
+C01790,Belgium,25-34,Mass Market,47300,602,Organic Web,2026-03-04,1
+C01791,Germany,25-34,Family,30100,716,Branch,2024-01-12,1
+C01792,Belgium,65+,Senior,29400,630,Referral,2022-07-11,1
+C01793,Belgium,35-44,Family,53500,785,Organic Web,2022-07-26,1
+C01794,Belgium,35-44,Family,60500,640,Referral,2022-10-20,0
+C01795,Belgium,25-34,Affluent,67100,802,Organic Web,2021-01-02,1
+C01796,Belgium,55-64,Mass Market,61700,674,Organic Web,2024-05-02,0
+C01797,Belgium,45-54,Family,78900,639,Referral,2024-03-23,1
+C01798,Belgium,35-44,Affluent,77700,850,Referral,2024-01-02,1
+C01799,Germany,35-44,Family,31200,600,Paid Search,2025-06-20,1
+C01800,Netherlands,25-34,Young Professional,33600,659,Organic Web,2024-04-19,1
+C01801,Germany,18-24,Mass Market,33200,682,Partner,2026-06-21,1
+C01802,Germany,25-34,Family,41400,666,Paid Search,2023-02-09,0
+C01803,Belgium,55-64,Affluent,89500,673,Referral,2021-07-19,1
+C01804,Netherlands,25-34,Mass Market,45300,774,Branch,2021-10-03,1
+C01805,Germany,25-34,Mass Market,52500,815,Referral,2023-01-10,0
+C01806,Belgium,25-34,Affluent,82400,779,Organic Web,2022-09-14,1
+C01807,Luxembourg,35-44,Mass Market,68400,668,Partner,2019-04-14,1
+C01808,Belgium,45-54,Family,58700,606,Organic Web,2023-02-07,1
+C01809,Netherlands,65+,Mass Market,49700,544,Partner,2023-09-13,0
+C01810,Belgium,18-24,Family,25300,629,Organic Web,2026-02-14,1
+C01811,Germany,65+,Mass Market,29000,719,Organic Web,2021-12-03,0
+C01812,Netherlands,25-34,Young Professional,50600,804,Referral,2020-10-18,0
+C01813,Netherlands,55-64,Mass Market,62300,683,Referral,2023-07-27,0
+C01814,Netherlands,45-54,Senior,69900,631,Partner,2025-10-07,1
+C01815,France,18-24,Mass Market,27100,601,Branch,2026-04-22,1
+C01816,Netherlands,45-54,Affluent,109700,642,Organic Web,2023-12-26,1
+C01817,France,35-44,Mass Market,57300,626,Paid Search,2022-09-06,1
+C01818,Belgium,35-44,Family,58100,703,Branch,2024-04-19,1
+C01819,Belgium,55-64,Mass Market,76100,734,Referral,2021-09-18,1
+C01820,Belgium,25-34,Mass Market,41400,718,Organic Web,2021-08-02,1
+C01821,Germany,35-44,Mass Market,69500,777,Referral,2022-05-13,1
+C01822,Belgium,35-44,Family,47800,578,Partner,2026-03-10,1
+C01823,Netherlands,18-24,Family,35800,569,Organic Web,2020-03-13,1
+C01824,Belgium,45-54,Family,55300,621,Branch,2023-04-09,0
+C01825,Germany,18-24,Mass Market,32400,677,Referral,2023-11-23,1
+C01826,Luxembourg,55-64,Mass Market,43800,621,Branch,2026-06-17,1
+C01827,Germany,45-54,Mass Market,67400,602,Referral,2020-06-16,1
+C01828,Belgium,35-44,Family,58700,728,Organic Web,2021-12-12,1
+C01829,Belgium,25-34,Family,44400,743,Referral,2019-08-29,1
+C01830,France,25-34,Family,29400,635,Partner,2025-03-16,0
+C01831,Germany,25-34,Family,34100,684,Organic Web,2021-05-15,1
+C01832,Germany,25-34,Young Professional,47400,609,Organic Web,2026-01-22,1
+C01833,France,35-44,Mass Market,28500,542,Partner,2024-03-07,1
+C01834,Belgium,35-44,Affluent,93700,715,Organic Web,2019-04-26,1
+C01835,Netherlands,35-44,Senior,67300,754,Organic Web,2019-07-25,1
+C01836,Germany,45-54,Mass Market,62800,713,Referral,2024-01-02,1
+C01837,Germany,18-24,Family,27900,654,Organic Web,2022-11-16,1
+C01838,Belgium,35-44,Mass Market,71200,693,Branch,2020-12-27,1
+C01839,Germany,35-44,Young Professional,60900,711,Organic Web,2019-04-03,1
+C01840,Belgium,35-44,Mass Market,34100,590,Paid Search,2024-04-04,1
+C01841,Netherlands,25-34,Senior,33600,749,Organic Web,2020-12-28,1
+C01842,Belgium,25-34,Young Professional,43600,716,Organic Web,2020-07-11,1
+C01843,Belgium,65+,Family,39700,640,Branch,2021-05-28,0
+C01844,Belgium,35-44,Senior,36000,642,Paid Search,2021-03-13,1
+C01845,Netherlands,25-34,Young Professional,27300,650,Paid Search,2021-05-06,1
+C01846,Netherlands,65+,Young Professional,56600,591,Organic Web,2022-11-23,0
+C01847,Belgium,55-64,Mass Market,38900,691,Organic Web,2020-08-26,1
+C01848,France,45-54,Family,48100,596,Paid Search,2023-10-30,1
+C01849,Belgium,35-44,Mass Market,68700,676,Referral,2021-07-23,0
+C01850,Germany,18-24,Young Professional,26700,607,Branch,2023-03-18,1
+C01851,Belgium,25-34,Mass Market,38400,601,Partner,2024-05-07,1
+C01852,Belgium,18-24,Family,27600,582,Branch,2022-03-01,1
+C01853,France,35-44,Affluent,75700,725,Referral,2024-07-31,1
+C01854,Belgium,18-24,Mass Market,34200,681,Organic Web,2024-12-24,1
+C01855,Germany,35-44,Young Professional,57200,661,Branch,2026-04-02,1
+C01856,Germany,45-54,Family,48900,696,Organic Web,2026-07-24,1
+C01857,Belgium,35-44,Young Professional,65200,561,Organic Web,2024-12-06,1
+C01858,Belgium,25-34,Mass Market,53700,715,Organic Web,2019-08-18,1
+C01859,Netherlands,45-54,Young Professional,70900,725,Organic Web,2020-06-16,1
+C01860,France,45-54,Family,61200,722,Paid Search,2019-02-02,1
+C01861,Belgium,45-54,Family,63200,759,Organic Web,2024-09-29,1
+C01862,Belgium,45-54,Mass Market,40400,684,Branch,2020-08-24,1
+C01863,Germany,25-34,Family,36300,636,Branch,2022-03-01,1
+C01864,Netherlands,25-34,Young Professional,59400,721,Organic Web,2026-07-13,1
+C01865,Belgium,55-64,Family,74700,672,Referral,2021-06-27,0
+C01866,Belgium,55-64,Family,72000,742,Paid Search,2020-08-27,0
+C01867,Belgium,35-44,Affluent,108300,847,Organic Web,2025-05-20,1
+C01868,Belgium,45-54,Family,37800,616,Organic Web,2019-01-25,1
+C01869,Belgium,25-34,Mass Market,43600,649,Paid Search,2026-06-27,1
+C01870,Belgium,25-34,Young Professional,39400,634,Referral,2023-08-22,1
+C01871,France,18-24,Mass Market,22600,674,Partner,2020-01-21,1
+C01872,Belgium,55-64,Family,58000,749,Organic Web,2026-01-21,1
+C01873,Belgium,55-64,Mass Market,57400,808,Organic Web,2025-09-21,1
+C01874,Belgium,45-54,Young Professional,54200,707,Branch,2019-04-11,1
+C01875,Netherlands,65+,Mass Market,32100,682,Paid Search,2025-05-11,0
+C01876,Germany,65+,Affluent,68600,628,Paid Search,2021-10-03,0
+C01877,France,35-44,Young Professional,61200,667,Organic Web,2019-06-06,1
+C01878,Belgium,45-54,Mass Market,47900,591,Branch,2026-05-05,0
+C01879,Netherlands,35-44,Mass Market,45600,671,Referral,2022-03-28,1
+C01880,Germany,35-44,Mass Market,53500,684,Referral,2021-10-06,0
+C01881,Belgium,25-34,Mass Market,66900,612,Branch,2026-06-22,1
+C01882,Germany,45-54,Mass Market,38000,714,Paid Search,2019-01-16,0
+C01883,Germany,35-44,Young Professional,46500,567,Organic Web,2025-10-02,1
+C01884,Luxembourg,35-44,Mass Market,52100,713,Referral,2021-03-16,1
+C01885,Belgium,65+,Family,33000,560,Branch,2019-05-30,1
+C01886,France,45-54,Mass Market,21500,553,Branch,2021-05-15,0
+C01887,Netherlands,35-44,Family,48300,621,Referral,2025-09-13,1
+C01888,Belgium,35-44,Mass Market,31400,694,Paid Search,2020-07-26,1
+C01889,Belgium,35-44,Affluent,122000,758,Organic Web,2022-08-21,1
+C01890,Belgium,65+,Family,43500,691,Paid Search,2024-02-24,1
+C01891,France,25-34,Young Professional,49100,625,Partner,2023-07-12,0
+C01892,Netherlands,45-54,Family,38700,659,Paid Search,2019-07-10,1
+C01893,Belgium,25-34,Mass Market,42300,636,Organic Web,2026-03-05,1
+C01894,France,35-44,Young Professional,47200,722,Referral,2023-05-09,1
+C01895,Netherlands,55-64,Family,34100,631,Paid Search,2023-09-01,0
+C01896,Germany,35-44,Young Professional,54300,547,Referral,2022-01-14,1
+C01897,Luxembourg,55-64,Mass Market,95200,720,Referral,2019-08-08,0
+C01898,Belgium,35-44,Young Professional,37000,729,Organic Web,2021-08-04,1
+C01899,Netherlands,18-24,Mass Market,25500,702,Paid Search,2026-06-30,1
+C01900,Belgium,18-24,Affluent,48100,609,Paid Search,2025-07-15,1
+C01901,Germany,35-44,Mass Market,68900,709,Paid Search,2024-05-09,1
+C01902,Germany,25-34,Affluent,73500,747,Paid Search,2020-02-14,1
+C01903,Belgium,18-24,Affluent,28400,643,Paid Search,2022-12-21,1
+C01904,France,45-54,Mass Market,62000,716,Branch,2021-07-25,1
+C01905,Belgium,25-34,Young Professional,65100,683,Organic Web,2023-01-05,1
+C01906,Netherlands,35-44,Affluent,85000,607,Partner,2026-04-23,1
+C01907,Germany,25-34,Young Professional,44400,734,Paid Search,2026-03-16,1
+C01908,Germany,45-54,Mass Market,60700,731,Partner,2025-05-24,1
+C01909,Netherlands,25-34,Senior,44400,703,Organic Web,2026-01-01,0
+C01910,Belgium,45-54,Mass Market,50600,658,Paid Search,2025-06-30,1
+C01911,France,35-44,Mass Market,65700,774,Referral,2022-07-06,1
+C01912,Luxembourg,35-44,Mass Market,60000,679,Referral,2025-08-10,1
+C01913,Belgium,55-64,Family,70200,618,Organic Web,2020-10-21,1
+C01914,Germany,65+,Family,50400,623,Referral,2022-08-06,0
+C01915,Belgium,25-34,Senior,37100,650,Organic Web,2021-12-31,1
+C01916,Germany,25-34,Mass Market,59300,661,Paid Search,2023-12-29,1
+C01917,France,35-44,Mass Market,49200,703,Partner,2021-01-22,1
+C01918,Netherlands,25-34,Mass Market,45800,605,Branch,2020-04-11,1
+C01919,Netherlands,25-34,Mass Market,43500,762,Referral,2022-07-13,1
+C01920,Germany,65+,Mass Market,32200,647,Organic Web,2021-02-06,0
+C01921,Belgium,35-44,Affluent,92500,709,Referral,2019-07-13,1
+C01922,France,25-34,Young Professional,17600,670,Paid Search,2023-09-24,0
+C01923,Netherlands,65+,Mass Market,38800,604,Branch,2020-08-03,0
+C01924,Netherlands,35-44,Mass Market,39100,602,Organic Web,2025-08-05,0
+C01925,Belgium,25-34,Young Professional,33000,664,Paid Search,2019-05-16,0
+C01926,Belgium,18-24,Mass Market,40900,729,Organic Web,2019-09-13,0
+C01927,Belgium,35-44,Mass Market,49000,765,Paid Search,2024-08-02,1
+C01928,France,45-54,Affluent,117700,744,Branch,2020-01-09,0
+C01929,Belgium,65+,Mass Market,36800,780,Partner,2026-07-30,1
+C01930,Belgium,45-54,Family,63400,775,Organic Web,2019-08-03,0
+C01931,France,35-44,Mass Market,70800,582,Referral,2022-03-14,1
+C01932,Belgium,25-34,Family,35100,707,Referral,2020-04-13,0
+C01933,Netherlands,45-54,Young Professional,43900,702,Partner,2022-12-06,0
+C01934,France,35-44,Mass Market,33600,634,Paid Search,2021-12-04,1
+C01935,Germany,25-34,Affluent,99500,704,Referral,2021-02-24,0
+C01936,Netherlands,35-44,Family,49200,686,Partner,2019-11-15,0
+C01937,Netherlands,35-44,Mass Market,45300,734,Partner,2026-02-09,1
+C01938,Netherlands,55-64,Young Professional,64900,686,Branch,2019-02-26,1
+C01939,Germany,55-64,Family,52200,617,Branch,2025-08-26,0
+C01940,Netherlands,35-44,Family,47900,666,Paid Search,2022-12-25,1
+C01941,Belgium,25-34,Senior,45300,762,Paid Search,2023-04-23,1
+C01942,Belgium,18-24,Mass Market,18300,684,Organic Web,2026-01-24,1
+C01943,France,45-54,Family,70300,717,Partner,2019-11-30,0
+C01944,Germany,35-44,Mass Market,44900,668,Organic Web,2024-11-29,1
+C01945,Netherlands,45-54,Family,50300,690,Organic Web,2023-12-13,1
+C01946,Belgium,45-54,Mass Market,84000,762,Referral,2026-04-28,0
+C01947,Belgium,25-34,Mass Market,38300,565,Organic Web,2019-12-04,1
+C01948,Belgium,25-34,Senior,26100,710,Branch,2022-01-15,1
+C01949,Belgium,35-44,Family,67200,594,Paid Search,2021-05-19,1
+C01950,France,35-44,Young Professional,50900,761,Organic Web,2024-08-09,1
+C01951,Belgium,45-54,Family,60700,756,Paid Search,2026-07-24,0
+C01952,Luxembourg,45-54,Mass Market,79600,709,Paid Search,2025-02-05,1
+C01953,France,35-44,Affluent,68900,697,Organic Web,2023-03-16,1
+C01954,Luxembourg,65+,Senior,26700,608,Organic Web,2026-05-22,0
+C01955,France,18-24,Mass Market,32800,581,Organic Web,2019-06-30,1
+C01956,Germany,55-64,Affluent,98000,751,Organic Web,2022-04-07,0
+C01957,France,18-24,Mass Market,32400,801,Organic Web,2022-01-12,1
+C01958,France,25-34,Family,31600,637,Referral,2026-01-26,1
+C01959,Belgium,35-44,Family,30700,637,Partner,2019-01-14,1
+C01960,Belgium,45-54,Young Professional,77300,686,Organic Web,2021-01-01,1
+C01961,Germany,55-64,Mass Market,78800,731,Partner,2025-11-13,1
+C01962,Netherlands,25-34,Mass Market,44500,723,Paid Search,2024-10-12,1
+C01963,France,45-54,Mass Market,45700,723,Organic Web,2022-09-04,1
+C01964,France,25-34,Mass Market,55300,836,Partner,2021-03-13,1
+C01965,Netherlands,25-34,Mass Market,51200,691,Paid Search,2021-06-30,1
+C01966,Belgium,18-24,Mass Market,21200,618,Paid Search,2022-06-21,1
+C01967,France,55-64,Mass Market,57200,774,Organic Web,2021-12-19,1
+C01968,Belgium,45-54,Young Professional,77300,549,Organic Web,2021-03-23,1
+C01969,Germany,55-64,Young Professional,54600,660,Referral,2026-04-11,1
+C01970,Germany,25-34,Mass Market,45600,745,Paid Search,2025-07-06,1
+C01971,Germany,55-64,Affluent,106300,693,Organic Web,2023-03-08,1
+C01972,Netherlands,45-54,Mass Market,63800,689,Organic Web,2023-12-25,0
+C01973,France,18-24,Young Professional,39000,564,Partner,2020-10-08,1
+C01974,Netherlands,35-44,Senior,56700,675,Organic Web,2019-12-30,1
+C01975,France,35-44,Affluent,101600,752,Branch,2022-03-04,1
+C01976,Germany,55-64,Young Professional,31900,709,Paid Search,2023-09-22,1
+C01977,Belgium,25-34,Mass Market,53700,682,Organic Web,2019-07-23,1
+C01978,Luxembourg,55-64,Mass Market,63800,673,Referral,2022-01-10,1
+C01979,Germany,25-34,Young Professional,49200,650,Paid Search,2026-04-15,1
+C01980,France,25-34,Affluent,67100,711,Paid Search,2019-02-22,1
+C01981,Belgium,35-44,Young Professional,71200,712,Organic Web,2024-08-05,1
+C01982,France,35-44,Mass Market,60600,743,Organic Web,2026-04-02,1
+C01983,France,65+,Mass Market,41800,713,Paid Search,2019-05-01,1
+C01984,Belgium,25-34,Family,42200,717,Organic Web,2021-03-18,1
+C01985,Belgium,25-34,Mass Market,45000,806,Organic Web,2021-03-25,1
+C01986,Belgium,35-44,Family,55600,592,Organic Web,2025-01-31,1
+C01987,Belgium,35-44,Mass Market,61700,662,Referral,2023-08-08,1
+C01988,Belgium,35-44,Mass Market,35200,630,Partner,2023-02-23,1
+C01989,Belgium,35-44,Family,71300,687,Branch,2022-10-25,1
+C01990,Belgium,25-34,Affluent,80300,676,Organic Web,2024-04-29,1
+C01991,Belgium,18-24,Family,23000,788,Organic Web,2020-10-14,1
+C01992,Luxembourg,18-24,Mass Market,31100,735,Referral,2022-02-02,1
+C01993,Belgium,18-24,Family,26600,738,Referral,2023-05-09,1
+C01994,France,55-64,Mass Market,59400,708,Referral,2020-11-15,1
+C01995,Belgium,55-64,Young Professional,46600,649,Referral,2024-10-02,1
+C01996,Germany,55-64,Mass Market,69000,681,Partner,2020-01-12,0
+C01997,Netherlands,35-44,Affluent,68600,833,Organic Web,2025-06-07,1
+C01998,Netherlands,35-44,Mass Market,68500,678,Organic Web,2020-05-03,0
+C01999,Luxembourg,35-44,Senior,57500,657,Partner,2021-10-22,1
+C02000,Belgium,45-54,Affluent,116200,661,Organic Web,2025-03-08,1
+C02001,Belgium,25-34,Family,41600,688,Referral,2023-11-14,1
+C02002,Belgium,45-54,Young Professional,69000,679,Branch,2022-12-05,1
+C02003,Belgium,35-44,Affluent,105200,728,Referral,2025-10-05,1
+C02004,Belgium,35-44,Young Professional,52000,767,Partner,2025-07-04,1
+C02005,Belgium,25-34,Senior,42300,687,Referral,2021-06-22,1
+C02006,Belgium,18-24,Senior,32500,727,Referral,2025-12-17,1
+C02007,France,25-34,Young Professional,53500,615,Paid Search,2024-06-20,0
+C02008,Netherlands,25-34,Family,46100,689,Referral,2020-03-31,1
+C02009,France,25-34,Family,60900,604,Referral,2023-06-11,1
+C02010,Belgium,35-44,Mass Market,45200,768,Partner,2026-05-19,1
+C02011,Germany,45-54,Mass Market,42500,670,Organic Web,2023-03-26,1
+C02012,Netherlands,65+,Mass Market,42700,689,Partner,2019-03-24,0
+C02013,Netherlands,45-54,Young Professional,60400,680,Referral,2024-09-05,1
+C02014,Belgium,18-24,Mass Market,26800,786,Referral,2022-11-11,1
+C02015,France,25-34,Mass Market,30600,691,Referral,2020-08-29,0
+C02016,Netherlands,18-24,Family,27000,655,Branch,2019-04-19,0
+C02017,Belgium,25-34,Mass Market,47600,599,Partner,2019-08-06,1
+C02018,France,45-54,Mass Market,43700,647,Referral,2019-06-09,0
+C02019,Belgium,55-64,Mass Market,67800,608,Partner,2020-09-27,0
+C02020,Belgium,45-54,Mass Market,62900,671,Paid Search,2019-01-10,1
+C02021,Netherlands,65+,Senior,33300,669,Organic Web,2022-01-11,1
+C02022,Belgium,45-54,Family,40700,673,Referral,2023-11-15,1
+C02023,Belgium,25-34,Affluent,90400,698,Referral,2022-07-09,1
+C02024,Belgium,25-34,Mass Market,39100,742,Branch,2026-01-16,1
+C02025,Netherlands,55-64,Young Professional,57700,682,Organic Web,2024-02-05,1
+C02026,Belgium,55-64,Affluent,133500,744,Paid Search,2023-06-01,1
+C02027,Belgium,35-44,Mass Market,37900,693,Paid Search,2019-03-21,1
+C02028,Belgium,35-44,Mass Market,53400,647,Branch,2022-04-26,1
+C02029,Luxembourg,35-44,Family,49200,691,Referral,2024-12-24,1
+C02030,France,35-44,Mass Market,50900,696,Organic Web,2022-02-25,1
+C02031,Belgium,35-44,Family,68900,646,Organic Web,2025-04-19,1
+C02032,France,35-44,Family,68600,738,Organic Web,2021-06-23,1
+C02033,Netherlands,25-34,Mass Market,37300,666,Branch,2020-07-21,1
+C02034,Belgium,25-34,Affluent,77100,638,Branch,2022-07-05,0
+C02035,Netherlands,45-54,Mass Market,53600,709,Referral,2024-08-13,0
+C02036,Germany,35-44,Mass Market,72400,631,Organic Web,2020-08-09,1
+C02037,Belgium,25-34,Young Professional,33100,564,Organic Web,2020-03-06,1
+C02038,Netherlands,45-54,Mass Market,67000,800,Organic Web,2026-04-06,1
+C02039,Netherlands,25-34,Mass Market,46900,706,Partner,2021-06-30,0
+C02040,Belgium,35-44,Young Professional,50700,702,Organic Web,2021-01-04,1
+C02041,France,45-54,Family,52800,613,Paid Search,2021-12-24,0
+C02042,Netherlands,35-44,Family,50100,700,Organic Web,2025-12-12,1
+C02043,Belgium,45-54,Senior,45000,720,Paid Search,2020-11-15,1
+C02044,Belgium,65+,Senior,41200,675,Referral,2026-06-20,1
+C02045,Netherlands,25-34,Mass Market,55500,678,Paid Search,2021-10-06,1
+C02046,Netherlands,45-54,Family,46800,600,Organic Web,2025-07-20,0
+C02047,Belgium,25-34,Young Professional,32400,610,Branch,2025-01-22,1
+C02048,Belgium,35-44,Mass Market,54500,719,Branch,2023-05-12,1
+C02049,Belgium,45-54,Senior,57900,650,Paid Search,2020-01-13,1
+C02050,Germany,55-64,Family,68000,720,Referral,2023-03-13,1
+C02051,Belgium,25-34,Affluent,62200,732,Organic Web,2022-11-10,1
+C02052,Belgium,35-44,Mass Market,56500,643,Organic Web,2024-09-03,1
+C02053,France,18-24,Mass Market,30200,681,Organic Web,2022-06-20,1
+C02054,Belgium,35-44,Mass Market,69000,713,Organic Web,2020-04-04,0
+C02055,Belgium,25-34,Family,43600,606,Organic Web,2023-01-11,1
+C02056,France,35-44,Mass Market,28400,754,Referral,2021-07-05,1
+C02057,Belgium,55-64,Young Professional,59700,488,Referral,2020-09-04,1
+C02058,Belgium,35-44,Mass Market,52600,629,Organic Web,2023-02-28,1
+C02059,Belgium,55-64,Mass Market,56300,667,Organic Web,2024-05-01,0
+C02060,Belgium,65+,Affluent,70000,769,Organic Web,2023-08-30,1
+C02061,Belgium,25-34,Family,43900,737,Branch,2020-12-01,1
+C02062,Luxembourg,55-64,Affluent,78000,689,Branch,2025-02-13,1
+C02063,Belgium,35-44,Young Professional,57000,675,Organic Web,2019-11-08,1
+C02064,Luxembourg,35-44,Young Professional,38600,642,Organic Web,2024-11-23,1
+C02065,Germany,65+,Mass Market,27800,539,Referral,2019-12-05,1
+C02066,Belgium,55-64,Senior,48800,750,Organic Web,2022-04-01,1
+C02067,Germany,25-34,Mass Market,45900,794,Referral,2020-05-16,1
+C02068,Belgium,65+,Affluent,75200,715,Paid Search,2020-11-20,0
+C02069,Netherlands,55-64,Mass Market,54700,767,Partner,2022-05-26,1
+C02070,Germany,45-54,Mass Market,47200,542,Referral,2024-07-18,0
+C02071,Belgium,35-44,Mass Market,80200,763,Organic Web,2025-07-14,1
+C02072,Belgium,65+,Mass Market,41200,732,Partner,2021-04-07,0
+C02073,Belgium,45-54,Family,55200,630,Paid Search,2021-06-01,1
+C02074,Belgium,25-34,Senior,49500,733,Referral,2019-06-18,1
+C02075,Belgium,35-44,Affluent,111800,751,Paid Search,2024-03-27,1
+C02076,Belgium,35-44,Mass Market,65800,757,Organic Web,2026-06-23,1
+C02077,France,25-34,Family,28900,572,Organic Web,2026-07-10,1
+C02078,Luxembourg,18-24,Young Professional,31100,747,Partner,2023-12-05,1
+C02079,Belgium,35-44,Mass Market,78200,630,Organic Web,2020-11-15,1
+C02080,Belgium,25-34,Family,59000,698,Branch,2019-07-02,1
+C02081,Germany,35-44,Mass Market,75700,757,Partner,2026-03-17,1
+C02082,Belgium,45-54,Young Professional,67000,799,Organic Web,2022-06-16,0
+C02083,Belgium,35-44,Senior,54600,602,Branch,2023-07-19,1
+C02084,Germany,35-44,Mass Market,71100,613,Organic Web,2024-06-20,1
+C02085,France,25-34,Affluent,103600,663,Partner,2024-05-23,0
+C02086,Germany,55-64,Senior,47000,762,Organic Web,2020-08-10,1
+C02087,Netherlands,18-24,Affluent,53800,712,Branch,2026-02-22,1
+C02088,Germany,25-34,Family,29700,785,Organic Web,2021-02-23,1
+C02089,Germany,25-34,Mass Market,34200,643,Paid Search,2020-09-01,1
+C02090,Belgium,45-54,Family,38900,738,Organic Web,2020-07-07,1
+C02091,Germany,45-54,Affluent,109600,677,Referral,2025-11-22,1
+C02092,Germany,25-34,Mass Market,48200,699,Referral,2022-04-03,1
+C02093,Belgium,45-54,Mass Market,43700,693,Partner,2022-12-22,1
+C02094,Belgium,35-44,Senior,43700,597,Paid Search,2025-07-29,1
+C02095,Belgium,35-44,Affluent,104700,490,Organic Web,2025-04-04,0
+C02096,Germany,55-64,Senior,29500,728,Organic Web,2022-03-24,0
+C02097,Netherlands,65+,Mass Market,41100,674,Organic Web,2025-06-07,0
+C02098,Netherlands,45-54,Senior,56000,663,Organic Web,2020-08-09,1
+C02099,Netherlands,65+,Mass Market,22400,585,Organic Web,2025-08-27,0
+C02100,Netherlands,25-34,Mass Market,47700,763,Referral,2021-12-16,1
+C02101,Belgium,35-44,Young Professional,27300,570,Organic Web,2025-08-10,1
+C02102,Germany,55-64,Mass Market,53300,584,Branch,2024-04-09,1
+C02103,Germany,35-44,Mass Market,62900,580,Organic Web,2023-10-04,1
+C02104,Germany,25-34,Family,43800,691,Paid Search,2026-03-01,1
+C02105,Netherlands,65+,Mass Market,44000,699,Organic Web,2019-09-23,0
+C02106,Germany,18-24,Mass Market,33900,700,Partner,2026-01-24,1
+C02107,Belgium,25-34,Mass Market,43000,809,Paid Search,2019-07-04,1
+C02108,Belgium,55-64,Mass Market,50500,759,Organic Web,2023-12-08,1
+C02109,Belgium,55-64,Senior,52200,554,Referral,2023-04-05,1
+C02110,Belgium,25-34,Affluent,93200,796,Organic Web,2024-01-17,1
+C02111,Belgium,65+,Young Professional,61500,655,Paid Search,2020-06-20,1
+C02112,Belgium,45-54,Mass Market,52000,706,Referral,2021-09-10,1
+C02113,France,45-54,Young Professional,72200,675,Referral,2023-09-23,1
+C02114,Germany,18-24,Mass Market,33200,641,Branch,2022-01-15,1
+C02115,Germany,55-64,Senior,56900,659,Partner,2026-05-01,1
+C02116,Belgium,45-54,Affluent,131600,631,Referral,2024-06-29,1
+C02117,Belgium,25-34,Mass Market,41900,734,Branch,2020-05-08,1
+C02118,Belgium,65+,Family,27700,642,Referral,2023-06-05,1
+C02119,Belgium,25-34,Affluent,78700,749,Branch,2023-08-25,1
+C02120,Belgium,55-64,Family,72200,850,Paid Search,2020-05-22,1
+C02121,France,45-54,Young Professional,44200,668,Referral,2019-04-27,0
+C02122,Belgium,65+,Mass Market,40600,775,Referral,2023-07-23,0
+C02123,France,45-54,Family,78700,696,Organic Web,2021-09-12,1
+C02124,Belgium,45-54,Affluent,126500,805,Organic Web,2019-12-30,0
+C02125,France,35-44,Family,56200,664,Branch,2023-02-06,1
+C02126,Belgium,45-54,Mass Market,69100,617,Branch,2022-01-31,1
+C02127,Luxembourg,55-64,Young Professional,84300,701,Branch,2022-08-02,1
+C02128,Luxembourg,45-54,Mass Market,55700,675,Referral,2019-05-19,1
+C02129,Belgium,35-44,Mass Market,61300,735,Organic Web,2026-07-05,0
+C02130,Netherlands,45-54,Mass Market,70100,633,Branch,2019-02-22,0
+C02131,Luxembourg,65+,Mass Market,56300,704,Organic Web,2019-05-25,0
+C02132,Belgium,45-54,Mass Market,64600,712,Referral,2023-01-30,1
+C02133,Belgium,25-34,Young Professional,40400,576,Organic Web,2019-11-09,1
+C02134,Germany,35-44,Family,64900,704,Partner,2021-01-31,1
+C02135,Belgium,55-64,Affluent,90400,791,Referral,2025-08-03,1
+C02136,France,35-44,Family,50600,662,Referral,2026-04-29,1
+C02137,Belgium,35-44,Mass Market,56000,769,Branch,2021-03-14,1
+C02138,Belgium,55-64,Mass Market,73400,618,Organic Web,2025-12-23,1
+C02139,Belgium,35-44,Senior,23500,726,Branch,2025-12-13,1
+C02140,Belgium,18-24,Mass Market,21500,757,Organic Web,2021-03-21,1
+C02141,Belgium,55-64,Mass Market,52500,723,Paid Search,2021-08-29,0
+C02142,Belgium,35-44,Young Professional,74200,739,Branch,2024-06-25,1
+C02143,Belgium,65+,Family,26900,660,Referral,2019-07-14,0
+C02144,Belgium,55-64,Senior,52200,698,Paid Search,2025-02-16,1
+C02145,Belgium,45-54,Mass Market,68600,693,Branch,2019-02-04,0
+C02146,Netherlands,18-24,Young Professional,28500,705,Referral,2020-04-19,1
+C02147,Germany,35-44,Family,65400,638,Organic Web,2019-12-19,1
+C02148,Belgium,35-44,Family,61200,652,Branch,2021-12-21,1
+C02149,Luxembourg,65+,Young Professional,38600,596,Referral,2022-03-18,1
+C02150,France,25-34,Mass Market,40100,702,Branch,2025-07-27,1
+C02151,Belgium,55-64,Young Professional,56100,682,Referral,2023-11-21,0
+C02152,Belgium,55-64,Family,63400,730,Organic Web,2022-07-24,0
+C02153,France,18-24,Young Professional,24700,589,Organic Web,2021-10-12,1
+C02154,Germany,25-34,Affluent,74400,741,Paid Search,2022-11-05,1
+C02155,France,25-34,Young Professional,54800,827,Organic Web,2026-01-05,1
+C02156,Germany,25-34,Senior,47700,644,Branch,2025-02-23,1
+C02157,Belgium,55-64,Young Professional,77400,685,Partner,2019-03-14,1
+C02158,Netherlands,35-44,Mass Market,65400,604,Organic Web,2020-12-14,1
+C02159,Germany,25-34,Family,34400,781,Organic Web,2025-01-31,1
+C02160,Belgium,35-44,Young Professional,62700,727,Organic Web,2022-05-02,1
+C02161,Germany,35-44,Family,81000,665,Organic Web,2025-09-28,1
+C02162,Belgium,25-34,Young Professional,36900,640,Referral,2019-09-17,0
+C02163,Belgium,25-34,Family,31400,720,Referral,2025-08-17,1
+C02164,Netherlands,45-54,Family,62900,666,Organic Web,2025-05-21,1
+C02165,Netherlands,45-54,Mass Market,63400,803,Organic Web,2023-01-20,1
+C02166,France,35-44,Senior,50900,637,Organic Web,2025-06-15,1
+C02167,Netherlands,35-44,Young Professional,77800,586,Organic Web,2020-06-21,1
+C02168,France,35-44,Mass Market,49800,626,Referral,2020-05-23,1
+C02169,Germany,18-24,Family,27300,657,Partner,2022-06-25,1
+C02170,Luxembourg,25-34,Young Professional,44000,629,Paid Search,2025-02-05,1
+C02171,Belgium,55-64,Young Professional,45900,677,Branch,2020-07-17,0
+C02172,Netherlands,65+,Family,44600,639,Branch,2026-07-17,0
+C02173,France,45-54,Mass Market,50400,631,Paid Search,2022-10-28,0
+C02174,Germany,45-54,Family,68000,720,Organic Web,2023-07-28,1
+C02175,Belgium,45-54,Mass Market,62500,689,Paid Search,2026-02-10,1
+C02176,Germany,35-44,Affluent,105400,744,Branch,2025-09-12,1
+C02177,Belgium,45-54,Senior,54600,733,Paid Search,2019-03-24,1
+C02178,Belgium,45-54,Affluent,126000,788,Paid Search,2024-07-27,0
+C02179,France,18-24,Family,34200,654,Organic Web,2026-01-26,1
+C02180,Belgium,45-54,Affluent,108200,753,Organic Web,2024-07-30,1
+C02181,Belgium,45-54,Family,39300,712,Organic Web,2021-05-14,0
+C02182,Belgium,35-44,Mass Market,56500,763,Paid Search,2026-07-07,1
+C02183,Belgium,18-24,Mass Market,25800,695,Partner,2023-09-26,1
+C02184,Belgium,18-24,Mass Market,31900,611,Referral,2024-01-28,1
+C02185,Netherlands,45-54,Mass Market,94600,776,Referral,2025-04-14,0
+C02186,Netherlands,35-44,Family,80000,850,Paid Search,2022-03-07,1
+C02187,Belgium,55-64,Senior,60000,678,Branch,2019-05-21,1
+C02188,Germany,35-44,Young Professional,48900,662,Referral,2025-02-12,1
+C02189,Germany,25-34,Senior,52700,741,Branch,2022-09-23,1
+C02190,France,45-54,Family,79400,643,Branch,2024-01-28,0
+C02191,France,55-64,Young Professional,66200,651,Partner,2024-08-03,0
+C02192,Belgium,35-44,Family,55000,668,Partner,2025-02-13,1
+C02193,Germany,45-54,Senior,67300,702,Organic Web,2023-05-28,0
+C02194,Luxembourg,65+,Family,46400,731,Organic Web,2021-01-25,0
+C02195,Netherlands,25-34,Affluent,72100,636,Referral,2023-07-17,1
+C02196,France,18-24,Mass Market,20700,732,Branch,2023-10-11,0
+C02197,Germany,45-54,Young Professional,68800,600,Organic Web,2022-07-31,1
+C02198,Belgium,55-64,Young Professional,59100,779,Organic Web,2024-09-02,0
+C02199,Belgium,55-64,Affluent,84300,645,Referral,2024-04-10,1
+C02200,Netherlands,35-44,Mass Market,62400,790,Paid Search,2021-12-29,1
+C02201,Belgium,25-34,Mass Market,31100,635,Branch,2021-04-21,1
+C02202,Netherlands,35-44,Affluent,76900,640,Organic Web,2025-08-08,1
+C02203,Germany,35-44,Mass Market,68700,738,Branch,2020-12-17,1
+C02204,Netherlands,25-34,Affluent,70200,642,Branch,2022-06-13,1
+C02205,Belgium,35-44,Mass Market,62200,682,Organic Web,2020-04-30,1
+C02206,Belgium,35-44,Young Professional,63500,732,Referral,2021-03-05,1
+C02207,Germany,35-44,Mass Market,60500,784,Organic Web,2023-03-23,1
+C02208,Belgium,18-24,Mass Market,23600,595,Referral,2021-12-02,1
+C02209,Belgium,35-44,Mass Market,46200,617,Branch,2025-11-11,1
+C02210,Belgium,45-54,Young Professional,93900,845,Referral,2022-04-07,1
+C02211,France,25-34,Family,33400,756,Branch,2021-09-02,1
+C02212,Netherlands,45-54,Young Professional,64700,574,Paid Search,2025-04-17,0
+C02213,Belgium,25-34,Mass Market,29500,609,Branch,2023-04-20,1
+C02214,Belgium,35-44,Mass Market,38600,658,Organic Web,2021-12-16,1
+C02215,Belgium,45-54,Young Professional,52200,724,Organic Web,2021-08-28,0
+C02216,Belgium,45-54,Senior,79200,633,Organic Web,2021-10-07,1
+C02217,Belgium,35-44,Young Professional,70600,603,Paid Search,2022-03-08,1
+C02218,Belgium,45-54,Senior,86500,704,Branch,2022-12-23,1
+C02219,France,35-44,Family,65000,741,Paid Search,2019-02-07,1
+C02220,Belgium,35-44,Family,76900,658,Organic Web,2024-12-11,1
+C02221,Netherlands,25-34,Affluent,31700,757,Referral,2023-06-11,0
+C02222,Belgium,25-34,Family,47500,604,Organic Web,2019-08-06,1
+C02223,Belgium,55-64,Family,60100,712,Referral,2022-06-01,1
+C02224,Belgium,25-34,Senior,53800,761,Referral,2025-07-07,1
+C02225,Germany,35-44,Family,45100,725,Branch,2022-04-02,1
+C02226,France,35-44,Young Professional,29800,621,Branch,2023-09-09,1
+C02227,Belgium,35-44,Young Professional,63400,695,Branch,2024-11-22,1
+C02228,France,45-54,Mass Market,68900,681,Organic Web,2022-03-30,1
+C02229,Belgium,45-54,Mass Market,42000,602,Branch,2023-11-11,0
+C02230,Belgium,45-54,Young Professional,65400,579,Organic Web,2024-08-02,0
+C02231,Belgium,25-34,Young Professional,29800,573,Branch,2022-02-28,1
+C02232,France,65+,Family,43200,639,Branch,2019-12-14,1
+C02233,Luxembourg,25-34,Mass Market,36100,631,Referral,2020-10-08,1
+C02234,Belgium,25-34,Family,20000,630,Paid Search,2023-06-15,1
+C02235,Netherlands,35-44,Senior,48500,702,Referral,2021-07-22,1
+C02236,France,25-34,Affluent,85900,673,Referral,2020-06-22,1
+C02237,Germany,45-54,Mass Market,66700,746,Partner,2026-03-25,1
+C02238,Belgium,25-34,Senior,40600,696,Organic Web,2020-11-06,1
+C02239,Netherlands,18-24,Senior,26200,654,Organic Web,2021-02-15,1
+C02240,Belgium,35-44,Senior,48600,623,Branch,2021-08-09,1
+C02241,Belgium,55-64,Young Professional,57300,647,Paid Search,2021-05-07,0
+C02242,Germany,25-34,Senior,38200,689,Organic Web,2023-10-10,1
+C02243,Netherlands,35-44,Family,66400,673,Referral,2020-06-20,1
+C02244,France,45-54,Senior,76400,791,Partner,2025-04-04,1
+C02245,France,35-44,Family,78000,683,Branch,2023-06-25,1
+C02246,Belgium,35-44,Senior,39100,630,Branch,2023-11-16,1
+C02247,Germany,65+,Senior,46100,690,Organic Web,2026-05-31,0
+C02248,France,35-44,Young Professional,67500,604,Organic Web,2019-05-22,1
+C02249,France,65+,Affluent,80900,691,Referral,2021-11-29,1
+C02250,Belgium,35-44,Young Professional,42300,734,Paid Search,2019-01-17,1
+C02251,Belgium,45-54,Senior,62500,598,Referral,2025-01-21,1
+C02252,Belgium,18-24,Affluent,31800,581,Branch,2023-07-22,1
+C02253,Belgium,35-44,Mass Market,59000,727,Referral,2022-05-03,1
+C02254,Belgium,35-44,Young Professional,65900,719,Organic Web,2020-01-29,1
+C02255,France,35-44,Mass Market,55100,803,Organic Web,2020-04-10,1
+C02256,Belgium,25-34,Family,47900,692,Organic Web,2019-05-16,0
+C02257,Netherlands,55-64,Mass Market,63700,767,Partner,2025-06-22,0
+C02258,France,35-44,Young Professional,42700,633,Partner,2020-08-15,1
+C02259,Netherlands,65+,Mass Market,53800,638,Partner,2022-08-07,0
+C02260,Netherlands,25-34,Family,42700,764,Paid Search,2024-03-07,1
+C02261,Belgium,35-44,Mass Market,33400,794,Partner,2026-01-15,1
+C02262,Germany,55-64,Family,72500,715,Branch,2019-01-07,1
+C02263,Belgium,65+,Mass Market,29400,634,Organic Web,2026-04-17,0
+C02264,Belgium,35-44,Mass Market,40700,613,Partner,2024-03-11,1
+C02265,France,45-54,Mass Market,60000,669,Organic Web,2025-04-27,1
+C02266,Belgium,18-24,Senior,22800,720,Organic Web,2020-04-22,0
+C02267,Netherlands,25-34,Mass Market,53000,832,Branch,2025-07-25,1
+C02268,Belgium,45-54,Family,79300,596,Referral,2024-06-28,1
+C02269,France,65+,Young Professional,35800,730,Organic Web,2026-02-14,0
+C02270,Luxembourg,45-54,Affluent,111300,791,Referral,2022-10-12,0
+C02271,Luxembourg,55-64,Mass Market,53800,675,Organic Web,2022-05-25,1
+C02272,France,25-34,Senior,41900,672,Organic Web,2022-01-25,1
+C02273,Belgium,25-34,Family,32400,695,Organic Web,2020-07-25,1
+C02274,Germany,25-34,Family,42200,635,Partner,2026-03-22,1
+C02275,Belgium,65+,Mass Market,52200,727,Partner,2020-06-17,1
+C02276,Germany,25-34,Mass Market,46700,725,Partner,2020-09-06,1
+C02277,Belgium,25-34,Mass Market,27600,610,Partner,2020-07-04,1
+C02278,Belgium,35-44,Family,37200,713,Organic Web,2023-12-17,1
+C02279,Germany,25-34,Mass Market,59000,639,Partner,2025-05-10,1
+C02280,Belgium,35-44,Mass Market,66900,678,Referral,2024-01-30,0
+C02281,Germany,25-34,Affluent,88800,615,Organic Web,2020-12-10,1
+C02282,Belgium,45-54,Affluent,98800,730,Branch,2020-11-08,1
+C02283,Belgium,45-54,Mass Market,54000,642,Branch,2019-10-05,1
+C02284,Germany,25-34,Young Professional,48900,664,Branch,2019-08-13,1
+C02285,Germany,45-54,Mass Market,64300,632,Paid Search,2019-09-20,1
+C02286,France,18-24,Young Professional,20100,733,Branch,2022-05-06,1
+C02287,France,25-34,Young Professional,49400,638,Organic Web,2023-01-25,1
+C02288,Germany,25-34,Affluent,69800,601,Paid Search,2025-02-10,1
+C02289,Netherlands,25-34,Mass Market,26900,615,Organic Web,2019-11-30,1
+C02290,Belgium,35-44,Family,63800,741,Referral,2025-06-30,1
+C02291,France,25-34,Family,45000,625,Organic Web,2021-02-23,1
+C02292,Netherlands,25-34,Family,34000,703,Organic Web,2026-04-22,1
+C02293,Belgium,35-44,Family,57300,723,Referral,2020-05-10,1
+C02294,Belgium,45-54,Mass Market,61600,691,Organic Web,2021-11-29,1
+C02295,Belgium,55-64,Family,76800,672,Organic Web,2025-06-01,0
+C02296,France,35-44,Family,54900,728,Referral,2025-03-27,0
+C02297,Belgium,35-44,Mass Market,46800,737,Branch,2026-07-12,1
+C02298,France,35-44,Senior,49800,620,Organic Web,2020-09-16,1
+C02299,Germany,55-64,Mass Market,56100,632,Partner,2020-12-22,1
+C02300,Germany,25-34,Family,50700,739,Branch,2021-03-11,1
+C02301,Belgium,35-44,Young Professional,57200,674,Referral,2021-03-08,1
+C02302,France,25-34,Young Professional,35500,604,Partner,2020-08-24,1
+C02303,Luxembourg,25-34,Young Professional,38800,757,Referral,2021-10-18,1
+C02304,Germany,55-64,Family,39400,600,Organic Web,2023-12-16,1
+C02305,Belgium,25-34,Mass Market,35200,659,Organic Web,2021-01-05,1
+C02306,Netherlands,25-34,Family,40900,705,Organic Web,2019-12-27,1
+C02307,France,45-54,Young Professional,58300,563,Organic Web,2025-12-21,0
+C02308,Belgium,35-44,Mass Market,68000,636,Referral,2023-06-07,1
+C02309,Germany,45-54,Family,81200,722,Referral,2026-01-16,0
+C02310,Belgium,55-64,Family,49500,730,Branch,2023-06-19,1
+C02311,Netherlands,65+,Young Professional,54900,771,Referral,2021-12-27,0
+C02312,Belgium,18-24,Young Professional,22200,642,Referral,2024-03-11,1
+C02313,Netherlands,35-44,Mass Market,69000,729,Partner,2021-01-15,1
+C02314,Netherlands,25-34,Young Professional,52700,606,Organic Web,2025-12-25,1
+C02315,France,55-64,Mass Market,58200,740,Partner,2019-03-24,1
+C02316,Belgium,35-44,Family,47400,710,Referral,2023-11-20,1
+C02317,Netherlands,25-34,Senior,36200,680,Branch,2020-09-12,1
+C02318,Belgium,25-34,Mass Market,46100,647,Organic Web,2024-03-31,1
+C02319,Netherlands,35-44,Mass Market,39500,794,Organic Web,2026-02-03,1
+C02320,Netherlands,25-34,Senior,45000,653,Organic Web,2022-04-17,1
+C02321,Netherlands,25-34,Family,39700,715,Referral,2022-03-06,1
+C02322,France,18-24,Mass Market,18600,552,Referral,2022-04-21,1
+C02323,Germany,35-44,Young Professional,45500,531,Partner,2022-01-21,0
+C02324,Belgium,25-34,Affluent,74500,719,Paid Search,2022-01-27,1
+C02325,Germany,35-44,Senior,61700,719,Paid Search,2025-04-30,1
+C02326,Netherlands,45-54,Mass Market,75000,690,Organic Web,2019-03-01,0
+C02327,Belgium,65+,Mass Market,28900,725,Paid Search,2021-02-14,1
+C02328,Belgium,35-44,Mass Market,52800,719,Branch,2023-03-15,1
+C02329,Belgium,25-34,Senior,32400,700,Referral,2019-05-02,0
+C02330,Belgium,45-54,Family,73400,765,Organic Web,2024-03-25,1
+C02331,Belgium,45-54,Mass Market,44900,727,Paid Search,2020-10-01,1
+C02332,France,45-54,Family,44300,742,Organic Web,2019-06-25,0
+C02333,Netherlands,45-54,Affluent,73700,772,Paid Search,2021-01-04,1
+C02334,Belgium,25-34,Affluent,76600,744,Branch,2022-12-08,1
+C02335,Belgium,35-44,Young Professional,60100,727,Paid Search,2025-11-25,0
+C02336,Belgium,55-64,Mass Market,49500,684,Branch,2024-03-28,1
+C02337,Belgium,45-54,Mass Market,48100,646,Organic Web,2020-03-24,0
+C02338,France,45-54,Mass Market,48900,737,Organic Web,2019-10-12,0
+C02339,Luxembourg,25-34,Family,32400,667,Organic Web,2021-11-21,1
+C02340,Belgium,18-24,Affluent,33800,768,Branch,2023-09-21,1
+C02341,Luxembourg,55-64,Family,44000,540,Organic Web,2021-11-25,1
+C02342,Belgium,35-44,Family,56200,660,Organic Web,2022-12-14,1
+C02343,France,65+,Mass Market,30100,720,Paid Search,2022-07-07,1
+C02344,Germany,18-24,Family,36400,554,Organic Web,2021-06-24,1
+C02345,Germany,18-24,Family,20700,685,Organic Web,2020-11-13,1
+C02346,Germany,35-44,Young Professional,69100,686,Organic Web,2021-11-17,1
+C02347,Belgium,45-54,Young Professional,64400,549,Organic Web,2023-07-04,1
+C02348,Belgium,35-44,Senior,46600,759,Organic Web,2023-09-04,1
+C02349,France,45-54,Affluent,90000,623,Partner,2026-07-21,0
+C02350,Netherlands,25-34,Affluent,79600,750,Organic Web,2020-05-13,1
+C02351,Belgium,55-64,Mass Market,60300,749,Referral,2026-01-27,0
+C02352,France,35-44,Mass Market,33900,618,Referral,2024-07-30,1
+C02353,France,25-34,Family,37900,786,Branch,2026-05-03,1
+C02354,Germany,25-34,Young Professional,35400,546,Paid Search,2024-09-22,1
+C02355,Belgium,35-44,Young Professional,60900,812,Partner,2025-06-01,1
+C02356,France,35-44,Family,72400,590,Organic Web,2019-12-22,1
+C02357,Netherlands,35-44,Senior,50800,676,Organic Web,2024-10-29,1
+C02358,Belgium,25-34,Mass Market,18100,698,Referral,2020-11-08,1
+C02359,Belgium,35-44,Family,50600,661,Branch,2024-08-15,1
+C02360,Belgium,18-24,Senior,27700,575,Organic Web,2025-04-30,1
+C02361,Netherlands,55-64,Mass Market,58800,718,Organic Web,2022-01-06,0
+C02362,France,25-34,Family,52000,744,Referral,2022-10-15,1
+C02363,Netherlands,18-24,Mass Market,28000,716,Organic Web,2020-08-20,1
+C02364,Netherlands,45-54,Mass Market,65700,621,Organic Web,2022-12-02,1
+C02365,Netherlands,18-24,Mass Market,29400,702,Partner,2022-09-01,1
+C02366,Germany,55-64,Young Professional,66400,729,Branch,2024-02-15,0
+C02367,Netherlands,25-34,Family,37300,652,Paid Search,2021-05-17,1
+C02368,Germany,25-34,Young Professional,54200,850,Organic Web,2022-07-14,1
+C02369,Germany,55-64,Family,83200,782,Referral,2021-06-25,0
+C02370,Germany,18-24,Mass Market,22900,633,Organic Web,2022-06-18,1
+C02371,Belgium,18-24,Family,37700,761,Referral,2024-05-05,1
+C02372,Belgium,25-34,Mass Market,38600,667,Paid Search,2024-08-21,1
+C02373,Belgium,55-64,Mass Market,53000,748,Organic Web,2020-08-27,0
+C02374,France,65+,Mass Market,33200,770,Referral,2026-05-06,1
+C02375,Netherlands,65+,Mass Market,25400,627,Branch,2024-09-10,1
+C02376,Netherlands,25-34,Family,57200,691,Referral,2023-07-27,0
+C02377,France,25-34,Affluent,70000,621,Referral,2024-06-06,1
+C02378,Belgium,35-44,Young Professional,27800,557,Organic Web,2020-09-15,1
+C02379,France,18-24,Mass Market,26900,745,Branch,2024-07-03,0
+C02380,Belgium,18-24,Mass Market,21200,685,Branch,2025-12-07,1
+C02381,Netherlands,65+,Young Professional,47600,715,Organic Web,2025-01-19,1
+C02382,France,35-44,Affluent,109100,663,Partner,2025-09-25,1
+C02383,Belgium,55-64,Young Professional,67100,646,Branch,2025-03-07,1
+C02384,Belgium,25-34,Young Professional,47800,705,Branch,2026-05-15,0
+C02385,Netherlands,25-34,Family,57100,717,Paid Search,2022-11-03,1
+C02386,Luxembourg,35-44,Senior,67600,711,Referral,2022-03-10,0
+C02387,France,25-34,Mass Market,44800,669,Referral,2019-04-04,1
+C02388,Netherlands,45-54,Mass Market,59400,498,Referral,2023-09-15,0
+C02389,Belgium,45-54,Affluent,110300,779,Referral,2019-12-03,1
+C02390,Luxembourg,35-44,Young Professional,53700,731,Branch,2023-04-14,0
+C02391,Luxembourg,55-64,Young Professional,74600,734,Referral,2026-03-13,1
+C02392,Belgium,35-44,Young Professional,56900,698,Paid Search,2023-03-04,0
+C02393,Belgium,35-44,Mass Market,54200,616,Paid Search,2021-12-16,1
+C02394,Belgium,25-34,Family,44900,609,Organic Web,2019-12-27,1
+C02395,Luxembourg,25-34,Mass Market,29200,637,Paid Search,2021-01-31,0
+C02396,Netherlands,65+,Family,40700,737,Branch,2022-10-14,1
+C02397,Germany,25-34,Mass Market,32800,579,Organic Web,2023-07-01,1
+C02398,France,25-34,Mass Market,47000,685,Paid Search,2025-01-31,1
+C02399,Belgium,18-24,Mass Market,20200,699,Referral,2025-07-01,1
+C02400,Netherlands,35-44,Young Professional,50300,727,Referral,2020-01-07,1
+C02401,Belgium,18-24,Mass Market,19900,662,Partner,2021-01-21,1
+C02402,Belgium,45-54,Mass Market,57100,518,Organic Web,2020-07-18,0
+C02403,Belgium,35-44,Family,68600,709,Organic Web,2023-09-07,1
+C02404,Netherlands,35-44,Family,77600,757,Referral,2021-07-13,0
+C02405,Belgium,25-34,Young Professional,43100,578,Organic Web,2024-07-13,0
+C02406,Netherlands,55-64,Mass Market,56200,661,Paid Search,2026-06-11,1
+C02407,Netherlands,25-34,Young Professional,40000,561,Referral,2022-05-28,0
+C02408,Belgium,55-64,Mass Market,52000,754,Organic Web,2021-02-05,1
+C02409,Luxembourg,35-44,Mass Market,46400,626,Paid Search,2023-11-14,1
+C02410,Belgium,25-34,Young Professional,24200,572,Partner,2024-01-07,1
+C02411,Belgium,25-34,Family,32800,698,Organic Web,2024-02-15,1
+C02412,Belgium,45-54,Young Professional,71500,680,Referral,2025-09-09,0
+C02413,Belgium,18-24,Family,31300,691,Organic Web,2022-08-16,1
+C02414,France,18-24,Mass Market,21100,655,Branch,2019-07-15,1
+C02415,Germany,18-24,Family,33200,711,Paid Search,2023-01-06,1
+C02416,Belgium,25-34,Young Professional,37900,662,Organic Web,2019-07-19,1
+C02417,Belgium,45-54,Senior,56700,615,Partner,2025-03-11,1
+C02418,Belgium,18-24,Mass Market,26600,708,Referral,2026-03-18,1
+C02419,Belgium,35-44,Young Professional,58800,747,Organic Web,2025-07-31,0
+C02420,Netherlands,35-44,Senior,62000,660,Branch,2019-06-27,1
+C02421,Belgium,35-44,Mass Market,28800,663,Paid Search,2025-11-19,1
+C02422,Germany,18-24,Senior,29800,571,Partner,2022-06-20,1
+C02423,Belgium,25-34,Affluent,93600,684,Branch,2020-05-09,1
+C02424,Belgium,45-54,Mass Market,60000,618,Branch,2020-04-19,1
+C02425,Netherlands,25-34,Young Professional,42100,577,Branch,2024-12-06,1
+C02426,Netherlands,25-34,Mass Market,29800,564,Branch,2019-11-21,1
+C02427,Belgium,45-54,Young Professional,44700,655,Branch,2026-03-28,1
+C02428,Belgium,65+,Senior,50800,692,Organic Web,2021-10-08,0
+C02429,Belgium,35-44,Mass Market,36700,582,Organic Web,2019-07-04,1
+C02430,Belgium,35-44,Family,67100,662,Referral,2021-08-25,1
+C02431,Luxembourg,25-34,Young Professional,45500,730,Paid Search,2026-05-12,1
+C02432,Belgium,25-34,Young Professional,29400,658,Organic Web,2025-11-18,1
+C02433,France,18-24,Mass Market,29800,677,Referral,2020-06-30,1
+C02434,Netherlands,45-54,Mass Market,64800,724,Partner,2020-08-06,1
+C02435,Belgium,25-34,Affluent,107800,656,Referral,2023-01-21,1
+C02436,Belgium,35-44,Young Professional,54900,772,Organic Web,2020-09-05,1
+C02437,France,35-44,Affluent,74700,701,Organic Web,2025-12-22,1
+C02438,France,35-44,Family,44700,593,Branch,2019-04-10,1
+C02439,Germany,18-24,Mass Market,27300,691,Branch,2025-03-10,1
+C02440,Belgium,45-54,Mass Market,51400,666,Branch,2024-10-16,1
+C02441,France,18-24,Family,19400,613,Partner,2019-05-26,1
+C02442,Belgium,18-24,Affluent,32300,684,Paid Search,2023-07-16,1
+C02443,Belgium,35-44,Family,37600,628,Organic Web,2020-09-08,1
+C02444,Luxembourg,18-24,Young Professional,32400,666,Partner,2024-06-18,1
+C02445,France,45-54,Mass Market,62400,726,Organic Web,2025-10-23,1
+C02446,Belgium,45-54,Mass Market,91200,718,Referral,2026-07-04,1
+C02447,Belgium,65+,Mass Market,34000,678,Organic Web,2023-01-09,1
+C02448,Netherlands,45-54,Senior,36300,744,Branch,2024-10-06,1
+C02449,Luxembourg,18-24,Mass Market,25400,734,Branch,2019-12-14,1
+C02450,Netherlands,65+,Senior,42300,701,Partner,2022-08-30,1
+C02451,Germany,25-34,Mass Market,29000,686,Paid Search,2020-12-15,1
+C02452,France,18-24,Mass Market,23000,630,Branch,2026-01-21,1
+C02453,France,25-34,Young Professional,30000,528,Branch,2025-09-13,1
+C02454,Belgium,25-34,Young Professional,21000,567,Branch,2020-06-06,1
+C02455,France,65+,Young Professional,30700,727,Partner,2026-04-28,0
+C02456,Netherlands,65+,Young Professional,43400,593,Branch,2021-08-15,0
+C02457,Germany,35-44,Young Professional,54200,724,Organic Web,2021-07-27,1
+C02458,Netherlands,45-54,Senior,69600,661,Partner,2024-10-14,1
+C02459,France,35-44,Family,63300,734,Referral,2021-05-04,1
+C02460,Luxembourg,25-34,Senior,17500,631,Referral,2025-03-23,1
+C02461,Germany,45-54,Mass Market,67100,742,Referral,2020-06-24,1
+C02462,Netherlands,55-64,Senior,62400,769,Branch,2025-12-03,0
+C02463,France,35-44,Senior,65800,731,Referral,2021-07-19,1
+C02464,Belgium,25-34,Mass Market,36000,674,Organic Web,2023-03-24,1
+C02465,France,25-34,Family,39400,611,Partner,2021-03-31,1
+C02466,France,25-34,Family,33100,595,Branch,2021-12-18,1
+C02467,Belgium,25-34,Family,51400,686,Partner,2024-02-05,1
+C02468,Belgium,35-44,Family,54800,704,Branch,2019-07-25,1
+C02469,Belgium,18-24,Mass Market,27600,701,Paid Search,2021-11-23,1
+C02470,Netherlands,35-44,Mass Market,64200,734,Referral,2022-06-04,1
+C02471,Belgium,55-64,Young Professional,77600,732,Organic Web,2019-01-05,1
+C02472,France,55-64,Mass Market,78900,680,Paid Search,2019-02-11,1
+C02473,Netherlands,55-64,Family,91700,777,Referral,2026-02-28,1
+C02474,Belgium,45-54,Young Professional,58100,725,Branch,2024-02-25,1
+C02475,Belgium,35-44,Mass Market,56900,715,Paid Search,2019-04-12,1
+C02476,Netherlands,45-54,Mass Market,76200,665,Partner,2021-07-04,0
+C02477,Netherlands,25-34,Mass Market,31100,692,Referral,2022-09-26,1
+C02478,Netherlands,45-54,Family,56400,658,Branch,2020-05-28,0
+C02479,Belgium,45-54,Mass Market,50500,667,Referral,2025-12-29,1
+C02480,Luxembourg,18-24,Mass Market,23900,698,Organic Web,2021-04-12,1
+C02481,Luxembourg,25-34,Mass Market,66300,679,Branch,2024-12-23,1
+C02482,France,25-34,Family,49600,712,Referral,2025-08-18,1
+C02483,France,25-34,Family,49600,716,Referral,2023-04-30,1
+C02484,Netherlands,35-44,Affluent,128100,666,Partner,2023-10-17,1
+C02485,Luxembourg,25-34,Young Professional,40200,568,Organic Web,2022-04-02,0
+C02486,Belgium,35-44,Mass Market,45400,677,Organic Web,2019-04-12,1
+C02487,France,55-64,Mass Market,64200,665,Organic Web,2024-01-13,1
+C02488,France,25-34,Mass Market,48100,762,Referral,2020-10-17,1
+C02489,Belgium,25-34,Mass Market,42900,770,Referral,2023-11-09,0
+C02490,Belgium,45-54,Family,50100,710,Paid Search,2019-12-31,1
+C02491,Belgium,25-34,Affluent,76600,640,Paid Search,2019-01-03,1
+C02492,Netherlands,25-34,Young Professional,46900,537,Referral,2023-04-05,1
+C02493,Germany,18-24,Affluent,35800,629,Branch,2025-12-24,1
+C02494,Germany,35-44,Mass Market,61000,716,Referral,2021-04-27,1
+C02495,Netherlands,18-24,Family,19200,662,Organic Web,2024-07-31,0
+C02496,Germany,25-34,Senior,28500,671,Branch,2022-01-03,1
+C02497,Netherlands,35-44,Mass Market,60000,596,Organic Web,2025-10-29,1
+C02498,Belgium,45-54,Mass Market,49200,652,Paid Search,2024-03-28,1
+C02499,Luxembourg,65+,Mass Market,39300,543,Organic Web,2025-11-07,1
+C02500,Germany,25-34,Young Professional,56500,747,Paid Search,2024-04-09,1
