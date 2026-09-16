@@ -1,0 +1,4 @@
+risk_group,aantal_leningen,aantal_defaults,default_rate,outstanding_credit_eur,avg_interest_rate_pct,default_rate_pct
+High Risk,84,0,0.0,1008091.4017944336,9.131904766673134,0.0
+Medium Risk,333,2,0.006006006006006006,3754698.6910858154,7.550510508162123,0.6006006006006006
+Low Risk,283,0,0.0,3074558.021255493,6.277879862397804,0.0

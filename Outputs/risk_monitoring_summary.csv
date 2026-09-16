@@ -1,0 +1,4 @@
+monitoring_level,customers,outstanding_credit_eur,defaults,suspicious_transactions,customer_pct
+High,2,13440.0595703125,2,0,0.08
+Medium,325,1255777.3021850586,0,65,13.0
+Normal,2173,6568130.752380371,0,0,86.92

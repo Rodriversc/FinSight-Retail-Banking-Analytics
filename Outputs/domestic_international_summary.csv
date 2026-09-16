@@ -1,0 +1,3 @@
+transaction_scope,transactions,suspicious_transactions,suspicious_rate,suspicious_rate_pct
+Domestic,9809,59,0.006014884289937812,0.6014884289937812
+International,191,6,0.031413612565445025,3.1413612565445024

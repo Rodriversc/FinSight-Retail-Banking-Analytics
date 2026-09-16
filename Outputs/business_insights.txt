@@ -1,0 +1,14 @@
+FinSight - Final Business Insights
+==================================================
+
+1. Transfer was de grootste uitgavencategorie met ongeveer €723,596.11 aan totale uitgaven.
+2. Het segment Affluent had het hoogste gemiddelde jaarinkomen: ongeveer €85,636.86.
+3. Senior had de hoogste digitale adoptie, met ongeveer 81.40% digitaal actieve klanten.
+4. De risicogroep 'Medium Risk' had de hoogste default rate: 0.60%.
+5. Het transactiekanaal 'Online' had de hoogste suspicious transaction rate: 2.03%.
+6. De drukste maand was August 2025 met 363 transacties.
+7. De totale portefeuille bevat €7,837,348.11 aan openstaand krediet.
+8. Over alle transacties heen bedroeg de suspicious transaction rate 0.65%.
+
+Analytical note:
+All data is synthetic. Correlatie does not imply causation.
